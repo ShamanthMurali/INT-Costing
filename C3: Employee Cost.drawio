@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-17T20:05:35.276Z" agent="5.0 (X11)" etag="tCp8TAovb80INWQnjMtb" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-17T20:12:56.468Z" agent="5.0 (X11)" etag="axezQTFfJRdrKrDU48wo" version="14.4.8" type="github">
   <diagram id="CyPvhByOn69fHsdpHqbr" name="Page-1">
-    <mxGraphModel dx="1241" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="856" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,11 +37,66 @@
         <mxCell id="h90uzLbG_IrZYUISlAX0-10" value="Indirect Labour" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="180" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="h90uzLbG_IrZYUISlAX0-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h90uzLbG_IrZYUISlAX0-13" target="h90uzLbG_IrZYUISlAX0-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="310" />
+              <mxPoint x="420" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="h90uzLbG_IrZYUISlAX0-13" value="&lt;div&gt;Labour who is directly involved in the production of the units&lt;/div&gt;e.g. machine operator etc." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="240" width="200" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="h90uzLbG_IrZYUISlAX0-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h90uzLbG_IrZYUISlAX0-14" target="h90uzLbG_IrZYUISlAX0-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="620" y="310" />
+              <mxPoint x="420" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="h90uzLbG_IrZYUISlAX0-14" value="Labour who is Indirectly involved in the production of the units&lt;br&gt;e.g. supervisor, manager." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="240" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="h90uzLbG_IrZYUISlAX0-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h90uzLbG_IrZYUISlAX0-17" target="h90uzLbG_IrZYUISlAX0-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h90uzLbG_IrZYUISlAX0-17" value="&lt;u&gt;&lt;b&gt;Idle time&lt;br&gt;&lt;/b&gt;&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="330" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h90uzLbG_IrZYUISlAX0-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h90uzLbG_IrZYUISlAX0-21" target="h90uzLbG_IrZYUISlAX0-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h90uzLbG_IrZYUISlAX0-21" value="there should be break other wise the labours wont work" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="390" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h90uzLbG_IrZYUISlAX0-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h90uzLbG_IrZYUISlAX0-23" target="h90uzLbG_IrZYUISlAX0-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h90uzLbG_IrZYUISlAX0-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h90uzLbG_IrZYUISlAX0-23" target="h90uzLbG_IrZYUISlAX0-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h90uzLbG_IrZYUISlAX0-23" value="&lt;u&gt;&lt;b&gt;Types of idle time&lt;br&gt;&lt;/b&gt;&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="450" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="h90uzLbG_IrZYUISlAX0-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h90uzLbG_IrZYUISlAX0-25" target="h90uzLbG_IrZYUISlAX0-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h90uzLbG_IrZYUISlAX0-25" value="Normal idle time" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="510" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h90uzLbG_IrZYUISlAX0-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h90uzLbG_IrZYUISlAX0-26" target="h90uzLbG_IrZYUISlAX0-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h90uzLbG_IrZYUISlAX0-26" value="Abnormal idle time" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="510" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h90uzLbG_IrZYUISlAX0-29" value="&lt;div&gt;usually breaks it must be given. it is bound to be wasted.&lt;/div&gt;&lt;div&gt;e.g. lunch break, tea break etc.&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="570" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="h90uzLbG_IrZYUISlAX0-31" value="&lt;div&gt;it is something unexpected that causes production to idle.&lt;/div&gt;&lt;div&gt;e.g. power cut, strike, lock down.&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="570" width="200" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
