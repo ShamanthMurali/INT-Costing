@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-17T20:12:56.468Z" agent="5.0 (X11)" etag="axezQTFfJRdrKrDU48wo" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-17T20:15:38.923Z" agent="5.0 (X11)" etag="S3RMP9PZ1Q3gHnt8SaRm" version="14.4.8" type="github">
   <diagram id="CyPvhByOn69fHsdpHqbr" name="Page-1">
     <mxGraphModel dx="856" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -92,11 +92,41 @@
         <mxCell id="h90uzLbG_IrZYUISlAX0-26" value="Abnormal idle time" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="510" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="h90uzLbG_IrZYUISlAX0-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h90uzLbG_IrZYUISlAX0-29" target="h90uzLbG_IrZYUISlAX0-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="h90uzLbG_IrZYUISlAX0-29" value="&lt;div&gt;usually breaks it must be given. it is bound to be wasted.&lt;/div&gt;&lt;div&gt;e.g. lunch break, tea break etc.&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="570" width="200" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="h90uzLbG_IrZYUISlAX0-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h90uzLbG_IrZYUISlAX0-31" target="h90uzLbG_IrZYUISlAX0-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="h90uzLbG_IrZYUISlAX0-31" value="&lt;div&gt;it is something unexpected that causes production to idle.&lt;/div&gt;&lt;div&gt;e.g. power cut, strike, lock down.&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="440" y="570" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="h90uzLbG_IrZYUISlAX0-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h90uzLbG_IrZYUISlAX0-33" target="h90uzLbG_IrZYUISlAX0-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h90uzLbG_IrZYUISlAX0-33" value="Time allowed" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="660" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h90uzLbG_IrZYUISlAX0-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h90uzLbG_IrZYUISlAX0-37" target="h90uzLbG_IrZYUISlAX0-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h90uzLbG_IrZYUISlAX0-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h90uzLbG_IrZYUISlAX0-37" target="h90uzLbG_IrZYUISlAX0-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h90uzLbG_IrZYUISlAX0-37" value="its is the maximum duration of time allowed to product 1 unit" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="720" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h90uzLbG_IrZYUISlAX0-41" value="Normal idle time" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="510" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h90uzLbG_IrZYUISlAX0-42" value="Normal idle time" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="800" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h90uzLbG_IrZYUISlAX0-43" value="Normal idle time" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="800" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
