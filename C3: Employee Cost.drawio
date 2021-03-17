@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-17T22:39:25.238Z" agent="5.0 (X11)" etag="pgV_9gfvkO5OTmghhGDd" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-17T22:40:13.720Z" agent="5.0 (X11)" etag="2YRAhv2Vtm5w6dJWAC7U" version="14.4.8" type="github">
   <diagram id="CyPvhByOn69fHsdpHqbr" name="Page-1">
-    <mxGraphModel dx="1706" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2091" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -266,48 +266,48 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h90uzLbG_IrZYUISlAX0-98" value="Time rate system" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="1960" width="120" height="40" as="geometry" />
+          <mxGeometry x="160" y="1960" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="h90uzLbG_IrZYUISlAX0-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h90uzLbG_IrZYUISlAX0-99" target="h90uzLbG_IrZYUISlAX0-104">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h90uzLbG_IrZYUISlAX0-99" value="Piece rate system" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="569" y="1960" width="120" height="40" as="geometry" />
+          <mxGeometry x="560" y="1960" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="h90uzLbG_IrZYUISlAX0-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h90uzLbG_IrZYUISlAX0-102" target="h90uzLbG_IrZYUISlAX0-106">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h90uzLbG_IrZYUISlAX0-102" value="it is based on number of hours worked" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="90" y="2020" width="280" height="20" as="geometry" />
+          <mxGeometry x="80" y="2020" width="280" height="20" as="geometry" />
         </mxCell>
         <mxCell id="h90uzLbG_IrZYUISlAX0-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h90uzLbG_IrZYUISlAX0-104" target="h90uzLbG_IrZYUISlAX0-110">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h90uzLbG_IrZYUISlAX0-104" value="it is based on output/production" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="489" y="2020" width="280" height="20" as="geometry" />
+          <mxGeometry x="480" y="2020" width="280" height="20" as="geometry" />
         </mxCell>
         <mxCell id="h90uzLbG_IrZYUISlAX0-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="h90uzLbG_IrZYUISlAX0-106" target="h90uzLbG_IrZYUISlAX0-114">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h90uzLbG_IrZYUISlAX0-106" value="basic wages = time taken * rate per hour" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="105" y="2060" width="250" height="30" as="geometry" />
+          <mxGeometry x="95" y="2060" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="h90uzLbG_IrZYUISlAX0-145" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h90uzLbG_IrZYUISlAX0-108" target="h90uzLbG_IrZYUISlAX0-130">
+        <mxCell id="h90uzLbG_IrZYUISlAX0-147" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h90uzLbG_IrZYUISlAX0-108" target="h90uzLbG_IrZYUISlAX0-130">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="629" y="2560" />
-              <mxPoint x="390" y="2560" />
+              <mxPoint x="620" y="2560" />
+              <mxPoint x="380" y="2560" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="h90uzLbG_IrZYUISlAX0-108" value="wages = actual production * rate per unit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="504" y="2160" width="250" height="30" as="geometry" />
+          <mxGeometry x="495" y="2160" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h90uzLbG_IrZYUISlAX0-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="h90uzLbG_IrZYUISlAX0-110" target="h90uzLbG_IrZYUISlAX0-108">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h90uzLbG_IrZYUISlAX0-110" value="&lt;div&gt;&lt;u&gt;rate per unit&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;`\text{rate per hour}/\text{standard output per hour}`&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="489" y="2060" width="280" height="80" as="geometry" />
+          <mxGeometry x="480" y="2060" width="280" height="80" as="geometry" />
         </mxCell>
         <mxCell id="h90uzLbG_IrZYUISlAX0-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h90uzLbG_IrZYUISlAX0-114" target="h90uzLbG_IrZYUISlAX0-117">
           <mxGeometry relative="1" as="geometry" />
@@ -316,51 +316,51 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h90uzLbG_IrZYUISlAX0-114" value="&lt;u&gt;&lt;b&gt;Bonus&lt;/b&gt;&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="2160" width="120" height="40" as="geometry" />
+          <mxGeometry x="160" y="2160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="h90uzLbG_IrZYUISlAX0-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h90uzLbG_IrZYUISlAX0-116" target="h90uzLbG_IrZYUISlAX0-122">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h90uzLbG_IrZYUISlAX0-116" value="Halsey system" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="2240" width="120" height="40" as="geometry" />
+          <mxGeometry y="2240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="h90uzLbG_IrZYUISlAX0-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h90uzLbG_IrZYUISlAX0-117" target="h90uzLbG_IrZYUISlAX0-125">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h90uzLbG_IrZYUISlAX0-117" value="Rowan system" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="2240" width="120" height="40" as="geometry" />
+          <mxGeometry x="320" y="2240" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="h90uzLbG_IrZYUISlAX0-141" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h90uzLbG_IrZYUISlAX0-122" target="h90uzLbG_IrZYUISlAX0-130">
+        <mxCell id="h90uzLbG_IrZYUISlAX0-148" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="h90uzLbG_IrZYUISlAX0-122" target="h90uzLbG_IrZYUISlAX0-130">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="70" y="2560" />
-              <mxPoint x="388" y="2560" />
+              <mxPoint x="60" y="2560" />
+              <mxPoint x="380" y="2560" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="h90uzLbG_IrZYUISlAX0-122" value="&lt;div&gt;&lt;u&gt;Bonus =&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;`50%*\text{Time saved}*\text{Rate/Hour}`&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-70" y="2310" width="280" height="80" as="geometry" />
+          <mxGeometry x="-80" y="2310" width="280" height="80" as="geometry" />
         </mxCell>
         <mxCell id="h90uzLbG_IrZYUISlAX0-142" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h90uzLbG_IrZYUISlAX0-124" target="h90uzLbG_IrZYUISlAX0-130">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h90uzLbG_IrZYUISlAX0-124" value="&lt;div&gt;&lt;u&gt;Bonus =&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;`\text{Time saved}/\text{Time allowed}*\text{Basic wages}`&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="2420" width="280" height="80" as="geometry" />
+          <mxGeometry x="240" y="2420" width="280" height="80" as="geometry" />
         </mxCell>
         <mxCell id="h90uzLbG_IrZYUISlAX0-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h90uzLbG_IrZYUISlAX0-125" target="h90uzLbG_IrZYUISlAX0-127">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h90uzLbG_IrZYUISlAX0-125" value="time allowed = No. of units produced * standard time" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="239.5" y="2300" width="301" height="40" as="geometry" />
+          <mxGeometry x="229.5" y="2300" width="301" height="40" as="geometry" />
         </mxCell>
         <mxCell id="h90uzLbG_IrZYUISlAX0-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h90uzLbG_IrZYUISlAX0-127" target="h90uzLbG_IrZYUISlAX0-124">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h90uzLbG_IrZYUISlAX0-127" value="time saved = excess units * standard time" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="239.5" y="2360" width="301" height="40" as="geometry" />
+          <mxGeometry x="229.5" y="2360" width="301" height="40" as="geometry" />
         </mxCell>
         <mxCell id="h90uzLbG_IrZYUISlAX0-130" value="`\text{Factory cost} =\text{Material cost} + \text{labour} + \text{factory overhead}`" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="172.5" y="2600" width="435" height="40" as="geometry" />
+          <mxGeometry x="162.5" y="2600" width="435" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
