@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-17T22:26:26.862Z" agent="5.0 (X11)" etag="Y9jaqDWgBRgqti1d1MnM" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-17T22:28:51.771Z" agent="5.0 (X11)" etag="MEnz9sQunTdjl9xJ4rLZ" version="14.4.8" type="github">
   <diagram id="CyPvhByOn69fHsdpHqbr" name="Page-1">
     <mxGraphModel dx="709" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -280,17 +280,41 @@
         <mxCell id="h90uzLbG_IrZYUISlAX0-102" value="it is based on number of hours worked" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="2020" width="280" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="h90uzLbG_IrZYUISlAX0-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h90uzLbG_IrZYUISlAX0-104" target="h90uzLbG_IrZYUISlAX0-108">
+        <mxCell id="h90uzLbG_IrZYUISlAX0-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h90uzLbG_IrZYUISlAX0-104" target="h90uzLbG_IrZYUISlAX0-110">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h90uzLbG_IrZYUISlAX0-104" value="it is based on output/production" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="439" y="2020" width="280" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="h90uzLbG_IrZYUISlAX0-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="h90uzLbG_IrZYUISlAX0-106" target="h90uzLbG_IrZYUISlAX0-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="h90uzLbG_IrZYUISlAX0-106" value="basic wages = time taken * rate per hour" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="135" y="2060" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h90uzLbG_IrZYUISlAX0-108" value="wages = actual production * rate per unit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="454" y="2060" width="250" height="30" as="geometry" />
+          <mxGeometry x="454" y="2160" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h90uzLbG_IrZYUISlAX0-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="h90uzLbG_IrZYUISlAX0-110" target="h90uzLbG_IrZYUISlAX0-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h90uzLbG_IrZYUISlAX0-110" value="&lt;div&gt;&lt;u&gt;rate per unit&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;`\text{rate per hour}/\text{standard output per hour}`&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="439" y="2060" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="h90uzLbG_IrZYUISlAX0-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h90uzLbG_IrZYUISlAX0-114" target="h90uzLbG_IrZYUISlAX0-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h90uzLbG_IrZYUISlAX0-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h90uzLbG_IrZYUISlAX0-114" target="h90uzLbG_IrZYUISlAX0-116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h90uzLbG_IrZYUISlAX0-114" value="&lt;u&gt;&lt;b&gt;Bonus&lt;/b&gt;&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="2160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h90uzLbG_IrZYUISlAX0-116" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="2240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h90uzLbG_IrZYUISlAX0-117" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="2240" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
