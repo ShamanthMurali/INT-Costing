@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-17T22:11:08.991Z" agent="5.0 (X11)" etag="aNoi2i6GAPeVnQ-6ap98" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-17T22:11:40.045Z" agent="5.0 (X11)" etag="sOsnSi3Xd-AjgA16l0d7" version="14.4.8" type="github">
   <diagram id="CyPvhByOn69fHsdpHqbr" name="Page-1">
-    <mxGraphModel dx="856" dy="405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="856" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -174,7 +174,7 @@
         <mxCell id="h90uzLbG_IrZYUISlAX0-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h90uzLbG_IrZYUISlAX0-66" target="h90uzLbG_IrZYUISlAX0-70">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h90uzLbG_IrZYUISlAX0-66" value="savings" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="h90uzLbG_IrZYUISlAX0-66" value="Savings" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="1140" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="h90uzLbG_IrZYUISlAX0-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h90uzLbG_IrZYUISlAX0-69" target="h90uzLbG_IrZYUISlAX0-73">
@@ -190,10 +190,10 @@
           <mxGeometry x="480" y="1220" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="h90uzLbG_IrZYUISlAX0-73" value="the actual time take to produce x units" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="200" y="1280" width="200" height="30" as="geometry" />
+          <mxGeometry x="200" y="1280" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="h90uzLbG_IrZYUISlAX0-75" value="the actual time take to produce x units" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="440" y="1280" width="200" height="30" as="geometry" />
+          <mxGeometry x="440" y="1280" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
