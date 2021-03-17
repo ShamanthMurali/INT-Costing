@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-17T20:15:38.923Z" agent="5.0 (X11)" etag="S3RMP9PZ1Q3gHnt8SaRm" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-17T22:07:55.669Z" agent="5.0 (X11)" etag="4b3hk7RE7_yI5OjTFfCI" version="14.4.8" type="github">
   <diagram id="CyPvhByOn69fHsdpHqbr" name="Page-1">
-    <mxGraphModel dx="856" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="856" dy="405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -122,11 +122,56 @@
         <mxCell id="h90uzLbG_IrZYUISlAX0-41" value="Normal idle time" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="510" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="h90uzLbG_IrZYUISlAX0-42" value="Normal idle time" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="h90uzLbG_IrZYUISlAX0-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h90uzLbG_IrZYUISlAX0-42" target="h90uzLbG_IrZYUISlAX0-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h90uzLbG_IrZYUISlAX0-42" value="Standard time" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="800" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="h90uzLbG_IrZYUISlAX0-43" value="Normal idle time" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="h90uzLbG_IrZYUISlAX0-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h90uzLbG_IrZYUISlAX0-43" target="h90uzLbG_IrZYUISlAX0-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h90uzLbG_IrZYUISlAX0-43" value="standard output" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="800" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h90uzLbG_IrZYUISlAX0-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h90uzLbG_IrZYUISlAX0-46" target="h90uzLbG_IrZYUISlAX0-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h90uzLbG_IrZYUISlAX0-46" value="the mutually agreed fixed time to produce x number of units" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="860" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="h90uzLbG_IrZYUISlAX0-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h90uzLbG_IrZYUISlAX0-48" target="h90uzLbG_IrZYUISlAX0-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h90uzLbG_IrZYUISlAX0-48" value="the mutually agreed fixed number of unit to be produced in x number of minutes/hours" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="860" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="h90uzLbG_IrZYUISlAX0-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h90uzLbG_IrZYUISlAX0-50" target="h90uzLbG_IrZYUISlAX0-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h90uzLbG_IrZYUISlAX0-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h90uzLbG_IrZYUISlAX0-50" target="h90uzLbG_IrZYUISlAX0-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h90uzLbG_IrZYUISlAX0-50" value="Time taken" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="950" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h90uzLbG_IrZYUISlAX0-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h90uzLbG_IrZYUISlAX0-53" target="h90uzLbG_IrZYUISlAX0-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h90uzLbG_IrZYUISlAX0-53" value="Actual time" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1030" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h90uzLbG_IrZYUISlAX0-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h90uzLbG_IrZYUISlAX0-54" target="h90uzLbG_IrZYUISlAX0-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h90uzLbG_IrZYUISlAX0-54" value="Actual output" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1030" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h90uzLbG_IrZYUISlAX0-60" value="the actual time take to produce x units" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1090" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h90uzLbG_IrZYUISlAX0-62" value="the actual output in y minutes/hours" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1090" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
