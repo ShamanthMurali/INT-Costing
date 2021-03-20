@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-20T05:28:34.175Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="6ZSfbnXGCXNF6wtDsbr9" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-20T05:30:05.842Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="pMRvSyMG6DhWEvRdxEjy" version="14.4.8" type="github">
   <diagram id="CyPvhByOn69fHsdpHqbr" name="Page-1">
     <mxGraphModel dx="2106" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -345,7 +345,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h90uzLbG_IrZYUISlAX0-124" value="&lt;div&gt;&lt;u&gt;Bonus =&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;`\text{Time saved}/\text{Time allowed}*\text{Basic wages}`&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="240" y="2420" width="280" height="80" as="geometry" />
+          <mxGeometry x="280" y="2420" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="h90uzLbG_IrZYUISlAX0-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="h90uzLbG_IrZYUISlAX0-125" target="h90uzLbG_IrZYUISlAX0-127" edge="1">
           <mxGeometry relative="1" as="geometry" />
