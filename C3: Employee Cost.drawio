@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-20T05:28:20.104Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="X7-vn251FqaDTKDXX9Ck" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-20T05:28:34.175Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="6ZSfbnXGCXNF6wtDsbr9" version="14.4.8" type="github">
   <diagram id="CyPvhByOn69fHsdpHqbr" name="Page-1">
     <mxGraphModel dx="2106" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -411,7 +411,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4Gh-3FB3gp2eRBAiM5g2-11" value="Flux method" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680.5" y="2950" width="120" height="40" as="geometry" />
+          <mxGeometry x="680.5" y="2960" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4Gh-3FB3gp2eRBAiM5g2-15" value="`\text{number of workers seperated}/\text{average number of workeers in a year}*100`" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-50.5" y="3020" width="280" height="80" as="geometry" />
