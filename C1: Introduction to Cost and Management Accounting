@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-06T22:46:39.090Z" agent="5.0 (X11)" etag="yBtb-5IKrlh1siqDVaCT" version="14.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-06T22:48:23.107Z" agent="5.0 (X11)" etag="8Ni8SsEyrhbnuCcM7Buf" version="14.5.7" type="github">
   <diagram id="uBge3yHF93t4JPRWnESB" name="Page-1">
     <mxGraphModel dx="1261" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -401,26 +401,29 @@
         <mxCell id="HFXZI4QLUxznQSzJN0-L-49" value="&lt;div&gt;they not directly related to production&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;they are usually fixed in nature&lt;/div&gt;&lt;div&gt;e.g. rent, salaries&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HFXZI4QLUxznQSzJN0-L-26">
           <mxGeometry y="40" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="HFXZI4QLUxznQSzJN0-L-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HFXZI4QLUxznQSzJN0-L-34" target="HFXZI4QLUxznQSzJN0-L-38">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HFXZI4QLUxznQSzJN0-L-34" target="HFXZI4QLUxznQSzJN0-L-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HFXZI4QLUxznQSzJN0-L-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HFXZI4QLUxznQSzJN0-L-34" target="HFXZI4QLUxznQSzJN0-L-40">
+        <mxCell id="HFXZI4QLUxznQSzJN0-L-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HFXZI4QLUxznQSzJN0-L-34" target="HFXZI4QLUxznQSzJN0-L-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HFXZI4QLUxznQSzJN0-L-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HFXZI4QLUxznQSzJN0-L-34" target="HFXZI4QLUxznQSzJN0-L-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HFXZI4QLUxznQSzJN0-L-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HFXZI4QLUxznQSzJN0-L-34" target="HFXZI4QLUxznQSzJN0-L-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-34" value="Overheads" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="3360" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-38" value="Administration Overheads" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="3420" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="3440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-39" value="Production Overheads" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="3420" width="120" height="60" as="geometry" />
+          <mxGeometry x="260" y="3440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HFXZI4QLUxznQSzJN0-L-40" value="&lt;div&gt;Selling and Distribution&lt;/div&gt;&lt;div&gt;Overheads&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="3420" width="120" height="60" as="geometry" />
+        <mxCell id="HFXZI4QLUxznQSzJN0-L-40" value="&lt;div&gt;Selling&lt;br&gt;&lt;/div&gt;&lt;div&gt;Overheads&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="3440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-25" value="&lt;div&gt;Direct&lt;/div&gt;&lt;div&gt; Expenses&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="610" y="3240" width="120" height="40" as="geometry">
@@ -429,6 +432,9 @@
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-48" value="&lt;div&gt;All expenses other than direct material or direct labour&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;they are directly related to production.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;if production increases the expense increases.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HFXZI4QLUxznQSzJN0-L-25">
           <mxGeometry y="40" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="HFXZI4QLUxznQSzJN0-L-50" value="&lt;div&gt;Distribution&lt;/div&gt;&lt;div&gt;Overheads&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="3440" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
