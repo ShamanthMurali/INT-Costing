@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-06T23:11:44.711Z" agent="5.0 (X11)" etag="BhoDRzD4sEjVG-Cd7vGt" version="14.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-06T23:13:10.211Z" agent="5.0 (X11)" etag="heF0v8CHfaM891t8SDeA" version="14.5.7" type="github">
   <diagram id="uBge3yHF93t4JPRWnESB" name="Page-1">
-    <mxGraphModel dx="2651" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2334" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -313,7 +313,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-14" value="&lt;div&gt;By Nature or&lt;/div&gt;&lt;div&gt; Element&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-199.52999999999997" y="3360" width="120" height="40" as="geometry" />
+          <mxGeometry x="-139.52999999999997" y="3160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HFXZI4QLUxznQSzJN0-L-15" target="HFXZI4QLUxznQSzJN0-L-24">
           <mxGeometry relative="1" as="geometry" />
@@ -322,7 +322,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-15" value="Employee (Labour) Cost" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-199.52999999999997" y="3440" width="120" height="40" as="geometry" />
+          <mxGeometry x="-139.52999999999997" y="3240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HFXZI4QLUxznQSzJN0-L-16" target="HFXZI4QLUxznQSzJN0-L-19">
           <mxGeometry relative="1" as="geometry" />
@@ -331,7 +331,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-16" value="Material Cost" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-480" y="3440" width="120" height="40" as="geometry" />
+          <mxGeometry x="-420" y="3240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HFXZI4QLUxznQSzJN0-L-17" target="HFXZI4QLUxznQSzJN0-L-25">
           <mxGeometry relative="1" as="geometry" />
@@ -340,18 +340,18 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-17" value="Other Expenses" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="3440" width="120" height="40" as="geometry" />
+          <mxGeometry x="140" y="3240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HFXZI4QLUxznQSzJN0-L-18" target="HFXZI4QLUxznQSzJN0-L-34">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-350" y="3600" />
-              <mxPoint x="-70" y="3600" />
+              <mxPoint x="-290" y="3400" />
+              <mxPoint x="-10" y="3400" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-18" value="&lt;div&gt;Indirect &lt;br&gt;&lt;/div&gt;&lt;div&gt;Material Cost&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="-410" y="3520" width="110" height="40" as="geometry">
+          <mxGeometry x="-350" y="3320" width="110" height="40" as="geometry">
             <mxRectangle x="190" y="3240" width="170" height="120" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -359,7 +359,7 @@
           <mxGeometry y="40" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-19" value="&lt;div&gt;Direct &lt;br&gt;&lt;/div&gt;&lt;div&gt;Material Cost&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="-550" y="3520" width="120" height="40" as="geometry">
+          <mxGeometry x="-490" y="3320" width="120" height="40" as="geometry">
             <mxRectangle x="50" y="3240" width="190" height="100" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -370,7 +370,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-23" value="&amp;nbsp;&amp;nbsp;&amp;nbsp; Indirect Employee&lt;div&gt; (Labour) Cost&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="-130" y="3520" width="120" height="40" as="geometry">
+          <mxGeometry x="-70" y="3320" width="120" height="40" as="geometry">
             <mxRectangle x="470" y="3240" width="170" height="100" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -378,7 +378,7 @@
           <mxGeometry y="40" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-24" value="&lt;div&gt;Direct Employee&lt;/div&gt;&lt;div&gt; (Labour) Cost&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="-280" y="3520" width="130" height="40" as="geometry">
+          <mxGeometry x="-220" y="3320" width="130" height="40" as="geometry">
             <mxRectangle x="330" y="3240" width="160" height="100" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -388,13 +388,13 @@
         <mxCell id="HFXZI4QLUxznQSzJN0-L-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HFXZI4QLUxznQSzJN0-L-26" target="HFXZI4QLUxznQSzJN0-L-34">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="210" y="3600" />
-              <mxPoint x="-70" y="3600" />
+              <mxPoint x="270" y="3400" />
+              <mxPoint x="-10" y="3400" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-26" value="&lt;div&gt;Indirect&lt;/div&gt;&lt;div&gt; Expenses&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="150" y="3520" width="120" height="40" as="geometry">
+          <mxGeometry x="210.00000000000003" y="3320" width="120" height="40" as="geometry">
             <mxRectangle x="750" y="3240" width="180" height="130" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -414,19 +414,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-34" value="Overheads" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-130" y="3640" width="120" height="40" as="geometry" />
+          <mxGeometry x="-70" y="3440" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-38" value="Administration Overheads" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="3720" width="120" height="60" as="geometry" />
+          <mxGeometry x="-140" y="3520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-39" value="Production Overheads" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-340" y="3720" width="120" height="60" as="geometry" />
+          <mxGeometry x="-280" y="3520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-40" value="&lt;div&gt;Selling&lt;br&gt;&lt;/div&gt;&lt;div&gt;Overheads&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="3720" width="120" height="60" as="geometry" />
+          <mxGeometry y="3520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-25" value="&lt;div&gt;Direct&lt;/div&gt;&lt;div&gt; Expenses&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="10" y="3520" width="120" height="40" as="geometry">
+          <mxGeometry x="70" y="3320" width="120" height="40" as="geometry">
             <mxRectangle x="610" y="3240" width="200" height="170" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -434,19 +434,37 @@
           <mxGeometry y="40" width="200" height="130" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-50" value="&lt;div&gt;Distribution&lt;/div&gt;&lt;div&gt;Overheads&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="3720" width="120" height="60" as="geometry" />
+          <mxGeometry x="140" y="3520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-54" value="Indirect&amp;nbsp; expenses&amp;nbsp; which&amp;nbsp; are&amp;nbsp; incurred&amp;nbsp; in&amp;nbsp; the factory and for the running of the factory. E.g.: rent, power etc." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-340" y="3790" width="120" height="100" as="geometry" />
+          <mxGeometry x="-280" y="3590" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-55" value="Indirect&amp;nbsp; expenses&amp;nbsp; related&amp;nbsp; to&amp;nbsp; management&amp;nbsp; and&amp;nbsp; administration of business. E.g.: office rent, lighting, telephone etc. " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-199.52999999999997" y="3790" width="120" height="100" as="geometry" />
+          <mxGeometry x="-139.52999999999997" y="3590" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-56" value="Indirect expenses&amp;nbsp; incurred for marketing of a commodity. E.g.: Advertisement expenses, commission to sales persons etc." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="3790" width="120" height="100" as="geometry" />
+          <mxGeometry y="3590" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-57" value="Indirect&amp;nbsp; expenses incurred&amp;nbsp; for&amp;nbsp; dispatch&amp;nbsp; of&amp;nbsp; the&amp;nbsp; goods E.g.: warehouse charges, packing(secondary) and loading charges" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="80" y="3790" width="120" height="100" as="geometry" />
+          <mxGeometry x="140" y="3590" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="HFXZI4QLUxznQSzJN0-L-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HFXZI4QLUxznQSzJN0-L-58" target="HFXZI4QLUxznQSzJN0-L-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HFXZI4QLUxznQSzJN0-L-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HFXZI4QLUxznQSzJN0-L-58" target="HFXZI4QLUxznQSzJN0-L-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HFXZI4QLUxznQSzJN0-L-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HFXZI4QLUxznQSzJN0-L-58" target="HFXZI4QLUxznQSzJN0-L-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HFXZI4QLUxznQSzJN0-L-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HFXZI4QLUxznQSzJN0-L-58" target="HFXZI4QLUxznQSzJN0-L-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HFXZI4QLUxznQSzJN0-L-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HFXZI4QLUxznQSzJN0-L-58" target="HFXZI4QLUxznQSzJN0-L-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HFXZI4QLUxznQSzJN0-L-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HFXZI4QLUxznQSzJN0-L-58" target="HFXZI4QLUxznQSzJN0-L-64">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-58" value="&lt;div&gt;Classification &lt;br&gt;&lt;/div&gt;&lt;div&gt;of costs&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="400" y="3080" width="120" height="40" as="geometry" />
@@ -455,7 +473,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-59" value="By Functions " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="3360" width="120" height="40" as="geometry" />
+          <mxGeometry x="400" y="3160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HFXZI4QLUxznQSzJN0-L-60" target="HFXZI4QLUxznQSzJN0-L-67">
           <mxGeometry relative="1" as="geometry" />
@@ -467,160 +485,160 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-60" value="By Variability or Behaviour" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600.46" y="3360" width="120" height="40" as="geometry" />
+          <mxGeometry x="660.46" y="3160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HFXZI4QLUxznQSzJN0-L-61" target="HFXZI4QLUxznQSzJN0-L-73">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-61" value="By Controllability" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="810" y="3360" width="120" height="40" as="geometry" />
+          <mxGeometry x="870" y="3160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HFXZI4QLUxznQSzJN0-L-63" target="HFXZI4QLUxznQSzJN0-L-77">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-63" value="By Normality" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="3360" width="120" height="40" as="geometry" />
+          <mxGeometry x="1020" y="3160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HFXZI4QLUxznQSzJN0-L-64" target="HFXZI4QLUxznQSzJN0-L-81" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-64" value="By Costs for Managerial Decision Making" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="1120" y="3360" width="120" height="50" as="geometry" />
+          <mxGeometry x="1180" y="3160" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-65" value="&lt;div&gt;(i) Direct Material Cost&lt;/div&gt;&lt;div&gt;(ii) Direct Employee (labour) Cost&lt;/div&gt;&lt;div&gt;(iii)Direct Expenses&lt;/div&gt;&lt;div&gt;(iv)Production/ Manufacturing Overheads &lt;br&gt;&lt;/div&gt;&lt;div&gt;(v) Administration Overheads&lt;/div&gt;&lt;div&gt; (vi)&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Selling Overheads&lt;/div&gt;&lt;div&gt; (vii)&amp;nbsp;&amp;nbsp; Distribution Overheads&lt;/div&gt;&lt;div&gt;(viii)&amp;nbsp;&amp;nbsp; Research and Development costs etc.&amp;nbsp; &lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;" vertex="1" parent="1">
-          <mxGeometry x="290" y="3420" width="220" height="150" as="geometry" />
+          <mxGeometry x="350" y="3220" width="220" height="150" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-67" value="&lt;div&gt;Variable&lt;/div&gt;&lt;div&gt;Costs&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620.6199999999999" y="3440" width="79.69" height="40" as="geometry" />
+          <mxGeometry x="680.6199999999999" y="3240" width="79.69" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-68" value="&lt;div&gt;Semi&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;variable&lt;/div&gt;&lt;div&gt;costs&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="710.31" y="3440" width="79.69" height="50" as="geometry" />
+          <mxGeometry x="770.31" y="3240" width="79.69" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-69" value="&lt;div&gt;Fixed&lt;/div&gt;&lt;div&gt;costs&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530.4699999999999" y="3440" width="79.69" height="40" as="geometry" />
+          <mxGeometry x="590.4699999999999" y="3240" width="79.69" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HFXZI4QLUxznQSzJN0-L-73" target="HFXZI4QLUxznQSzJN0-L-74">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-73" value="&lt;div&gt;Controllable&lt;/div&gt;&lt;div&gt;Costs&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="815" y="3420" width="110" height="40" as="geometry" />
+          <mxGeometry x="875" y="3220" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-74" value="Uncontrollable Costs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="815" y="3480" width="110" height="40" as="geometry" />
+          <mxGeometry x="875" y="3280" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HFXZI4QLUxznQSzJN0-L-77" target="HFXZI4QLUxznQSzJN0-L-78">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-77" value="Normal&amp;nbsp; Cost" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="3420" width="120" height="40" as="geometry" />
+          <mxGeometry x="1020" y="3220" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-78" value="Abnormal Cost" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="3480" width="120" height="40" as="geometry" />
+          <mxGeometry x="1020" y="3280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HFXZI4QLUxznQSzJN0-L-81" target="HFXZI4QLUxznQSzJN0-L-82" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-81" value="Pre-determined Cost" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="1120" y="3430" width="120" height="40" as="geometry" />
+          <mxGeometry x="1180" y="3230" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HFXZI4QLUxznQSzJN0-L-82" target="HFXZI4QLUxznQSzJN0-L-83" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-82" value="Standard&amp;nbsp;&amp;nbsp; Cost" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="1120" y="3490" width="120" height="40" as="geometry" />
+          <mxGeometry x="1180" y="3290" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HFXZI4QLUxznQSzJN0-L-83" target="HFXZI4QLUxznQSzJN0-L-84" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-83" value="Marginal&amp;nbsp; Cost" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="1120" y="3550" width="120" height="40" as="geometry" />
+          <mxGeometry x="1180" y="3350" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HFXZI4QLUxznQSzJN0-L-84" target="HFXZI4QLUxznQSzJN0-L-85" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-84" value="Estimated&amp;nbsp; Cost" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="1120" y="3610" width="120" height="40" as="geometry" />
+          <mxGeometry x="1180" y="3410" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HFXZI4QLUxznQSzJN0-L-85" target="HFXZI4QLUxznQSzJN0-L-86" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-85" value="Differential Cost" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="1120" y="3670" width="120" height="40" as="geometry" />
+          <mxGeometry x="1180" y="3470" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HFXZI4QLUxznQSzJN0-L-86" target="HFXZI4QLUxznQSzJN0-L-87" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-86" value="Imputed&amp;nbsp; Costs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="1120" y="3730" width="120" height="40" as="geometry" />
+          <mxGeometry x="1180" y="3530" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HFXZI4QLUxznQSzJN0-L-87" target="HFXZI4QLUxznQSzJN0-L-88" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-87" value="Capitalized Costs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="1120" y="3790" width="120" height="40" as="geometry" />
+          <mxGeometry x="1180" y="3590" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HFXZI4QLUxznQSzJN0-L-88" target="HFXZI4QLUxznQSzJN0-L-89" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-88" value="Product Costs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="1120" y="3850" width="120" height="40" as="geometry" />
+          <mxGeometry x="1180" y="3650" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HFXZI4QLUxznQSzJN0-L-89" target="HFXZI4QLUxznQSzJN0-L-90" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-89" value="Opportunity Cost" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="1120" y="3910" width="120" height="40" as="geometry" />
+          <mxGeometry x="1180" y="3710" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HFXZI4QLUxznQSzJN0-L-90" target="HFXZI4QLUxznQSzJN0-L-91" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-90" value="Out-of-pocket&amp;nbsp; Cost" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="1120" y="3970" width="120" height="40" as="geometry" />
+          <mxGeometry x="1180" y="3770" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HFXZI4QLUxznQSzJN0-L-91" target="HFXZI4QLUxznQSzJN0-L-93" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-91" value="Shut&amp;nbsp; down&amp;nbsp; Costs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="1120" y="4030" width="120" height="40" as="geometry" />
+          <mxGeometry x="1180" y="3830" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HFXZI4QLUxznQSzJN0-L-92" target="HFXZI4QLUxznQSzJN0-L-94" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-92" value="Absolute Cost" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="1120" y="4150" width="120" height="40" as="geometry" />
+          <mxGeometry x="1180" y="3950" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HFXZI4QLUxznQSzJN0-L-93" target="HFXZI4QLUxznQSzJN0-L-92" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-93" value="Sunk&amp;nbsp; Costs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="1120" y="4090" width="120" height="40" as="geometry" />
+          <mxGeometry x="1180" y="3890" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HFXZI4QLUxznQSzJN0-L-94" target="HFXZI4QLUxznQSzJN0-L-95" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-94" value="Discretionary&amp;nbsp; Costs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="1120" y="4210" width="120" height="40" as="geometry" />
+          <mxGeometry x="1180" y="4010" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HFXZI4QLUxznQSzJN0-L-95" target="HFXZI4QLUxznQSzJN0-L-96" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-95" value="Period Costs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="1120" y="4270" width="120" height="40" as="geometry" />
+          <mxGeometry x="1180" y="4070" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HFXZI4QLUxznQSzJN0-L-96" target="HFXZI4QLUxznQSzJN0-L-97" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-96" value="Engineered Costs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="1120" y="4330" width="120" height="40" as="geometry" />
+          <mxGeometry x="1180" y="4130" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HFXZI4QLUxznQSzJN0-L-97" target="HFXZI4QLUxznQSzJN0-L-98" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-97" value="Explicit Costs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="1120" y="4390" width="120" height="40" as="geometry" />
+          <mxGeometry x="1180" y="4190" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-98" value="Implicit Costs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="1120" y="4450" width="120" height="40" as="geometry" />
+          <mxGeometry x="1180" y="4250" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
