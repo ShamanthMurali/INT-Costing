@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-06T22:48:23.107Z" agent="5.0 (X11)" etag="8Ni8SsEyrhbnuCcM7Buf" version="14.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-06T22:55:21.901Z" agent="5.0 (X11)" etag="QJ2_kfbQwuAe6X6g2GfT" version="14.5.7" type="github">
   <diagram id="uBge3yHF93t4JPRWnESB" name="Page-1">
     <mxGraphModel dx="1261" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -435,6 +435,18 @@
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-50" value="&lt;div&gt;Distribution&lt;/div&gt;&lt;div&gt;Overheads&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="3440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HFXZI4QLUxznQSzJN0-L-54" value="Indirect&amp;nbsp; expenses&amp;nbsp; which&amp;nbsp; are&amp;nbsp; incurred&amp;nbsp; in&amp;nbsp; the factory and for the running of the factory. E.g.: rent, power etc." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="3510" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="HFXZI4QLUxznQSzJN0-L-55" value="Indirect&amp;nbsp; expenses&amp;nbsp; related&amp;nbsp; to&amp;nbsp; management&amp;nbsp; and&amp;nbsp; administration of business. E.g.: office rent, lighting, telephone etc. " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400.47" y="3510" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="HFXZI4QLUxznQSzJN0-L-56" value="Indirect expenses&amp;nbsp; incurred for marketing of a commodity. E.g.: Advertisement expenses, commission to sales persons etc." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="3510" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="HFXZI4QLUxznQSzJN0-L-57" value="Indirect&amp;nbsp; expenses incurred&amp;nbsp; for&amp;nbsp; dispatch&amp;nbsp; of&amp;nbsp; the&amp;nbsp; goods E.g.: warehouse charges, packing(secondary) and loading charges" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="3510" width="120" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
