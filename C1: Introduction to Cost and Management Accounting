@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-06T22:22:26.988Z" agent="5.0 (X11)" etag="nXOnKPhKM-y00z63oel-" version="14.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-06T22:24:00.140Z" agent="5.0 (X11)" etag="So7c5zkjunO483kQLDAl" version="14.5.7" type="github">
   <diagram id="uBge3yHF93t4JPRWnESB" name="Page-1">
     <mxGraphModel dx="870" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -285,14 +285,14 @@
         <mxCell id="HFXZI4QLUxznQSzJN0-L-4" value="Cost &#xa;Driver" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];" vertex="1" parent="HFXZI4QLUxznQSzJN0-L-1">
           <mxGeometry x="228" y="33" width="122" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="HFXZI4QLUxznQSzJN0-L-8" value="&amp;nbsp;anything for which a separate measurement of cost is required." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="300" y="2629" width="90" height="71" as="geometry" />
+        <mxCell id="HFXZI4QLUxznQSzJN0-L-8" value="&lt;div&gt;&amp;nbsp;anything for which a separate measurement of cost is required.&lt;/div&gt;e.g.road transport" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="2629" width="90" height="111" as="geometry" />
         </mxCell>
-        <mxCell id="HFXZI4QLUxznQSzJN0-L-9" value="usually the units of physical measurement like number, weight, area, volume, length, time and value. " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="410" y="2629" width="90" height="111" as="geometry" />
+        <mxCell id="HFXZI4QLUxznQSzJN0-L-9" value="&lt;div&gt;usually the units of physical measurement like number, weight, area, volume, length, time and value.&lt;/div&gt;&lt;div&gt;e.g Kg,cm,Km&lt;br&gt; &lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="2629" width="90" height="121" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-10" value="activity which is responsible for cost incurrence" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="520" y="2629" width="90" height="61" as="geometry" />
+          <mxGeometry x="520" y="2629" width="90" height="51" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
