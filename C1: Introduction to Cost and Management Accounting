@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-06T22:38:23.239Z" agent="5.0 (X11)" etag="zUpTSlTqUwiQTaMqL5Mb" version="14.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-06T22:41:28.478Z" agent="5.0 (X11)" etag="ikQlBa1h40wMBYXGz_SQ" version="14.5.7" type="github">
   <diagram id="uBge3yHF93t4JPRWnESB" name="Page-1">
     <mxGraphModel dx="1261" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -369,11 +369,21 @@
         <mxCell id="HFXZI4QLUxznQSzJN0-L-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HFXZI4QLUxznQSzJN0-L-23" target="HFXZI4QLUxznQSzJN0-L-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HFXZI4QLUxznQSzJN0-L-23" value="Indirect Employee (Labour) Cost" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="3240" width="120" height="40" as="geometry" />
+        <mxCell id="HFXZI4QLUxznQSzJN0-L-23" value="&amp;nbsp;&amp;nbsp;&amp;nbsp; Indirect Employee&lt;div&gt; (Labour) Cost&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="470" y="3240" width="120" height="40" as="geometry">
+            <mxRectangle x="470" y="3240" width="170" height="100" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="HFXZI4QLUxznQSzJN0-L-24" value="Direct Employee (Labour) Cost" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="3240" width="120" height="40" as="geometry" />
+        <mxCell id="HFXZI4QLUxznQSzJN0-L-47" value="&lt;div&gt;Who are not directly involved in production &lt;br&gt;&lt;/div&gt;&lt;div&gt;e.g. supervisors etc.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HFXZI4QLUxznQSzJN0-L-23">
+          <mxGeometry y="40" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HFXZI4QLUxznQSzJN0-L-24" value="&lt;div&gt;Direct Employee&lt;/div&gt;&lt;div&gt; (Labour) Cost&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="320" y="3240" width="130" height="40" as="geometry">
+            <mxRectangle x="330" y="3240" width="160" height="100" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HFXZI4QLUxznQSzJN0-L-46" value="emp engaged in actual production" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HFXZI4QLUxznQSzJN0-L-24">
+          <mxGeometry y="40" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-25" value="Direct Expenses" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="3240" width="120" height="40" as="geometry" />
