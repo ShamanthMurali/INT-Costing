@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-06T22:35:21.055Z" agent="5.0 (X11)" etag="Rmi8aJztMG4gFDXZldGk" version="14.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-06T22:38:23.239Z" agent="5.0 (X11)" etag="zUpTSlTqUwiQTaMqL5Mb" version="14.5.7" type="github">
   <diagram id="uBge3yHF93t4JPRWnESB" name="Page-1">
     <mxGraphModel dx="1261" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -350,11 +350,21 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HFXZI4QLUxznQSzJN0-L-18" value="&lt;div&gt;Indirect Material Cost&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="3240" width="120" height="40" as="geometry" />
+        <mxCell id="HFXZI4QLUxznQSzJN0-L-18" value="&lt;div&gt;Indirect &lt;br&gt;&lt;/div&gt;&lt;div&gt;Material Cost&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="190" y="3240" width="110" height="40" as="geometry">
+            <mxRectangle x="190" y="3240" width="170" height="120" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="HFXZI4QLUxznQSzJN0-L-19" value="Direct Material Cost" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="3240" width="120" height="40" as="geometry" />
+        <mxCell id="HFXZI4QLUxznQSzJN0-L-45" value="&lt;div&gt;Materials which are involved in production but do not exist in the final product&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;e.g. needle for stitching &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HFXZI4QLUxznQSzJN0-L-18">
+          <mxGeometry y="40" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HFXZI4QLUxznQSzJN0-L-19" value="&lt;div&gt;Direct &lt;br&gt;&lt;/div&gt;&lt;div&gt;Material Cost&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="50" y="3240" width="120" height="40" as="geometry">
+            <mxRectangle x="50" y="3240" width="190" height="100" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HFXZI4QLUxznQSzJN0-L-44" value="&lt;div&gt;Materials that exist in the final product&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;e.g. tread used for cloths&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HFXZI4QLUxznQSzJN0-L-19">
+          <mxGeometry y="40" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HFXZI4QLUxznQSzJN0-L-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HFXZI4QLUxznQSzJN0-L-23" target="HFXZI4QLUxznQSzJN0-L-34">
           <mxGeometry relative="1" as="geometry" />
