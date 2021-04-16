@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-16T02:57:25.120Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="31a8gOTKcWY9OIWWB4bf" version="14.5.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-16T02:59:55.876Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="l3N4hNB36XiVpum6_TmU" version="14.5.10" type="github">
   <diagram id="GXX79ln6o-uzyXayXurw" name="Page-1">
     <mxGraphModel dx="2103" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -28,14 +28,6 @@
             <mxPoint x="110" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ncxad0-kbffvS8eNtS8P-9" value="Direct &#xa;employee cost" style="swimlane;startSize=30;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="10" y="220" width="90" height="30" as="geometry">
-            <mxRectangle x="20" y="230" width="200" height="200" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ncxad0-kbffvS8eNtS8P-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ncxad0-kbffvS8eNtS8P-9">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
-        </mxCell>
         <mxCell id="ncxad0-kbffvS8eNtS8P-11" value="Direct &#xa;material cost" style="swimlane;startSize=30;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="10" y="170" width="90" height="30" as="geometry">
             <mxRectangle x="10" y="170" width="200" height="70" as="alternateBounds" />
@@ -49,14 +41,6 @@
             <mxPoint x="110" y="280" as="sourcePoint" />
             <mxPoint x="110" y="260" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="ncxad0-kbffvS8eNtS8P-14" value="Direct&#xa;Expenses" style="swimlane;startSize=30;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="10" y="260" width="90" height="30" as="geometry">
-            <mxRectangle x="1160" y="280" width="200" height="200" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ncxad0-kbffvS8eNtS8P-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ncxad0-kbffvS8eNtS8P-14">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
         </mxCell>
         <mxCell id="ncxad0-kbffvS8eNtS8P-16" value="" style="endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -138,19 +122,35 @@
         </mxCell>
         <mxCell id="ncxad0-kbffvS8eNtS8P-36" value="    C" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="580" y="258" width="30" height="19" as="geometry">
-            <mxRectangle x="1160" y="280" width="200" height="200" as="alternateBounds" />
+            <mxRectangle x="580" y="258" width="370" height="182" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ncxad0-kbffvS8eNtS8P-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ncxad0-kbffvS8eNtS8P-36">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        <mxCell id="ncxad0-kbffvS8eNtS8P-37" value="(a) Cost of utilities such as power &amp;amp; fuel, steam etc.;&lt;br&gt;(b )&amp;nbsp; &amp;nbsp; &amp;nbsp;Royalty paid/ payable for production or provision of service;&lt;br&gt;(c )&amp;nbsp; &amp;nbsp;Hire charges paid for hiring specific equipment;&lt;br&gt;(d)Fee for technical assistance and know-how;&lt;br&gt;(e)Amortised cost of moulds, patterns, patents etc.;&lt;br&gt;(f )&amp;nbsp; Cost for product/ service specific design or drawing;&lt;br&gt;(g )&amp;nbsp; &amp;nbsp; &amp;nbsp;Cost of product/ service specific software; &lt;br&gt;(h )&amp;nbsp; Other&amp;nbsp; expenses&amp;nbsp; which&amp;nbsp; are&amp;nbsp; directly&amp;nbsp; related&amp;nbsp; with&amp;nbsp; the&amp;nbsp; production&amp;nbsp; of&amp;nbsp; goods&amp;nbsp; or&amp;nbsp; provision of service." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ncxad0-kbffvS8eNtS8P-36">
+          <mxGeometry y="40" width="370" height="140" as="geometry" />
         </mxCell>
         <mxCell id="ncxad0-kbffvS8eNtS8P-34" value="    C" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="580" y="236" width="30" height="19" as="geometry">
-            <mxRectangle x="580" y="236" width="200" height="200" as="alternateBounds" />
+            <mxRectangle x="580" y="236" width="200" height="210" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ncxad0-kbffvS8eNtS8P-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ncxad0-kbffvS8eNtS8P-34">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        <mxCell id="ncxad0-kbffvS8eNtS8P-35" value="(a )&amp;nbsp; Wages and salary;&lt;br&gt;(b)&amp;nbsp; Allowances and incentives; &lt;br&gt;(c) Payment for overtimes;&lt;br&gt;(d)Bonus/ ex-gratia;&lt;br&gt;(e )&amp;nbsp; Employer’s&amp;nbsp; contribution&amp;nbsp; to&amp;nbsp; welfare&amp;nbsp; funds&amp;nbsp; such&amp;nbsp; as&amp;nbsp; Provident&amp;nbsp; fund&amp;nbsp; and&amp;nbsp; other&amp;nbsp; similar funds; &lt;br&gt;(f )&amp;nbsp; Other benefits (medical, leave with pay, free or subsidised food, leave travel concession and provisions for retirement benefits)&amp;nbsp; etc." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ncxad0-kbffvS8eNtS8P-34">
+          <mxGeometry y="40" width="200" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="ncxad0-kbffvS8eNtS8P-9" value="Direct &#xa;employee cost" style="swimlane;startSize=30;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="10" y="220" width="90" height="30" as="geometry">
+            <mxRectangle x="10" y="220" width="200" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ncxad0-kbffvS8eNtS8P-10" value="&amp;nbsp;It&amp;nbsp; is&amp;nbsp; the&amp;nbsp; total&amp;nbsp; of&amp;nbsp; payment&amp;nbsp; made&amp;nbsp; to&amp;nbsp; the&amp;nbsp; employees&amp;nbsp; who&amp;nbsp; are&amp;nbsp; engaged&amp;nbsp; in&amp;nbsp; the&amp;nbsp; production&amp;nbsp; of&amp;nbsp; goods&amp;nbsp; and&amp;nbsp; provision&amp;nbsp; of&amp;nbsp; services." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ncxad0-kbffvS8eNtS8P-9">
+          <mxGeometry y="30" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ncxad0-kbffvS8eNtS8P-14" value="Direct&#xa;Expenses" style="swimlane;startSize=30;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="10" y="260" width="90" height="30" as="geometry">
+            <mxRectangle x="10" y="260" width="200" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ncxad0-kbffvS8eNtS8P-15" value="which are incurred to manufacture a product or for provision of service&amp;nbsp; and&amp;nbsp; can&amp;nbsp; be&amp;nbsp; directly&amp;nbsp; traced&amp;nbsp; in&amp;nbsp; an&amp;nbsp; economically&amp;nbsp; feasible&amp;nbsp; manner&amp;nbsp; to&amp;nbsp; a&amp;nbsp; cost&amp;nbsp; object." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ncxad0-kbffvS8eNtS8P-14">
+          <mxGeometry y="30" width="200" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
