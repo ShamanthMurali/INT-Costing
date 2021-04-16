@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-16T03:03:42.567Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="Hhw_8VlWZ1AAmU3oPUrA" version="14.5.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-16T03:05:27.189Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="ULuuf83mpwz4EBq4hJrk" version="14.5.10" type="github">
   <diagram id="GXX79ln6o-uzyXayXurw" name="Page-1">
     <mxGraphModel dx="2103" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -207,6 +207,14 @@
             <mxPoint x="110" y="490" as="sourcePoint" />
             <mxPoint x="110" y="470" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ncxad0-kbffvS8eNtS8P-51" value="    C" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="579" y="305" width="30" height="19" as="geometry">
+            <mxRectangle x="579" y="305" width="341" height="225" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ncxad0-kbffvS8eNtS8P-52" value="(a) Consumable stores and spares;&amp;nbsp; &lt;br&gt;(b)&amp;nbsp; &amp;nbsp; &amp;nbsp;Depreciation of plant and machinery, factory building etc.&lt;br&gt;&amp;nbsp;(c) Lease rent of production assets;&amp;nbsp; &lt;br&gt;(d)&amp;nbsp; &amp;nbsp; &amp;nbsp;Repair and maintenance of plant and machinery, factory building etc.&amp;nbsp; &lt;br&gt;(e) Indirect employees cost related with production activities;&amp;nbsp; &lt;br&gt;(f) Drawing and Designing department cost;&amp;nbsp; &amp;nbsp;&lt;br&gt;(g) Insurance of plant and&amp;nbsp; machinery, factory building, stock of raw material &amp;amp; WIP etc.&amp;nbsp;&lt;br&gt;&amp;nbsp;(h) Amortized cost of jigs, fixtures, tooling etc.&amp;nbsp; &lt;br&gt;(i)&amp;nbsp; &amp;nbsp;Service&amp;nbsp; department&amp;nbsp; cost&amp;nbsp; such&amp;nbsp; as&amp;nbsp; Tool&amp;nbsp; Room,&amp;nbsp; Engineering&amp;nbsp; &amp;amp;&amp;nbsp; Maintenance,&amp;nbsp; Pollution Control etc.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ncxad0-kbffvS8eNtS8P-51">
+          <mxGeometry y="40" width="340" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
