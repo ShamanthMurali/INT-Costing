@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-16T03:23:39.068Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="IAPY9NM4oodimCKDv0q9" version="14.5.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-16T03:26:43.811Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="QNagpReDVuYZCf6suXHO" version="14.5.10" type="github">
   <diagram id="GXX79ln6o-uzyXayXurw" name="Page-1">
     <mxGraphModel dx="2103" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -134,15 +134,7 @@
             <mxPoint x="110" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ncxad0-kbffvS8eNtS8P-40" value="Direct&#xa;Expenses" style="swimlane;startSize=30;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="10" y="310" width="90" height="30" as="geometry">
-            <mxRectangle x="10" y="260" width="200" height="110" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ncxad0-kbffvS8eNtS8P-41" value="which are incurred to manufacture a product or for provision of service&amp;nbsp; and&amp;nbsp; can&amp;nbsp; be&amp;nbsp; directly&amp;nbsp; traced&amp;nbsp; in&amp;nbsp; an&amp;nbsp; economically&amp;nbsp; feasible&amp;nbsp; manner&amp;nbsp; to&amp;nbsp; a&amp;nbsp; cost&amp;nbsp; object." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ncxad0-kbffvS8eNtS8P-40">
-          <mxGeometry y="30" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="ncxad0-kbffvS8eNtS8P-42" value="Direct&#xa;Expenses" style="swimlane;startSize=30;" vertex="1" collapsed="1" parent="1">
+        <mxCell id="ncxad0-kbffvS8eNtS8P-42" value="WIP" style="swimlane;startSize=30;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="10" y="360" width="90" height="30" as="geometry">
             <mxRectangle x="10" y="260" width="200" height="110" as="alternateBounds" />
           </mxGeometry>
@@ -288,6 +280,17 @@
         </mxCell>
         <mxCell id="ncxad0-kbffvS8eNtS8P-61" value="cost related with sale of products or services" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ncxad0-kbffvS8eNtS8P-60">
           <mxGeometry y="20" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ncxad0-kbffvS8eNtS8P-69" value="&lt;div&gt;Factory&lt;/div&gt;&lt;div&gt;OH&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;startSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="10" y="310" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ncxad0-kbffvS8eNtS8P-70" value="    C" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="579" y="480" width="30" height="19" as="geometry">
+            <mxRectangle x="579" y="480" width="341" height="180" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ncxad0-kbffvS8eNtS8P-71" value="(a) Depreciation and maintenance of, building, furniture etc. of corporate or general management.&lt;br&gt;(b)&amp;nbsp; &amp;nbsp; &amp;nbsp;Salary of administrative employees, accountants, directors, secretaries etc&lt;br&gt;(c) Rent, rates &amp;amp; taxes, insurance, lighting, office expenses etc.&lt;br&gt;(d)Indirect materials- printing and stationery, office supplies etc.&lt;br&gt;(e)Legal&amp;nbsp; charges,&amp;nbsp; audit&amp;nbsp; fees,&amp;nbsp; corporate&amp;nbsp; office&amp;nbsp; expenses&amp;nbsp; like&amp;nbsp; directors’&amp;nbsp; sitting fees, remuneration and commission, meeting expenses etc.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ncxad0-kbffvS8eNtS8P-70">
+          <mxGeometry y="40" width="340" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
