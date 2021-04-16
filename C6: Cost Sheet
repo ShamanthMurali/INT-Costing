@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-16T03:34:49.138Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="SZzfhL9ghh7Oz8hmviB8" version="14.5.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-16T03:35:02.786Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="a52_feFccLWLibBC5QwH" version="14.5.10" type="github">
   <diagram id="GXX79ln6o-uzyXayXurw" name="Page-1">
     <mxGraphModel dx="2103" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -311,7 +311,7 @@
         <mxCell id="ncxad0-kbffvS8eNtS8P-33" value="(a) Cost of material;&lt;br&gt;(b) Freight inwards;&lt;br&gt;(c) Insurance and other expenditure directly attributable to procurement;(d)Trade discounts or rebates (to be deducted); &lt;br&gt;(e)Duties &amp;amp; Taxes (if input tax credit is not available/ availed) etc." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ncxad0-kbffvS8eNtS8P-32">
           <mxGeometry y="40" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="ncxad0-kbffvS8eNtS8P-78" value="&lt;b&gt;&lt;u&gt;Advantages&amp;nbsp;&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;(i) It provides the total cost figure as well as cost per unit of production.&lt;br&gt;&lt;br&gt;(ii) It helps in cost comparison.&lt;br&gt;&lt;br&gt;&amp;nbsp;(iii)&amp;nbsp; &amp;nbsp; It&amp;nbsp; facilitates&amp;nbsp; the&amp;nbsp; preparation&amp;nbsp; of&amp;nbsp; cost&amp;nbsp; estimates&amp;nbsp; required&amp;nbsp; for&amp;nbsp; submitting&amp;nbsp; tenders.&lt;br&gt;&lt;br&gt;(iv)It provides sufficient help in arriving at the figure of selling price.&lt;br&gt;&lt;br&gt;(v) It facilitates cost control by disclosing operational efficiency." style="rounded=0;whiteSpace=wrap;html=1;startSize=20;" vertex="1" parent="1">
+        <mxCell id="ncxad0-kbffvS8eNtS8P-78" value="&lt;b&gt;&lt;u&gt;Advantages&amp;nbsp;&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;(i) It provides the total cost figure as well as cost per unit of production.&lt;br&gt;&lt;br&gt;(ii) It helps in cost comparison.&lt;br&gt;&lt;br&gt;&amp;nbsp;(iii) It&amp;nbsp; facilitates&amp;nbsp; the&amp;nbsp; preparation&amp;nbsp; of&amp;nbsp; cost&amp;nbsp; estimates&amp;nbsp; required&amp;nbsp; for&amp;nbsp; submitting&amp;nbsp; tenders.&lt;br&gt;&lt;br&gt;(iv) It provides sufficient help in arriving at the figure of selling price.&lt;br&gt;&lt;br&gt;(v) It facilitates cost control by disclosing operational efficiency." style="rounded=0;whiteSpace=wrap;html=1;startSize=20;" vertex="1" parent="1">
           <mxGeometry x="185" y="820" width="390" height="180" as="geometry" />
         </mxCell>
       </root>
