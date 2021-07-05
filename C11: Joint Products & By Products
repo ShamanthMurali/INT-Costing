@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-05T18:25:34.842Z" agent="5.0 (X11)" etag="Yr9Zl0jl688rkHriH3wa" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-05T18:25:54.244Z" agent="5.0 (X11)" etag="j4hVFrY6gxKXdyPibPkW" version="14.8.4" type="github">
   <diagram id="UWICeHr6ZDEATF-23XNl" name="Page-1">
     <mxGraphModel dx="1037" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -85,7 +85,7 @@
         <mxCell id="d5uJmmV6PoyWCjnkJSwq-28" value="Average unit cost" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="d5uJmmV6PoyWCjnkJSwq-30" value="&lt;div&gt;Average unit cost&lt;/div&gt;&lt;div&gt;`\text{separation cost}/\text{Total units produced]`&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="d5uJmmV6PoyWCjnkJSwq-30" value="&lt;div&gt;&lt;u&gt;Average unit cost&lt;/u&gt;&lt;/div&gt;&lt;div&gt;`\text{Separation cost}/\text{Total units produced}`&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="60" width="200" height="70" as="geometry" />
         </mxCell>
       </root>
