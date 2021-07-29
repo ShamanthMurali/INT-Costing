@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-29T22:18:43.934Z" agent="5.0 (X11)" etag="azSVK5WxBwgaSWUiLdou" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-29T22:27:15.144Z" agent="5.0 (X11)" etag="NF3DoMUuAy5FGFQm8LUy" version="14.9.2" type="github">
   <diagram id="qMbDd8IH95gbiQ-mxi7F" name="Page-1">
-    <mxGraphModel dx="2085" dy="1045" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="715" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -69,6 +69,9 @@
         </mxCell>
         <mxCell id="OGO3WmaNNdcTYiCVGZfT-25" value="Partially dependent service dept" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1480" y="1280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OGO3WmaNNdcTYiCVGZfT-181" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="OGO3WmaNNdcTYiCVGZfT-26" target="OGO3WmaNNdcTYiCVGZfT-180">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OGO3WmaNNdcTYiCVGZfT-26" value="Step/Non-reciprocal/ladder method" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1480" y="1400" width="120" height="40" as="geometry" />
@@ -309,6 +312,9 @@
         </mxCell>
         <mxCell id="OGO3WmaNNdcTYiCVGZfT-132" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" source="OGO3WmaNNdcTYiCVGZfT-133" target="OGO3WmaNNdcTYiCVGZfT-138" parent="OGO3WmaNNdcTYiCVGZfT-161">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OGO3WmaNNdcTYiCVGZfT-180" value="Note: Mind the order of payment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="1460" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
