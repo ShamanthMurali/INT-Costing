@@ -1,11 +1,62 @@
-<mxfile host="app.diagrams.net" modified="2021-08-18T22:33:26.222Z" agent="5.0 (X11)" etag="ba2IgY_z9N8FUsYo6P9X" version="14.9.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-19T00:44:56.235Z" agent="5.0 (X11)" etag="laSZPT83uJgRV8zyBb9D" version="14.9.7" type="github">
   <diagram id="faauByuSehAck-nyNHe6" name="Page-1">
-    <mxGraphModel dx="1254" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="865" dy="374" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ivMqUESSWHDA54h6Yke--18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ivMqUESSWHDA54h6Yke--1" target="ivMqUESSWHDA54h6Yke--2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ivMqUESSWHDA54h6Yke--1" value="Contract costing" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ivMqUESSWHDA54h6Yke--2" value="Contract account" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="170" y="60" width="500" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="ivMqUESSWHDA54h6Yke--3" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ivMqUESSWHDA54h6Yke--2">
+          <mxGeometry y="30" width="500" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ivMqUESSWHDA54h6Yke--4" value="Particulars" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ivMqUESSWHDA54h6Yke--3">
+          <mxGeometry width="214" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ivMqUESSWHDA54h6Yke--5" value="Amt" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ivMqUESSWHDA54h6Yke--3">
+          <mxGeometry x="214" width="36" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ivMqUESSWHDA54h6Yke--6" value="Particulars" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ivMqUESSWHDA54h6Yke--3">
+          <mxGeometry x="250" width="214" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ivMqUESSWHDA54h6Yke--7" value="Amt" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ivMqUESSWHDA54h6Yke--3">
+          <mxGeometry x="464" width="36" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ivMqUESSWHDA54h6Yke--8" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ivMqUESSWHDA54h6Yke--2">
+          <mxGeometry y="50" width="500" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="ivMqUESSWHDA54h6Yke--9" value="&lt;div align=&quot;left&quot;&gt;To materials&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;-&amp;gt; op.stock (@cost)&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;-&amp;gt; stores (@cost)&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;-&amp;gt; Purchases (@cost)&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;-&amp;gt; t/f from other contract (@cost)&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;To labour&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;To expenses&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;To depreciation&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;To P/L (Notional profit)(Bal fig.)&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="ivMqUESSWHDA54h6Yke--8">
+          <mxGeometry width="214" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="ivMqUESSWHDA54h6Yke--10" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ivMqUESSWHDA54h6Yke--8">
+          <mxGeometry x="214" width="36" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="ivMqUESSWHDA54h6Yke--11" value="&lt;div align=&quot;left&quot;&gt;By materials&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;-&amp;gt; Return to stores (@cost)&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;-&amp;gt; Sold (@cost)&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;-&amp;gt; t/f to other contract (@cost)&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;-&amp;gt; loss by fire / theft (@cost)&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;By WIP &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;-&amp;gt; Work certified &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;u&gt;&lt;b&gt;(@Selling price)&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;-&amp;gt; Work uncertified (@cost)&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;By material at site(Cl.stock)(@cost)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;By P/L (Notional Loss)(Bal fig.)&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="ivMqUESSWHDA54h6Yke--8">
+          <mxGeometry x="250" width="214" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="ivMqUESSWHDA54h6Yke--12" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ivMqUESSWHDA54h6Yke--8">
+          <mxGeometry x="464" width="36" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="ivMqUESSWHDA54h6Yke--13" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ivMqUESSWHDA54h6Yke--2">
+          <mxGeometry y="280" width="500" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ivMqUESSWHDA54h6Yke--14" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ivMqUESSWHDA54h6Yke--13">
+          <mxGeometry width="214" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ivMqUESSWHDA54h6Yke--15" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ivMqUESSWHDA54h6Yke--13">
+          <mxGeometry x="214" width="36" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ivMqUESSWHDA54h6Yke--16" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ivMqUESSWHDA54h6Yke--13">
+          <mxGeometry x="250" width="214" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ivMqUESSWHDA54h6Yke--17" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ivMqUESSWHDA54h6Yke--13">
+          <mxGeometry x="464" width="36" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
