@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2021-08-18T08:33:12.751Z" agent="5.0 (X11)" etag="VEaOuGS1fBqmv4p_HXcf" version="14.9.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-18T08:39:41.156Z" agent="5.0 (X11)" etag="ANdZCVk851H9Ojfm2KuE" version="14.9.7" type="github">
   <diagram id="GOxRQG52BLzfjsSn52JL" name="Page-1">
-    <mxGraphModel dx="1714" dy="1532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5862" dy="3608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Dl6Ypy2TrkPQvykaXqpO-1" value="Cost accounting system" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="-480" width="120" height="40" as="geometry" />
+          <mxGeometry x="360" y="-280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Dl6Ypy2TrkPQvykaXqpO-20" value="Stores ledger control account" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="-355" y="90" width="440" height="230" as="geometry" />
+          <mxGeometry x="-360" y="90" width="440" height="230" as="geometry" />
         </mxCell>
         <mxCell id="Dl6Ypy2TrkPQvykaXqpO-21" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Dl6Ypy2TrkPQvykaXqpO-20">
           <mxGeometry y="30" width="440" height="20" as="geometry" />
@@ -41,7 +41,7 @@
           <mxGeometry x="380" width="60" height="180" as="geometry" />
         </mxCell>
         <mxCell id="Dl6Ypy2TrkPQvykaXqpO-38" value="Work-in-progress control account" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="205" y="90" width="440" height="230" as="geometry" />
+          <mxGeometry x="200" y="90" width="440" height="230" as="geometry" />
         </mxCell>
         <mxCell id="Dl6Ypy2TrkPQvykaXqpO-39" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Dl6Ypy2TrkPQvykaXqpO-38">
           <mxGeometry y="30" width="440" height="20" as="geometry" />
@@ -74,7 +74,7 @@
           <mxGeometry x="380" width="60" height="180" as="geometry" />
         </mxCell>
         <mxCell id="Dl6Ypy2TrkPQvykaXqpO-49" value="Finished stock ledger control account" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="765" y="90" width="440" height="230" as="geometry" />
+          <mxGeometry x="760" y="90" width="440" height="230" as="geometry" />
         </mxCell>
         <mxCell id="Dl6Ypy2TrkPQvykaXqpO-50" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Dl6Ypy2TrkPQvykaXqpO-49">
           <mxGeometry y="30" width="440" height="20" as="geometry" />
@@ -107,7 +107,7 @@
           <mxGeometry x="380" width="60" height="180" as="geometry" />
         </mxCell>
         <mxCell id="Dl6Ypy2TrkPQvykaXqpO-60" value="Wages control account" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="-635" y="440" width="440" height="230" as="geometry" />
+          <mxGeometry x="-640" y="440" width="440" height="230" as="geometry" />
         </mxCell>
         <mxCell id="Dl6Ypy2TrkPQvykaXqpO-61" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Dl6Ypy2TrkPQvykaXqpO-60">
           <mxGeometry y="30" width="440" height="20" as="geometry" />
@@ -140,7 +140,7 @@
           <mxGeometry x="380" width="60" height="180" as="geometry" />
         </mxCell>
         <mxCell id="Dl6Ypy2TrkPQvykaXqpO-71" value="Factory overheads control account" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="-75" y="440" width="440" height="230" as="geometry" />
+          <mxGeometry x="-80" y="440" width="440" height="230" as="geometry" />
         </mxCell>
         <mxCell id="Dl6Ypy2TrkPQvykaXqpO-72" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Dl6Ypy2TrkPQvykaXqpO-71">
           <mxGeometry y="30" width="440" height="20" as="geometry" />
@@ -173,7 +173,7 @@
           <mxGeometry x="380" width="60" height="180" as="geometry" />
         </mxCell>
         <mxCell id="Dl6Ypy2TrkPQvykaXqpO-82" value="Admin overheads control account" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="485" y="440" width="440" height="230" as="geometry" />
+          <mxGeometry x="480" y="440" width="440" height="230" as="geometry" />
         </mxCell>
         <mxCell id="Dl6Ypy2TrkPQvykaXqpO-83" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Dl6Ypy2TrkPQvykaXqpO-82">
           <mxGeometry y="30" width="440" height="20" as="geometry" />
@@ -206,7 +206,7 @@
           <mxGeometry x="380" width="60" height="180" as="geometry" />
         </mxCell>
         <mxCell id="Dl6Ypy2TrkPQvykaXqpO-93" value="Selling overheads control account" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="1045" y="440" width="440" height="230" as="geometry" />
+          <mxGeometry x="1040" y="440" width="440" height="230" as="geometry" />
         </mxCell>
         <mxCell id="Dl6Ypy2TrkPQvykaXqpO-94" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Dl6Ypy2TrkPQvykaXqpO-93">
           <mxGeometry y="30" width="440" height="20" as="geometry" />
@@ -239,7 +239,7 @@
           <mxGeometry x="380" width="60" height="180" as="geometry" />
         </mxCell>
         <mxCell id="Dl6Ypy2TrkPQvykaXqpO-104" value="Cost of sale account" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="-75" y="800" width="440" height="230" as="geometry" />
+          <mxGeometry x="-80" y="800" width="440" height="230" as="geometry" />
         </mxCell>
         <mxCell id="Dl6Ypy2TrkPQvykaXqpO-105" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Dl6Ypy2TrkPQvykaXqpO-104">
           <mxGeometry y="30" width="440" height="20" as="geometry" />
@@ -272,7 +272,7 @@
           <mxGeometry x="380" width="60" height="180" as="geometry" />
         </mxCell>
         <mxCell id="Dl6Ypy2TrkPQvykaXqpO-115" value="Sales account" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="485" y="800" width="440" height="230" as="geometry" />
+          <mxGeometry x="480" y="800" width="440" height="230" as="geometry" />
         </mxCell>
         <mxCell id="Dl6Ypy2TrkPQvykaXqpO-116" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Dl6Ypy2TrkPQvykaXqpO-115">
           <mxGeometry y="30" width="440" height="20" as="geometry" />
@@ -305,7 +305,7 @@
           <mxGeometry x="380" width="60" height="180" as="geometry" />
         </mxCell>
         <mxCell id="Dl6Ypy2TrkPQvykaXqpO-126" value="Costing P/L account" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="205" y="1160" width="440" height="230" as="geometry" />
+          <mxGeometry x="200" y="1160" width="440" height="230" as="geometry" />
         </mxCell>
         <mxCell id="Dl6Ypy2TrkPQvykaXqpO-127" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Dl6Ypy2TrkPQvykaXqpO-126">
           <mxGeometry y="30" width="440" height="20" as="geometry" />
@@ -343,7 +343,7 @@
             <Array as="points">
               <mxPoint x="1610" y="230" />
               <mxPoint x="1610" y="740" />
-              <mxPoint x="563" y="740" />
+              <mxPoint x="558" y="740" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -353,7 +353,7 @@
             <Array as="points">
               <mxPoint x="1570" y="580" />
               <mxPoint x="1570" y="740" />
-              <mxPoint x="563" y="740" />
+              <mxPoint x="558" y="740" />
             </Array>
           </mxGeometry>
         </mxCell>
