@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-18T11:42:20.901Z" agent="5.0 (X11)" etag="TRCnFdbAF6Sj9Ybh4YpD" version="14.9.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-18T11:46:58.392Z" agent="5.0 (X11)" etag="61-__5TiBiYJJov0JiFB" version="14.9.7" type="github">
   <diagram id="GOxRQG52BLzfjsSn52JL" name="Page-1">
-    <mxGraphModel dx="2103" dy="1727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3983" dy="2668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -265,7 +265,7 @@
         <mxCell id="Dl6Ypy2TrkPQvykaXqpO-112" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Dl6Ypy2TrkPQvykaXqpO-110">
           <mxGeometry x="160" width="60" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="Dl6Ypy2TrkPQvykaXqpO-113" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Dl6Ypy2TrkPQvykaXqpO-110">
+        <mxCell id="Dl6Ypy2TrkPQvykaXqpO-113" value="&lt;div align=&quot;left&quot;&gt;By costing P/L&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="Dl6Ypy2TrkPQvykaXqpO-110">
           <mxGeometry x="220" width="160" height="180" as="geometry" />
         </mxCell>
         <mxCell id="Dl6Ypy2TrkPQvykaXqpO-114" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Dl6Ypy2TrkPQvykaXqpO-110">
@@ -292,20 +292,20 @@
         <mxCell id="Dl6Ypy2TrkPQvykaXqpO-121" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Dl6Ypy2TrkPQvykaXqpO-115">
           <mxGeometry y="50" width="440" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="Dl6Ypy2TrkPQvykaXqpO-122" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Dl6Ypy2TrkPQvykaXqpO-121">
+        <mxCell id="Dl6Ypy2TrkPQvykaXqpO-122" value="&lt;div align=&quot;left&quot;&gt;To costing P/L&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="Dl6Ypy2TrkPQvykaXqpO-121">
           <mxGeometry width="160" height="180" as="geometry" />
         </mxCell>
         <mxCell id="Dl6Ypy2TrkPQvykaXqpO-123" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Dl6Ypy2TrkPQvykaXqpO-121">
           <mxGeometry x="160" width="60" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="Dl6Ypy2TrkPQvykaXqpO-124" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Dl6Ypy2TrkPQvykaXqpO-121">
+        <mxCell id="Dl6Ypy2TrkPQvykaXqpO-124" value="&lt;div align=&quot;left&quot;&gt;By GLA&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;Sales&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="Dl6Ypy2TrkPQvykaXqpO-121">
           <mxGeometry x="220" width="160" height="180" as="geometry" />
         </mxCell>
         <mxCell id="Dl6Ypy2TrkPQvykaXqpO-125" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Dl6Ypy2TrkPQvykaXqpO-121">
           <mxGeometry x="380" width="60" height="180" as="geometry" />
         </mxCell>
         <mxCell id="Dl6Ypy2TrkPQvykaXqpO-126" value="Costing P/L account" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="200" y="1160" width="440" height="230" as="geometry" />
+          <mxGeometry x="200" y="1160" width="440" height="120.00000000000045" as="geometry" />
         </mxCell>
         <mxCell id="Dl6Ypy2TrkPQvykaXqpO-127" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Dl6Ypy2TrkPQvykaXqpO-126">
           <mxGeometry y="30" width="440" height="20" as="geometry" />
@@ -323,19 +323,19 @@
           <mxGeometry x="380" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Dl6Ypy2TrkPQvykaXqpO-132" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Dl6Ypy2TrkPQvykaXqpO-126">
-          <mxGeometry y="50" width="440" height="180" as="geometry" />
+          <mxGeometry y="50" width="440" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Dl6Ypy2TrkPQvykaXqpO-133" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Dl6Ypy2TrkPQvykaXqpO-132">
-          <mxGeometry width="160" height="180" as="geometry" />
+        <mxCell id="Dl6Ypy2TrkPQvykaXqpO-133" value="&lt;div align=&quot;left&quot;&gt;To COS&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;To profit (bal fig.)&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="Dl6Ypy2TrkPQvykaXqpO-132">
+          <mxGeometry width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Dl6Ypy2TrkPQvykaXqpO-134" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Dl6Ypy2TrkPQvykaXqpO-132">
-          <mxGeometry x="160" width="60" height="180" as="geometry" />
+        <mxCell id="Dl6Ypy2TrkPQvykaXqpO-134" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;ppp&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Dl6Ypy2TrkPQvykaXqpO-132">
+          <mxGeometry x="160" width="60" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Dl6Ypy2TrkPQvykaXqpO-135" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Dl6Ypy2TrkPQvykaXqpO-132">
-          <mxGeometry x="220" width="160" height="180" as="geometry" />
+        <mxCell id="Dl6Ypy2TrkPQvykaXqpO-135" value="&lt;div align=&quot;left&quot;&gt;By sales&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;To loss (bal fig.)&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="Dl6Ypy2TrkPQvykaXqpO-132">
+          <mxGeometry x="220" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Dl6Ypy2TrkPQvykaXqpO-136" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Dl6Ypy2TrkPQvykaXqpO-132">
-          <mxGeometry x="380" width="60" height="180" as="geometry" />
+        <mxCell id="Dl6Ypy2TrkPQvykaXqpO-136" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;PPP&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Dl6Ypy2TrkPQvykaXqpO-132">
+          <mxGeometry x="380" width="60" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Dl6Ypy2TrkPQvykaXqpO-174" value="General Ledger account (GLC) a.k.a. Cost ledger account" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="200" y="-340" width="440" height="360.0000000000002" as="geometry" />
@@ -358,16 +358,16 @@
         <mxCell id="Dl6Ypy2TrkPQvykaXqpO-180" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Dl6Ypy2TrkPQvykaXqpO-174">
           <mxGeometry y="50" width="440" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="Dl6Ypy2TrkPQvykaXqpO-181" value="&lt;div align=&quot;left&quot;&gt;To SLC&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;Raw materials returned&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;To costing P/L&lt;/div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;if Loss&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="Dl6Ypy2TrkPQvykaXqpO-180">
+        <mxCell id="Dl6Ypy2TrkPQvykaXqpO-181" value="&lt;div align=&quot;left&quot;&gt;To SLC&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;Raw materials returned&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;To sales&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;sales&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;To costing P/L&lt;/div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;if Loss&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="Dl6Ypy2TrkPQvykaXqpO-180">
           <mxGeometry width="160" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="Dl6Ypy2TrkPQvykaXqpO-182" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Dl6Ypy2TrkPQvykaXqpO-180">
+        <mxCell id="Dl6Ypy2TrkPQvykaXqpO-182" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;PPP&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Dl6Ypy2TrkPQvykaXqpO-180">
           <mxGeometry x="160" width="60" height="310" as="geometry" />
         </mxCell>
         <mxCell id="Dl6Ypy2TrkPQvykaXqpO-183" value="&lt;div align=&quot;left&quot;&gt;By SLC a/c&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;Raw materials purchased&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;By WC&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;Direct wages paid&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div align=&quot;left&quot;&gt;By WC&lt;br&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;Indirect wages paid&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div align=&quot;left&quot;&gt;By FOC&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;Factory OH incured&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;by AOC&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;Admin OH incurred&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;by SOC&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;Selling OH incurred&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;By costing P/L&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;if profit&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="Dl6Ypy2TrkPQvykaXqpO-180">
           <mxGeometry x="220" width="160" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="Dl6Ypy2TrkPQvykaXqpO-184" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Dl6Ypy2TrkPQvykaXqpO-180">
+        <mxCell id="Dl6Ypy2TrkPQvykaXqpO-184" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;PPP&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Dl6Ypy2TrkPQvykaXqpO-180">
           <mxGeometry x="380" width="60" height="310" as="geometry" />
         </mxCell>
         <mxCell id="Dl6Ypy2TrkPQvykaXqpO-186" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://imgur.com/Ni1Eh5h.png;" vertex="1" parent="1">
@@ -463,6 +463,24 @@
         </mxCell>
         <mxCell id="Dl6Ypy2TrkPQvykaXqpO-212" value="&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-80" y="560" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Dl6Ypy2TrkPQvykaXqpO-216" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dl6Ypy2TrkPQvykaXqpO-214" target="Dl6Ypy2TrkPQvykaXqpO-215">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dl6Ypy2TrkPQvykaXqpO-214" value="&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="930" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Dl6Ypy2TrkPQvykaXqpO-215" value="&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1220" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Dl6Ypy2TrkPQvykaXqpO-219" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Dl6Ypy2TrkPQvykaXqpO-217" target="Dl6Ypy2TrkPQvykaXqpO-218">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dl6Ypy2TrkPQvykaXqpO-217" value="&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="930" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Dl6Ypy2TrkPQvykaXqpO-218" value="&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1220" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
