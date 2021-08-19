@@ -1,11 +1,50 @@
-<mxfile host="app.diagrams.net" modified="2021-08-19T23:29:38.362Z" agent="5.0 (X11)" etag="hvcjakfiXwaeXbZnbOv1" version="14.9.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-20T00:48:43.877Z" agent="5.0 (X11)" etag="a5vIqe8G9ffutgEJJbla" version="14.9.8" type="github">
   <diagram id="NaW-u4cnAQv-t8O9IHhz" name="Page-1">
-    <mxGraphModel dx="1247" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1247" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="wj42vanaq4xKrVmH8bHP-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="20" width="320" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="wj42vanaq4xKrVmH8bHP-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wj42vanaq4xKrVmH8bHP-1" target="wj42vanaq4xKrVmH8bHP-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wj42vanaq4xKrVmH8bHP-1" value="&lt;div&gt;Total annual cost / &lt;br&gt;&lt;/div&gt;&lt;div&gt;total variable cost&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wj42vanaq4xKrVmH8bHP-2" value="&lt;div&gt;`=T+PC`&lt;/div&gt;&lt;div&gt;`=TCa + TCi + PC`&lt;/div&gt;&lt;div&gt;`=(A/Q)xxCa+(Q/2)xxCi + Axx\text{CPU}`&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;In case of lot, Q = lot size &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="255" y="60" width="330" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="wj42vanaq4xKrVmH8bHP-5" value="Frequency for procurement" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wj42vanaq4xKrVmH8bHP-6" value="material" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="100" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wj42vanaq4xKrVmH8bHP-7" value="Days" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="100" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wj42vanaq4xKrVmH8bHP-8" value="For 365/360 days" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wj42vanaq4xKrVmH8bHP-12" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="wj42vanaq4xKrVmH8bHP-9" target="wj42vanaq4xKrVmH8bHP-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wj42vanaq4xKrVmH8bHP-9" value="A" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wj42vanaq4xKrVmH8bHP-10" value="Q" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wj42vanaq4xKrVmH8bHP-11" value="&lt;div&gt;= x days&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;(frequency of procurement)&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wj42vanaq4xKrVmH8bHP-13" value="" style="endArrow=none;dashed=1;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="wj42vanaq4xKrVmH8bHP-10" target="wj42vanaq4xKrVmH8bHP-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="120" as="sourcePoint" />
+            <mxPoint x="700" y="70" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
