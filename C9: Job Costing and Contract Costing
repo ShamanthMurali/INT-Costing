@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-19T17:59:16.649Z" agent="5.0 (X11)" etag="Wo4wRawgNRyh3_mRSh-6" version="14.9.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-19T19:04:25.009Z" agent="5.0 (X11)" etag="f9bhbi5dI5serLZ4cQtV" version="14.9.7" type="github">
   <diagram id="faauByuSehAck-nyNHe6" name="Page-1">
-    <mxGraphModel dx="2106" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1897" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -175,7 +175,7 @@
         <mxCell id="g3B0ijS7YPzXBtcQIQ5m-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g3B0ijS7YPzXBtcQIQ5m-40" target="g3B0ijS7YPzXBtcQIQ5m-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="g3B0ijS7YPzXBtcQIQ5m-40" value="Used to compensate the contractee for any price changes in material" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="g3B0ijS7YPzXBtcQIQ5m-40" value="Used to compensate the contractee for any price changes in Inputs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="900" y="430" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="g3B0ijS7YPzXBtcQIQ5m-48" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="g3B0ijS7YPzXBtcQIQ5m-41" target="g3B0ijS7YPzXBtcQIQ5m-37">
