@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-20T20:23:02.108Z" agent="5.0 (X11)" etag="_VNKggW6E153ewB7lHid" version="14.9.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-20T20:38:27.457Z" agent="5.0 (X11)" etag="r4JJrr9WyG7sXuSNrKyg" version="14.9.8" type="github">
   <diagram id="NaW-u4cnAQv-t8O9IHhz" name="Page-1">
-    <mxGraphModel dx="1049" dy="1623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="868" dy="1532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -182,16 +182,49 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SXT_47Ajc5hEjM8zL6WO-36" value="&lt;div&gt;Maximum Stock Level&lt;/div&gt;&lt;div&gt;[Upto How much to stock]&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="680" width="160" height="50" as="geometry" />
+          <mxGeometry x="1160" y="720" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SXT_47Ajc5hEjM8zL6WO-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SXT_47Ajc5hEjM8zL6WO-37" target="SXT_47Ajc5hEjM8zL6WO-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SXT_47Ajc5hEjM8zL6WO-37" value="highest level of quantity for any material &amp;nbsp;&lt;br&gt;&lt;div&gt;which can be held in stock at any time. Any quantity &lt;br&gt;&lt;/div&gt;&lt;div&gt;beyond this level cause extra amount of expenditure&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="750" width="320" height="50" as="geometry" />
+          <mxGeometry x="1080" y="790" width="320" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SXT_47Ajc5hEjM8zL6WO-39" value="Maximum Stock Level = Re-order Level + Re-order Quantity - (Minimum Consumption Rate × Minimum Re-order Period)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="820" width="680" height="40" as="geometry" />
+          <mxGeometry x="900" y="860" width="680" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SXT_47Ajc5hEjM8zL6WO-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SXT_47Ajc5hEjM8zL6WO-41" target="SXT_47Ajc5hEjM8zL6WO-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SXT_47Ajc5hEjM8zL6WO-41" value="&lt;div&gt;Minimum Stock Level&lt;/div&gt;[Atleast How much to stock]" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="500" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SXT_47Ajc5hEjM8zL6WO-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SXT_47Ajc5hEjM8zL6WO-42" target="SXT_47Ajc5hEjM8zL6WO-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SXT_47Ajc5hEjM8zL6WO-42" value="lowest level of material stock, which must be &amp;nbsp;&lt;br&gt;maintained in hand at all times" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="570" width="280" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SXT_47Ajc5hEjM8zL6WO-44" value="Minimum Stock Level = Re-order Stock Level - (Average Consumption Rate × Average Re-order Period)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="640" width="680" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SXT_47Ajc5hEjM8zL6WO-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SXT_47Ajc5hEjM8zL6WO-46" target="SXT_47Ajc5hEjM8zL6WO-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SXT_47Ajc5hEjM8zL6WO-46" value="&lt;div&gt;Average Inventory Level&lt;/div&gt;&lt;div&gt;[Stock normally kept]&lt;span&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="940" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SXT_47Ajc5hEjM8zL6WO-49" value="&lt;div&gt;`\text{Average Stock Level} = \text{Minimum Stock Level} + \text{Re-order Quantity}/2`&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;`\text{Average Stock Level} = \text{Maximum Stock Level + Minimum Stock Level}/2`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="1010" width="540" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="SXT_47Ajc5hEjM8zL6WO-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SXT_47Ajc5hEjM8zL6WO-51" target="SXT_47Ajc5hEjM8zL6WO-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SXT_47Ajc5hEjM8zL6WO-51" value="&lt;div&gt;Danger level&lt;/div&gt;&lt;div&gt;[Kept for emergency requirement]&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="1170" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SXT_47Ajc5hEjM8zL6WO-52" value="Danger Level = Average Consumption × Lead time for emergency purchase" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1025" y="1260" width="430" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
