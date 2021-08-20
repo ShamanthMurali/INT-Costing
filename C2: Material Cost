@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-20T10:58:51.723Z" agent="5.0 (X11)" etag="dZ1O60DtoJb_4UrCeUp4" version="14.9.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-20T16:37:53.040Z" agent="5.0 (X11)" etag="oeRiYRFT4jLbU8c4nXX2" version="14.9.8" type="github">
   <diagram id="NaW-u4cnAQv-t8O9IHhz" name="Page-1">
-    <mxGraphModel dx="1043" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1799" dy="1996" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,35 +46,110 @@
             <mxPoint x="500" y="930" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6HhJjYeUGjXSSmmt7NVs-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6HhJjYeUGjXSSmmt7NVs-1" target="6HhJjYeUGjXSSmmt7NVs-4">
+        <mxCell id="6HhJjYeUGjXSSmmt7NVs-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6HhJjYeUGjXSSmmt7NVs-1" target="6HhJjYeUGjXSSmmt7NVs-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6HhJjYeUGjXSSmmt7NVs-1" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;u&gt;&lt;b&gt;Economic order quantity&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;`EOQ=Q=sqrt{(2ACa)/(Ci)}`&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6HhJjYeUGjXSSmmt7NVs-1" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;u&gt;&lt;b&gt;Economic order quantity&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;`EOQ=Q=sqrt{(2ACa)/(Ci)}`&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="40" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="6HhJjYeUGjXSSmmt7NVs-2" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Q = Number of units of RM to be purchased at one time&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;A = number of RM to be purchases in a year&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;[annual requirement of RM]&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Ca = Ordering cost per order&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;[cost incurred for acquisition of RM. like...&lt;/div&gt;&lt;div&gt;1. delivery&lt;/div&gt;&lt;div&gt;2. handling charges&lt;/div&gt;&lt;div&gt;3. order placing cost&lt;/div&gt;&lt;div&gt;4. order cost]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;TCa = Total&lt;/b&gt;&lt;/font&gt; &lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Ordering cost per order P.a.&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Ci = carrying cost P.a.&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;CPU = Cost per unit&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;i = Percentage of caring cost P.a.&lt;span&gt;&lt;/span&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;[cost incurred to store and maintain RM in godown&lt;/div&gt;&lt;div&gt;like - &lt;br&gt;&lt;/div&gt;&lt;div&gt;1. storage cost&lt;/div&gt;&lt;div&gt;2. interest rate&lt;/div&gt;&lt;div&gt;3. obsolescence rate&lt;/div&gt;&lt;div&gt;4. holding cost&lt;/div&gt;&lt;div&gt;5. cost of WC finance]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;TCi = Total &lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;carrying cost P.a.&lt;/b&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6HhJjYeUGjXSSmmt7NVs-2" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Q = Number of units of RM to be purchased at one time&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;A = number of RM to be purchases in a year&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;[annual requirement of RM]&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Ca = Ordering cost per order&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;[cost incurred for acquisition of RM. like...&lt;/div&gt;&lt;div&gt;1. delivery&lt;/div&gt;&lt;div&gt;2. handling charges&lt;/div&gt;&lt;div&gt;3. order placing cost&lt;/div&gt;&lt;div&gt;4. order cost]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;TCa = Total&lt;/b&gt;&lt;/font&gt; &lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Ordering cost per order P.a.&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Ci = carrying cost P.a.&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;CPU = Cost per unit&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;i = Percentage of caring cost P.a.&lt;span&gt;&lt;/span&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;[cost incurred to store and maintain RM in godown&lt;/div&gt;&lt;div&gt;like - &lt;br&gt;&lt;/div&gt;&lt;div&gt;1. storage cost&lt;/div&gt;&lt;div&gt;2. interest rate&lt;/div&gt;&lt;div&gt;3. obsolescence rate&lt;/div&gt;&lt;div&gt;4. holding cost&lt;/div&gt;&lt;div&gt;5. cost of WC finance]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;TCi = Total &lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;carrying cost P.a.&lt;/b&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="38.75" width="320" height="461.25" as="geometry" />
         </mxCell>
-        <mxCell id="6HhJjYeUGjXSSmmt7NVs-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6HhJjYeUGjXSSmmt7NVs-4" target="6HhJjYeUGjXSSmmt7NVs-6">
+        <mxCell id="6HhJjYeUGjXSSmmt7NVs-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6HhJjYeUGjXSSmmt7NVs-4" target="6HhJjYeUGjXSSmmt7NVs-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6HhJjYeUGjXSSmmt7NVs-4" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;u&gt;&lt;b&gt;Number of orders P.a.&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;`= A/Q`&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6HhJjYeUGjXSSmmt7NVs-4" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;u&gt;&lt;b&gt;Number of orders P.a.&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;`= A/Q`&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="180" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="6HhJjYeUGjXSSmmt7NVs-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6HhJjYeUGjXSSmmt7NVs-6" target="6HhJjYeUGjXSSmmt7NVs-8">
+        <mxCell id="6HhJjYeUGjXSSmmt7NVs-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6HhJjYeUGjXSSmmt7NVs-6" target="6HhJjYeUGjXSSmmt7NVs-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6HhJjYeUGjXSSmmt7NVs-6" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;u&gt;&lt;b&gt;Total Acquisition cost P.a.&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;`TCa = A/Q xx Ca`&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6HhJjYeUGjXSSmmt7NVs-6" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;u&gt;&lt;b&gt;Total Acquisition cost P.a.&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;`TCa = A/Q xx Ca`&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="300" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="6HhJjYeUGjXSSmmt7NVs-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6HhJjYeUGjXSSmmt7NVs-8" target="6HhJjYeUGjXSSmmt7NVs-10">
+        <mxCell id="6HhJjYeUGjXSSmmt7NVs-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6HhJjYeUGjXSSmmt7NVs-8" target="6HhJjYeUGjXSSmmt7NVs-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6HhJjYeUGjXSSmmt7NVs-8" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;u&gt;&lt;b&gt;Total Holding cost P.a.&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;`Ci = CPU xx i`&lt;/font&gt;&lt;br&gt;&lt;b&gt;&lt;/b&gt;&lt;u&gt;&lt;b&gt;&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;`TCi = Q/2 xx Ci`&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6HhJjYeUGjXSSmmt7NVs-8" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;u&gt;&lt;b&gt;Total Holding cost P.a.&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;`Ci = CPU xx i`&lt;/font&gt;&lt;br&gt;&lt;b&gt;&lt;/b&gt;&lt;u&gt;&lt;b&gt;&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;`TCi = Q/2 xx Ci`&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="420" width="200" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="6HhJjYeUGjXSSmmt7NVs-10" value="&lt;div&gt;Inventory cost/related cost (T)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;`T = TCa + TCi`&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6HhJjYeUGjXSSmmt7NVs-10" value="&lt;div&gt;Inventory cost/related cost (T)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;`T = TCa + TCi`&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="550" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="SXT_47Ajc5hEjM8zL6WO-1" value="How much RM to buy?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="-40" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SXT_47Ajc5hEjM8zL6WO-2" value="How much to Produce?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="955" y="-40" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SXT_47Ajc5hEjM8zL6WO-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="SXT_47Ajc5hEjM8zL6WO-4" target="SXT_47Ajc5hEjM8zL6WO-7" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SXT_47Ajc5hEjM8zL6WO-4" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;u&gt;&lt;b&gt;Economic order quantity&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;`EOQ=Q=sqrt{(2ACa)/(Ci)}`&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="270" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="SXT_47Ajc5hEjM8zL6WO-5" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Q = Number of units of finished goods to be Finished at one time&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;A = number of Units of finished goods to be produced in a year&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;[annual requirement of RM]&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Ca = Setup cost per production run&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;[cost incurred for acquisition of RM. like...&lt;/div&gt;&lt;div&gt;1. delivery&lt;/div&gt;&lt;div&gt;2. handling charges&lt;/div&gt;&lt;div&gt;3. order placing cost&lt;/div&gt;&lt;div&gt;4. order cost]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;TCa = Total setup&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt; cost per order P.a.&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Ci = carrying cost per unit P.a.&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;i = Percentage of caring cost P.a.&lt;span&gt;&lt;/span&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;[cost incurred to store and maintain RM in godown&lt;/div&gt;&lt;div&gt;like - &lt;br&gt;&lt;/div&gt;&lt;div&gt;1. storage cost&lt;/div&gt;&lt;div&gt;2. interest rate&lt;/div&gt;&lt;div&gt;3. obsolescence rate&lt;/div&gt;&lt;div&gt;4. holding cost&lt;/div&gt;&lt;div&gt;5. cost of WC finance]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;TCi = Total &lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;carrying cost P.a.&lt;/b&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="268.75" width="320" height="461.25" as="geometry" />
+        </mxCell>
+        <mxCell id="SXT_47Ajc5hEjM8zL6WO-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="SXT_47Ajc5hEjM8zL6WO-7" target="SXT_47Ajc5hEjM8zL6WO-9" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SXT_47Ajc5hEjM8zL6WO-7" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;u&gt;&lt;b&gt;Number of orders P.a.&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;`= A/Q`&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="410" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="SXT_47Ajc5hEjM8zL6WO-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="SXT_47Ajc5hEjM8zL6WO-9" target="SXT_47Ajc5hEjM8zL6WO-11" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SXT_47Ajc5hEjM8zL6WO-9" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;u&gt;&lt;b&gt;Total Acquisition cost P.a.&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;`TCa = A/Q xx Ca`&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="530" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="SXT_47Ajc5hEjM8zL6WO-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="SXT_47Ajc5hEjM8zL6WO-11" target="SXT_47Ajc5hEjM8zL6WO-12" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SXT_47Ajc5hEjM8zL6WO-11" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;u&gt;&lt;b&gt;Total Holding cost P.a.&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;`Ci = CPU xx i`&lt;/font&gt;&lt;br&gt;&lt;b&gt;&lt;/b&gt;&lt;u&gt;&lt;b&gt;&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;`TCi = Q/2 xx Ci`&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="650" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="SXT_47Ajc5hEjM8zL6WO-12" value="&lt;div&gt;Inventory cost/related cost (T)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;`T = TCa + TCi`&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="780" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="SXT_47Ajc5hEjM8zL6WO-13" value="Production budget" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="955" y="38.75" width="320" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="SXT_47Ajc5hEjM8zL6WO-14" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="SXT_47Ajc5hEjM8zL6WO-13">
+          <mxGeometry y="30" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SXT_47Ajc5hEjM8zL6WO-15" value="Budgeted sales Qty." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="SXT_47Ajc5hEjM8zL6WO-14">
+          <mxGeometry width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SXT_47Ajc5hEjM8zL6WO-16" value="xx" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="SXT_47Ajc5hEjM8zL6WO-14">
+          <mxGeometry x="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SXT_47Ajc5hEjM8zL6WO-17" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="SXT_47Ajc5hEjM8zL6WO-13">
+          <mxGeometry y="70" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SXT_47Ajc5hEjM8zL6WO-18" value="(+) Budgeted Closing stock" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="SXT_47Ajc5hEjM8zL6WO-17">
+          <mxGeometry width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SXT_47Ajc5hEjM8zL6WO-19" value="x" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="SXT_47Ajc5hEjM8zL6WO-17">
+          <mxGeometry x="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SXT_47Ajc5hEjM8zL6WO-20" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="SXT_47Ajc5hEjM8zL6WO-13">
+          <mxGeometry y="110" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SXT_47Ajc5hEjM8zL6WO-21" value="(-) Budgeted opening stock" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="SXT_47Ajc5hEjM8zL6WO-20">
+          <mxGeometry width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SXT_47Ajc5hEjM8zL6WO-22" value="(x)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="SXT_47Ajc5hEjM8zL6WO-20">
+          <mxGeometry x="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SXT_47Ajc5hEjM8zL6WO-23" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="SXT_47Ajc5hEjM8zL6WO-13">
+          <mxGeometry y="150" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SXT_47Ajc5hEjM8zL6WO-24" value="&lt;div&gt;Budgeted production quantity = A = &lt;br&gt;&lt;/div&gt;&lt;div&gt;(required finished goods P.a.)&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="SXT_47Ajc5hEjM8zL6WO-23">
+          <mxGeometry width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SXT_47Ajc5hEjM8zL6WO-25" value="XXXX" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="SXT_47Ajc5hEjM8zL6WO-23">
+          <mxGeometry x="240" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
