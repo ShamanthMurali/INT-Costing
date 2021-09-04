@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-04T13:48:02.185Z" agent="5.0 (X11)" etag="VH3jDtlFUPB4_iyq4NKx" version="15.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-04T17:03:37.321Z" agent="5.0 (X11)" etag="v0bVbJyVs1XRMW6wW78w" version="15.0.6" type="github">
   <diagram id="7xYDh08NcEi_VtG_tVV7" name="Page-1">
-    <mxGraphModel dx="177.89" dy="120.69" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="124.36" dy="-962.67" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -105,6 +105,9 @@
         </mxCell>
         <mxCell id="7W-jUXoZuzK3Gu51qgMF-26" value="Since P.U is same it is variable cost" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="510" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7W-jUXoZuzK3Gu51qgMF-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7W-jUXoZuzK3Gu51qgMF-31" target="7W-jUXoZuzK3Gu51qgMF-84">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7W-jUXoZuzK3Gu51qgMF-31" value="Example" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
           <mxGeometry x="370" y="320" width="180" height="170" as="geometry" />
@@ -222,6 +225,45 @@
         </mxCell>
         <mxCell id="7W-jUXoZuzK3Gu51qgMF-78" value="Since cost is same it is fixed cost" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="380" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7W-jUXoZuzK3Gu51qgMF-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7W-jUXoZuzK3Gu51qgMF-84" target="7W-jUXoZuzK3Gu51qgMF-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7W-jUXoZuzK3Gu51qgMF-84" value="How to bifurcate variable and fixed" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="640" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7W-jUXoZuzK3Gu51qgMF-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7W-jUXoZuzK3Gu51qgMF-86" target="7W-jUXoZuzK3Gu51qgMF-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7W-jUXoZuzK3Gu51qgMF-86" value="`\text{VC per unit} = (Delta\text{Total cost})/(Delta\text{Total units})`" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="700" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7W-jUXoZuzK3Gu51qgMF-91" value="Fixed cost per unit = Total cost cost per unit - VC per unit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="295" y="770" width="330" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7W-jUXoZuzK3Gu51qgMF-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7W-jUXoZuzK3Gu51qgMF-93" target="7W-jUXoZuzK3Gu51qgMF-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7W-jUXoZuzK3Gu51qgMF-93" value="Step 2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="880" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7W-jUXoZuzK3Gu51qgMF-94" value="Make data comparable" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="940" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7W-jUXoZuzK3Gu51qgMF-95" value="i.e. convert budgeted to actual data units, but not visa versa" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="980" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7W-jUXoZuzK3Gu51qgMF-97" value="For calculation of budgets" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1080" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7W-jUXoZuzK3Gu51qgMF-98" value="For calculation of budgets" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="1090" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7W-jUXoZuzK3Gu51qgMF-99" value="For calculation of budgets" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7W-jUXoZuzK3Gu51qgMF-100" value="For calculation of budgets" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="1110" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
