@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-06T12:01:12.702Z" agent="5.0 (X11)" etag="Q3rhnchaYsow1e2LjfRt" version="15.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-06T12:08:13.127Z" agent="5.0 (X11)" etag="-hA6jChZl8O68bRRIrrx" version="15.0.6" type="github">
   <diagram id="CyPvhByOn69fHsdpHqbr" name="Page-1">
-    <mxGraphModel dx="1958" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1958" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -250,8 +250,8 @@
         <mxCell id="h90uzLbG_IrZYUISlAX0-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="h90uzLbG_IrZYUISlAX0-93" target="h90uzLbG_IrZYUISlAX0-95" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h90uzLbG_IrZYUISlAX0-93" value="&lt;div&gt;&lt;u&gt;effective rate per hour&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;`\text{total wages}/\text{time taken}`&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="1760" width="280" height="80" as="geometry" />
+        <mxCell id="h90uzLbG_IrZYUISlAX0-93" value="&lt;div&gt;&lt;u&gt;effective rate per hour&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;`\text{total wages}/\text{time taken(Excluding normal idle time)}`&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="255" y="1760" width="330" height="80" as="geometry" />
         </mxCell>
         <mxCell id="h90uzLbG_IrZYUISlAX0-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="h90uzLbG_IrZYUISlAX0-95" target="h90uzLbG_IrZYUISlAX0-98" edge="1">
           <mxGeometry relative="1" as="geometry" />
