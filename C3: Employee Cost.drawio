@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-20T05:35:03.805Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="XvZUhbSmaeBfW8SVJ3NY" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-06T12:01:12.702Z" agent="5.0 (X11)" etag="Q3rhnchaYsow1e2LjfRt" version="15.0.6" type="github">
   <diagram id="CyPvhByOn69fHsdpHqbr" name="Page-1">
-    <mxGraphModel dx="2106" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1958" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -345,7 +345,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h90uzLbG_IrZYUISlAX0-124" value="&lt;div&gt;&lt;u&gt;Bonus =&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;`\text{Time saved}/\text{Time allowed}*\text{Basic wages}`&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="2420" width="200" height="80" as="geometry" />
+          <mxGeometry x="270" y="2420" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="h90uzLbG_IrZYUISlAX0-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="h90uzLbG_IrZYUISlAX0-125" target="h90uzLbG_IrZYUISlAX0-127" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -359,73 +359,73 @@
         <mxCell id="h90uzLbG_IrZYUISlAX0-127" value="time saved = excess units * standard time" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="229.5" y="2360" width="301" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4Gh-3FB3gp2eRBAiM5g2-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h90uzLbG_IrZYUISlAX0-130" target="4Gh-3FB3gp2eRBAiM5g2-1">
+        <mxCell id="4Gh-3FB3gp2eRBAiM5g2-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="h90uzLbG_IrZYUISlAX0-130" target="4Gh-3FB3gp2eRBAiM5g2-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h90uzLbG_IrZYUISlAX0-130" value="`\text{Factory cost} =\text{Material cost} + \text{labour} + \text{factory overhead}`" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="162.5" y="2600" width="435" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4Gh-3FB3gp2eRBAiM5g2-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4Gh-3FB3gp2eRBAiM5g2-1" target="4Gh-3FB3gp2eRBAiM5g2-2">
+        <mxCell id="4Gh-3FB3gp2eRBAiM5g2-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4Gh-3FB3gp2eRBAiM5g2-1" target="4Gh-3FB3gp2eRBAiM5g2-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4Gh-3FB3gp2eRBAiM5g2-1" value="Employee turnover" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="4Gh-3FB3gp2eRBAiM5g2-1" value="Employee turnover" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="320" y="2660" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4Gh-3FB3gp2eRBAiM5g2-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4Gh-3FB3gp2eRBAiM5g2-2" target="4Gh-3FB3gp2eRBAiM5g2-5">
+        <mxCell id="4Gh-3FB3gp2eRBAiM5g2-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4Gh-3FB3gp2eRBAiM5g2-2" target="4Gh-3FB3gp2eRBAiM5g2-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4Gh-3FB3gp2eRBAiM5g2-2" value="Employee turnover refers to the number or percentage of workers who leave an organization and are replaced by new employees" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="4Gh-3FB3gp2eRBAiM5g2-2" value="Employee turnover refers to the number or percentage of workers who leave an organization and are replaced by new employees" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="200" y="2720" width="360" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4Gh-3FB3gp2eRBAiM5g2-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4Gh-3FB3gp2eRBAiM5g2-5" target="4Gh-3FB3gp2eRBAiM5g2-7">
+        <mxCell id="4Gh-3FB3gp2eRBAiM5g2-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4Gh-3FB3gp2eRBAiM5g2-5" target="4Gh-3FB3gp2eRBAiM5g2-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4Gh-3FB3gp2eRBAiM5g2-5" value="Average number of worker in a year =&amp;nbsp;&lt;br&gt;&lt;br&gt;`(\text{number of workers in the beginning}+\text{number of workers in the end})/2`" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="2780" width="440" height="80" as="geometry" />
+        <mxCell id="4Gh-3FB3gp2eRBAiM5g2-5" value="Average number of worker in a year =&amp;nbsp;&lt;br&gt;&lt;br&gt;`(\text{number of workers in the beginning}+\text{number of workers in the end})/2`" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="2780" width="520" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4Gh-3FB3gp2eRBAiM5g2-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4Gh-3FB3gp2eRBAiM5g2-7" target="4Gh-3FB3gp2eRBAiM5g2-9">
+        <mxCell id="4Gh-3FB3gp2eRBAiM5g2-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4Gh-3FB3gp2eRBAiM5g2-7" target="4Gh-3FB3gp2eRBAiM5g2-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4Gh-3FB3gp2eRBAiM5g2-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4Gh-3FB3gp2eRBAiM5g2-7" target="4Gh-3FB3gp2eRBAiM5g2-10">
+        <mxCell id="4Gh-3FB3gp2eRBAiM5g2-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4Gh-3FB3gp2eRBAiM5g2-7" target="4Gh-3FB3gp2eRBAiM5g2-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4Gh-3FB3gp2eRBAiM5g2-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4Gh-3FB3gp2eRBAiM5g2-7" target="4Gh-3FB3gp2eRBAiM5g2-11">
+        <mxCell id="4Gh-3FB3gp2eRBAiM5g2-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4Gh-3FB3gp2eRBAiM5g2-7" target="4Gh-3FB3gp2eRBAiM5g2-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4Gh-3FB3gp2eRBAiM5g2-7" value="&lt;b&gt;&lt;u&gt;Methods of calculating employee turnover&lt;/u&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="4Gh-3FB3gp2eRBAiM5g2-7" value="&lt;b&gt;&lt;u&gt;Methods of calculating employee turnover&lt;/u&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="300" y="2880" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4Gh-3FB3gp2eRBAiM5g2-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4Gh-3FB3gp2eRBAiM5g2-9" target="4Gh-3FB3gp2eRBAiM5g2-15">
+        <mxCell id="4Gh-3FB3gp2eRBAiM5g2-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4Gh-3FB3gp2eRBAiM5g2-9" target="4Gh-3FB3gp2eRBAiM5g2-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4Gh-3FB3gp2eRBAiM5g2-9" value="Seperation method" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="29.5" y="2960" width="120" height="40" as="geometry" />
+        <mxCell id="4Gh-3FB3gp2eRBAiM5g2-9" value="Seperation method" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-20" y="2960" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4Gh-3FB3gp2eRBAiM5g2-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4Gh-3FB3gp2eRBAiM5g2-10" target="4Gh-3FB3gp2eRBAiM5g2-17">
+        <mxCell id="4Gh-3FB3gp2eRBAiM5g2-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4Gh-3FB3gp2eRBAiM5g2-10" target="4Gh-3FB3gp2eRBAiM5g2-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4Gh-3FB3gp2eRBAiM5g2-10" value="Replacement method" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4Gh-3FB3gp2eRBAiM5g2-10" value="Replacement method" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="2960" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4Gh-3FB3gp2eRBAiM5g2-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4Gh-3FB3gp2eRBAiM5g2-11" target="4Gh-3FB3gp2eRBAiM5g2-19">
+        <mxCell id="4Gh-3FB3gp2eRBAiM5g2-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="4Gh-3FB3gp2eRBAiM5g2-11" target="4Gh-3FB3gp2eRBAiM5g2-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4Gh-3FB3gp2eRBAiM5g2-11" value="Flux method" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680.5" y="2960" width="120" height="40" as="geometry" />
+        <mxCell id="4Gh-3FB3gp2eRBAiM5g2-11" value="Flux method" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="739.75" y="2960" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4Gh-3FB3gp2eRBAiM5g2-15" value="`\text{number of workers seperated}/\text{average number of workeers in a year}*100`" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-50.5" y="3020" width="280" height="80" as="geometry" />
+        <mxCell id="4Gh-3FB3gp2eRBAiM5g2-15" value="`\text{number of workers seperated}/\text{average number of workeers in a year}*100`" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-120" y="3020" width="320" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4Gh-3FB3gp2eRBAiM5g2-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4Gh-3FB3gp2eRBAiM5g2-17" target="4Gh-3FB3gp2eRBAiM5g2-21">
+        <mxCell id="4Gh-3FB3gp2eRBAiM5g2-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4Gh-3FB3gp2eRBAiM5g2-17" target="4Gh-3FB3gp2eRBAiM5g2-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4Gh-3FB3gp2eRBAiM5g2-17" value="`\text{number of workers replaced}/\text{average number of workeers in a year}*100`" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="3020" width="280" height="80" as="geometry" />
+        <mxCell id="4Gh-3FB3gp2eRBAiM5g2-17" value="`\text{number of workers replaced}/\text{average number of workeers in a year}*100`" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="3020" width="320" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4Gh-3FB3gp2eRBAiM5g2-19" value="`\text{number of workers replaced + number of workers seperated}/\text{average number of workeers in a year}*100`" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530.5" y="3020" width="420" height="80" as="geometry" />
+        <mxCell id="4Gh-3FB3gp2eRBAiM5g2-19" value="`\text{number of workers replaced + number of workers seperated}/\text{average number of workeers in a year}*100`" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="3020" width="479.5" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4Gh-3FB3gp2eRBAiM5g2-21" value="number of workers replaced&lt;br&gt;&lt;br&gt;e.g.&lt;br&gt;newly hired = 20&lt;br&gt;left = 60&lt;br&gt;therefore, replaced = 20&lt;br&gt;seperated = 60" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=17;" vertex="1" parent="1">
+        <mxCell id="4Gh-3FB3gp2eRBAiM5g2-21" value="number of workers replaced&lt;br&gt;&lt;br&gt;e.g.&lt;br&gt;newly hired = 20&lt;br&gt;left = 60&lt;br&gt;therefore, replaced = 20&lt;br&gt;seperated = 60" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=17;" parent="1" vertex="1">
           <mxGeometry x="280" y="3120" width="200" height="100" as="geometry" />
         </mxCell>
       </root>
