@@ -1,14 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2021-10-01T08:43:54.841Z" agent="5.0 (X11)" etag="5NRKhbdqQa7lVOJ_KCJW" version="15.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-01T13:08:33.303Z" agent="5.0 (X11)" etag="RYmH3qU7BhcXWNHPm-Vg" version="15.3.8" type="github">
   <diagram id="on58YmMV09DeW2faqG9Z" name="Page-1">
-    <mxGraphModel dx="1237" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="853" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="a-d9BczC9OHC0ECby-IM-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a-d9BczC9OHC0ECby-IM-1" target="a-d9BczC9OHC0ECby-IM-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="a-d9BczC9OHC0ECby-IM-1" value="Activity based costing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="a-d9BczC9OHC0ECby-IM-2" value="&amp;nbsp;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="130" width="30" height="30" as="geometry" />
+        <mxCell id="a-d9BczC9OHC0ECby-IM-3" value="well there is no notes for this chapter. you have to solve using common sense. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="285" y="60" width="280" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
