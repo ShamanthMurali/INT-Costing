@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2021-10-07T20:17:00.576Z" agent="5.0 (X11)" etag="p35rgHiu69oxCZMkf5cf" version="15.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-07T20:17:20.499Z" agent="5.0 (X11)" etag="KXq6ay_P2xVuB0zPt-4e" version="15.4.3" type="github">
   <diagram id="qRiUj2MOukWZC0kYqg6o" name="Page-1">
-    <mxGraphModel dx="2697" dy="988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1773" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="y4PppQBV1pzuvYPeFtc6-1" value="Marginal costing" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="y4PppQBV1pzuvYPeFtc6-2" value="&lt;div&gt;`\text{Contribution (C)} = \text{Sales Revenue (S)} – \text{Total Variable Cost (V)}`&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Note: sometime variable cost is referred to as marginal cost&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="y4PppQBV1pzuvYPeFtc6-2" value="&lt;div&gt;`\text{Contribution (C)} = \text{Sales Revenue (S)} – \text{Total Variable Cost (V)}`&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Note: sometimes variable cost is referred to as marginal cost&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="80" width="440" height="60" as="geometry" />
         </mxCell>
         <mxCell id="y4PppQBV1pzuvYPeFtc6-4" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Profit Volume Ratio&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;shows the proportion of sales available to cover fixed costs and profit&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;`\text{P / V Ratio} = (Contribution)/(\text{Sales}) xx 100`&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;`\text{P / V Ratio} = (\text{Change in Contribution or profit})/(\text{change in Sales}`&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;or&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;`\text{P / V Ratio} = 100%-\text{% of Variable costs}`&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;`\text{P / V Ratio} = (\text{Fixed cost})/(\text{BES}`&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
