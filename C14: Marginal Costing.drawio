@@ -1,41 +1,56 @@
-<mxfile host="app.diagrams.net" modified="2021-10-07T12:54:24.592Z" agent="5.0 (X11)" etag="tjP_EZWpUuKCNUabv8f3" version="15.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-07T13:12:14.829Z" agent="5.0 (X11)" etag="43MHcl6Jbstf2nMh5icp" version="15.4.3" type="github">
   <diagram id="qRiUj2MOukWZC0kYqg6o" name="Page-1">
-    <mxGraphModel dx="1718" dy="409" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2331" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="y4PppQBV1pzuvYPeFtc6-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="y4PppQBV1pzuvYPeFtc6-1" target="y4PppQBV1pzuvYPeFtc6-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="y4PppQBV1pzuvYPeFtc6-1" value="Marginal costing" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="y4PppQBV1pzuvYPeFtc6-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="y4PppQBV1pzuvYPeFtc6-2" target="y4PppQBV1pzuvYPeFtc6-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="y4PppQBV1pzuvYPeFtc6-2" value="`\text{Contribution (C)} = \text{Sales Revenue (S)} – \text{Total Variable Cost (V)}`" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="60" width="440" height="40" as="geometry" />
+          <mxGeometry x="200" y="80" width="440" height="40" as="geometry" />
         </mxCell>
         <mxCell id="y4PppQBV1pzuvYPeFtc6-4" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Profit Volume Ratio&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;shows the proportion of sales available to cover fixed costs and profit&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;`\text{P / V Ratio} = (Contribution)/(\text{Sales}) xx 100`&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;`\text{P / V Ratio} = (\text{Change in Contribution or profit})/(\text{change in Sales}`&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;or&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;`\text{P / V Ratio} = 100%-\text{% of Variable costs}`&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;`\text{P / V Ratio} = (\text{Fixed cost})/(\text{BES}`&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="222.5" y="120" width="395" height="330" as="geometry" />
+          <mxGeometry x="222.5" y="160" width="395" height="330" as="geometry" />
         </mxCell>
-        <mxCell id="y4PppQBV1pzuvYPeFtc6-6" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Breakeven Point (BEP) (In units)&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Point where the amount of sale will lead to 0 profits or amount of sales enough to cover Fixed cost. This is the point where neither profits nor losses have been made is known as a break-even&amp;nbsp; point.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;`\text{Break-even point (BEP) (in units)} = (\text{Fixed costs})/(\text{contribution per unit})`&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-460" y="460" width="395" height="180" as="geometry" />
+        <mxCell id="y4PppQBV1pzuvYPeFtc6-6" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Breakeven Point (BEP) (In units)&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;`\text{Break-even point (in units)} = (\text{Fixed costs})/(\text{contribution per unit})`&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="469.5" y="740" width="395" height="100" as="geometry" />
         </mxCell>
         <mxCell id="y4PppQBV1pzuvYPeFtc6-8" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Cash Breakeven Point&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;`\text{Cash Break-even point} = (\text{Cash Fixed costs})/(\text{contribution per unit})`" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="180" y="860" width="395" height="100" as="geometry" />
+          <mxGeometry x="228" y="1050" width="395" height="100" as="geometry" />
         </mxCell>
         <mxCell id="y4PppQBV1pzuvYPeFtc6-11" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Margin of safety&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;the difference between the expected level &lt;br&gt;of sale and the breakeven sales.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;`\text{Margin of safety} = (\text{Profit})/(\text{PV Ratio})`&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;`\text{Margin of safety} = (\text{Total sales})-(\text{BES})`&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-160" y="1110" width="395" height="181.79" as="geometry" />
+          <mxGeometry x="228" y="1190" width="395" height="181.79" as="geometry" />
         </mxCell>
-        <mxCell id="y4PppQBV1pzuvYPeFtc6-19" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Breakeven Sales (BES)&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;`\text{Break-even sales%} = 100%-\text{% of Margin of safety}`&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;`\text{Number of units sold} = (\text{BEP(In units)})/(\text{PV Ratio})`&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="470" y="720" width="395" height="130" as="geometry" />
+        <mxCell id="y4PppQBV1pzuvYPeFtc6-19" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Break-even point in Sales (BES)&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;`\text{Break-even sales%(In percentage of total sales)} = 100%-\text{% of Margin of safety}`&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;`\text{Break-even Point(In Value)} = \text{Sales} - \text{Margin of safety}`&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;`\text{Break-even Point(In Value)} = \text{Total Fixed Cost}/\text{Contribution}xx\text{Sales}`&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;`\text{Break-even Point(In Value)} = \text{Total Fixed Cost}/\text{PV Ratio%}`" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-93" y="740" width="540" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="nuqaz7CSoFRdI6YAy5BT-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nuqaz7CSoFRdI6YAy5BT-20" target="nuqaz7CSoFRdI6YAy5BT-28">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nuqaz7CSoFRdI6YAy5BT-20" value="Break even point" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="480" width="130" height="40" as="geometry" />
+          <mxGeometry x="360" y="530" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nuqaz7CSoFRdI6YAy5BT-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="560" width="130" height="40" as="geometry" />
+        <mxCell id="nuqaz7CSoFRdI6YAy5BT-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nuqaz7CSoFRdI6YAy5BT-21" target="y4PppQBV1pzuvYPeFtc6-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nuqaz7CSoFRdI6YAy5BT-21" value="Total sales amount in Rs." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="112" y="680" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nuqaz7CSoFRdI6YAy5BT-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nuqaz7CSoFRdI6YAy5BT-25" target="y4PppQBV1pzuvYPeFtc6-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nuqaz7CSoFRdI6YAy5BT-25" value="In No. of Units" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="602" y="680" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nuqaz7CSoFRdI6YAy5BT-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nuqaz7CSoFRdI6YAy5BT-28" target="nuqaz7CSoFRdI6YAy5BT-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nuqaz7CSoFRdI6YAy5BT-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nuqaz7CSoFRdI6YAy5BT-28" target="nuqaz7CSoFRdI6YAy5BT-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nuqaz7CSoFRdI6YAy5BT-28" value="Point where the amount of sale will lead to 0 profits or amount of sales enough to cover Fixed cost. This is the point where neither profits nor losses have been made is known as a break-even&amp;nbsp; point." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="219.5" y="590" width="400" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
