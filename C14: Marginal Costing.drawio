@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-07T13:12:14.829Z" agent="5.0 (X11)" etag="43MHcl6Jbstf2nMh5icp" version="15.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-07T19:37:23.122Z" agent="5.0 (X11)" etag="R6yhRTkWIhixJQBpiQRU" version="15.4.3" type="github">
   <diagram id="qRiUj2MOukWZC0kYqg6o" name="Page-1">
-    <mxGraphModel dx="2331" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1958" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,37 +19,37 @@
         <mxCell id="y4PppQBV1pzuvYPeFtc6-8" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Cash Breakeven Point&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;`\text{Cash Break-even point} = (\text{Cash Fixed costs})/(\text{contribution per unit})`" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="228" y="1050" width="395" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="y4PppQBV1pzuvYPeFtc6-11" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Margin of safety&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;the difference between the expected level &lt;br&gt;of sale and the breakeven sales.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;`\text{Margin of safety} = (\text{Profit})/(\text{PV Ratio})`&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;`\text{Margin of safety} = (\text{Total sales})-(\text{BES})`&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="y4PppQBV1pzuvYPeFtc6-11" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Margin of safety&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;the difference between the expected level &lt;br&gt;of sale and the breakeven sales.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;`\text{Margin of safety (In Value)} = (\text{Profit})/(\text{PV Ratio%})`&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;`\text{Margin of safety} = (\text{Total sales})-(\text{BES})`&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="228" y="1190" width="395" height="181.79" as="geometry" />
         </mxCell>
         <mxCell id="y4PppQBV1pzuvYPeFtc6-19" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Break-even point in Sales (BES)&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;`\text{Break-even sales%(In percentage of total sales)} = 100%-\text{% of Margin of safety}`&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;`\text{Break-even Point(In Value)} = \text{Sales} - \text{Margin of safety}`&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;`\text{Break-even Point(In Value)} = \text{Total Fixed Cost}/\text{Contribution}xx\text{Sales}`&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;`\text{Break-even Point(In Value)} = \text{Total Fixed Cost}/\text{PV Ratio%}`" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-93" y="740" width="540" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="nuqaz7CSoFRdI6YAy5BT-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nuqaz7CSoFRdI6YAy5BT-20" target="nuqaz7CSoFRdI6YAy5BT-28">
+        <mxCell id="nuqaz7CSoFRdI6YAy5BT-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nuqaz7CSoFRdI6YAy5BT-20" target="nuqaz7CSoFRdI6YAy5BT-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nuqaz7CSoFRdI6YAy5BT-20" value="Break even point" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nuqaz7CSoFRdI6YAy5BT-20" value="Break even point" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="530" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nuqaz7CSoFRdI6YAy5BT-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nuqaz7CSoFRdI6YAy5BT-21" target="y4PppQBV1pzuvYPeFtc6-19">
+        <mxCell id="nuqaz7CSoFRdI6YAy5BT-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nuqaz7CSoFRdI6YAy5BT-21" target="y4PppQBV1pzuvYPeFtc6-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nuqaz7CSoFRdI6YAy5BT-21" value="Total sales amount in Rs." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nuqaz7CSoFRdI6YAy5BT-21" value="Total sales amount in Rs." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="112" y="680" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nuqaz7CSoFRdI6YAy5BT-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nuqaz7CSoFRdI6YAy5BT-25" target="y4PppQBV1pzuvYPeFtc6-6">
+        <mxCell id="nuqaz7CSoFRdI6YAy5BT-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nuqaz7CSoFRdI6YAy5BT-25" target="y4PppQBV1pzuvYPeFtc6-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nuqaz7CSoFRdI6YAy5BT-25" value="In No. of Units" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nuqaz7CSoFRdI6YAy5BT-25" value="In No. of Units" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="602" y="680" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nuqaz7CSoFRdI6YAy5BT-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nuqaz7CSoFRdI6YAy5BT-28" target="nuqaz7CSoFRdI6YAy5BT-21">
+        <mxCell id="nuqaz7CSoFRdI6YAy5BT-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nuqaz7CSoFRdI6YAy5BT-28" target="nuqaz7CSoFRdI6YAy5BT-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nuqaz7CSoFRdI6YAy5BT-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nuqaz7CSoFRdI6YAy5BT-28" target="nuqaz7CSoFRdI6YAy5BT-25">
+        <mxCell id="nuqaz7CSoFRdI6YAy5BT-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nuqaz7CSoFRdI6YAy5BT-28" target="nuqaz7CSoFRdI6YAy5BT-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nuqaz7CSoFRdI6YAy5BT-28" value="Point where the amount of sale will lead to 0 profits or amount of sales enough to cover Fixed cost. This is the point where neither profits nor losses have been made is known as a break-even&amp;nbsp; point." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nuqaz7CSoFRdI6YAy5BT-28" value="Point where the amount of sale will lead to 0 profits or amount of sales enough to cover Fixed cost. This is the point where neither profits nor losses have been made is known as a break-even&amp;nbsp; point." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="219.5" y="590" width="400" height="50" as="geometry" />
         </mxCell>
       </root>
