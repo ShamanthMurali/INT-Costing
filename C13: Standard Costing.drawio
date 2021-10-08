@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-08T23:06:38.442Z" agent="5.0 (X11)" etag="NoK_yXGJ3kU8skqczpwm" version="15.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-08T23:12:05.894Z" agent="5.0 (X11)" etag="f-wkOWIjWiIJGxW1I27g" version="15.4.3" type="github">
   <diagram id="WG86wMdVv_8woFvAjSbu" name="Page-1">
-    <mxGraphModel dx="1051" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1261" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -252,40 +252,6 @@
         <mxCell id="aX0P_qG3oFBIW0Vp3PF0-44" value="Overhead cost variance" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1050" y="580" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="aX0P_qG3oFBIW0Vp3PF0-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aX0P_qG3oFBIW0Vp3PF0-56" target="aX0P_qG3oFBIW0Vp3PF0-59">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="aX0P_qG3oFBIW0Vp3PF0-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aX0P_qG3oFBIW0Vp3PF0-56" target="aX0P_qG3oFBIW0Vp3PF0-60">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="620" y="720" />
-              <mxPoint x="480" y="720" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aX0P_qG3oFBIW0Vp3PF0-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aX0P_qG3oFBIW0Vp3PF0-56" target="aX0P_qG3oFBIW0Vp3PF0-58">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="620" y="720" />
-              <mxPoint x="760" y="720" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aX0P_qG3oFBIW0Vp3PF0-56" value="&lt;div&gt;Labour Efficiency&lt;br&gt;&lt;/div&gt;&lt;div&gt;variance&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="660" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="aX0P_qG3oFBIW0Vp3PF0-57" value="&lt;div&gt;Labour Rate&lt;br&gt;&lt;/div&gt;&lt;div&gt;variance&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="660" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="aX0P_qG3oFBIW0Vp3PF0-58" value="&lt;div&gt;Labour Yeild&lt;br&gt;&lt;/div&gt;&lt;div&gt;variance&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="740" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="aX0P_qG3oFBIW0Vp3PF0-59" value="Idle time variance " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="740" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="aX0P_qG3oFBIW0Vp3PF0-60" value="Labour mix variance" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="740" width="120" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="aX0P_qG3oFBIW0Vp3PF0-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aX0P_qG3oFBIW0Vp3PF0-67" target="aX0P_qG3oFBIW0Vp3PF0-70">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -350,6 +316,70 @@
         <mxCell id="aX0P_qG3oFBIW0Vp3PF0-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aX0P_qG3oFBIW0Vp3PF0-121" target="aX0P_qG3oFBIW0Vp3PF0-128">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="aX0P_qG3oFBIW0Vp3PF0-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aX0P_qG3oFBIW0Vp3PF0-132" target="aX0P_qG3oFBIW0Vp3PF0-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aX0P_qG3oFBIW0Vp3PF0-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aX0P_qG3oFBIW0Vp3PF0-132" target="aX0P_qG3oFBIW0Vp3PF0-121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aX0P_qG3oFBIW0Vp3PF0-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aX0P_qG3oFBIW0Vp3PF0-138" target="aX0P_qG3oFBIW0Vp3PF0-142">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aX0P_qG3oFBIW0Vp3PF0-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aX0P_qG3oFBIW0Vp3PF0-138" target="aX0P_qG3oFBIW0Vp3PF0-145">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aX0P_qG3oFBIW0Vp3PF0-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aX0P_qG3oFBIW0Vp3PF0-145" target="aX0P_qG3oFBIW0Vp3PF0-151">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aX0P_qG3oFBIW0Vp3PF0-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aX0P_qG3oFBIW0Vp3PF0-145" target="aX0P_qG3oFBIW0Vp3PF0-148">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="620" y="720" />
+              <mxPoint x="480" y="720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aX0P_qG3oFBIW0Vp3PF0-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aX0P_qG3oFBIW0Vp3PF0-145" target="aX0P_qG3oFBIW0Vp3PF0-154">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="620" y="720" />
+              <mxPoint x="760" y="720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aX0P_qG3oFBIW0Vp3PF0-154" value="&lt;div&gt;Labour Yeild&lt;br&gt;&lt;/div&gt;&lt;div&gt;variance&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="700" y="740" width="120" height="40" as="geometry">
+            <mxRectangle x="740" y="900" width="310" height="300" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aX0P_qG3oFBIW0Vp3PF0-155" value="which arises due to productivity of workers" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="aX0P_qG3oFBIW0Vp3PF0-154">
+          <mxGeometry y="40" width="310" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aX0P_qG3oFBIW0Vp3PF0-156" value="Labour Yield Variance Or Sub-Efficiency Variance = &lt;br&gt;&amp;nbsp;[Standard&amp;nbsp; Cost&amp;nbsp; of&amp;nbsp; Standard&amp;nbsp; Time&amp;nbsp; for&amp;nbsp; Actual&amp;nbsp; Production&amp;nbsp; –&amp;nbsp; Standard&amp;nbsp; Cost&amp;nbsp; of &lt;br&gt;Actual Time Worked in Standard Proportion] &lt;br&gt;Or &lt;br&gt;Std. Rate (SR) × {Std. Hours (SH) – Revised Std. Hours (RSH)} &lt;br&gt;Or &lt;br&gt;[(SH × SR) – (RSH × SR)] &lt;br&gt;(The difference between the Standard Hours specified for actual production and &lt;br&gt;Actual Hours worked in standard proportion, at Standard Rate)." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="aX0P_qG3oFBIW0Vp3PF0-154">
+          <mxGeometry y="80" width="310" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="aX0P_qG3oFBIW0Vp3PF0-151" value="Idle time variance " style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="560" y="740" width="120" height="40" as="geometry">
+            <mxRectangle x="265" y="880" width="310" height="300" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aX0P_qG3oFBIW0Vp3PF0-152" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="aX0P_qG3oFBIW0Vp3PF0-151">
+          <mxGeometry y="40" width="310" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aX0P_qG3oFBIW0Vp3PF0-153" value="Labour Idle Time Variance = [Standard Rate per Hour × Actual Idle Hours] &lt;br&gt;Or &lt;br&gt;Std. Rate (SR) {Actual Hours&lt;sub&gt;Paid&lt;/sub&gt; – Actual Hours&lt;sub&gt;Worked&lt;/sub&gt;} &lt;br&gt;Or &lt;br&gt;[(AH*× SR) – (AH# ×SR)] &lt;br&gt;(The&amp;nbsp; difference&amp;nbsp; between&amp;nbsp; the&amp;nbsp; Actual&amp;nbsp; Hours&amp;nbsp; paid&amp;nbsp; and&amp;nbsp; Actual&amp;nbsp; Hours&amp;nbsp; worked&amp;nbsp; at &lt;br&gt;Standard Rate) &lt;br&gt;* Actual hours paid; # Actual Hours worked " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="aX0P_qG3oFBIW0Vp3PF0-151">
+          <mxGeometry y="80" width="310" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="aX0P_qG3oFBIW0Vp3PF0-148" value="Labour mix variance" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="420" y="740" width="120" height="40" as="geometry">
+            <mxRectangle x="190" y="890" width="310" height="300" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aX0P_qG3oFBIW0Vp3PF0-149" value="variance which arises due to change in the mix or &lt;br&gt;combination&amp;nbsp; of&amp;nbsp; different&amp;nbsp; skill&amp;nbsp; set" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="aX0P_qG3oFBIW0Vp3PF0-148">
+          <mxGeometry y="40" width="310" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aX0P_qG3oFBIW0Vp3PF0-150" value="Labour Mix Variance Or Gang Variance = &lt;br&gt;[Standard Cost of Actual Time Worked in Standard Proportion – Standard Cost &lt;br&gt;of Actual Time Worked] &lt;br&gt;Or &lt;br&gt;Std. Rate (SR) × {Revised Std. Hours (RSH) – Actual HoursWorked (AH)} &lt;br&gt;Or &lt;br&gt;[(RSH × SR) – (AH# × SR)] &lt;br&gt;(The&amp;nbsp; difference&amp;nbsp; between&amp;nbsp; the&amp;nbsp; Actual&amp;nbsp; Hours&amp;nbsp; worked&amp;nbsp; in&amp;nbsp; standard&amp;nbsp; proportion&amp;nbsp; and &lt;br&gt;Actual Hours worked in actual proportion, at Standard Rate). " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="aX0P_qG3oFBIW0Vp3PF0-148">
+          <mxGeometry y="80" width="310" height="220" as="geometry" />
+        </mxCell>
         <mxCell id="aX0P_qG3oFBIW0Vp3PF0-128" value="&lt;div&gt;Material &lt;br&gt;&lt;/div&gt;&lt;div&gt;yield variance&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="260" y="740" width="120" height="40" as="geometry">
             <mxRectangle x="260" y="740" width="780" height="300" as="alternateBounds" />
@@ -371,6 +401,28 @@
         </mxCell>
         <mxCell id="aX0P_qG3oFBIW0Vp3PF0-120" value="`\text{Material Mix Variance = [Standard Cost of Actual Quantity in Standard Proportion – Standard Cost of Actual Quantity]}`&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Or &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;`\text{Std. Price (SP) × {Revised Std. Quantity (RSQ) – Actual Quantity (AQ)}` &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Or &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;`\text{[(RSQ × SP) – (AQ × SP)]}`&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;(The difference between the Actual Quantity in standard proportion and Actual Quantity in actual proportion, at Standard Price) " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="aX0P_qG3oFBIW0Vp3PF0-50">
           <mxGeometry y="80" width="780" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="aX0P_qG3oFBIW0Vp3PF0-145" value="&lt;div&gt;Labour &lt;br&gt;&lt;/div&gt;&lt;div&gt;Efficiency variance&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="560" y="660" width="120" height="40" as="geometry">
+            <mxRectangle x="560" y="660" width="310" height="300" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aX0P_qG3oFBIW0Vp3PF0-146" value="Labour efficiency variance arises due to deviation in the working hours from the standard working hours." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="aX0P_qG3oFBIW0Vp3PF0-145">
+          <mxGeometry y="40" width="310" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aX0P_qG3oFBIW0Vp3PF0-147" value="Labour Efficiency Variance = &amp;nbsp;&lt;br&gt;[Standard&amp;nbsp; Cost&amp;nbsp; of&amp;nbsp; Standard&amp;nbsp; Time&amp;nbsp; for&amp;nbsp; Actual&amp;nbsp; Production&amp;nbsp; –&amp;nbsp; Standard&amp;nbsp; Cost&amp;nbsp; of &lt;br&gt;Actual Time] &lt;br&gt;Or &lt;br&gt;Std. Rate (SR) × {Std. Hours (SH) – Actual Hours (AH*)} &lt;br&gt;Or &lt;br&gt;[(SH × SR) – (AH# × SR)] &lt;br&gt;(The difference between the Standard Hours specified for actual production and &lt;br&gt;Actual Hours worked at Standard Rate)." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="aX0P_qG3oFBIW0Vp3PF0-145">
+          <mxGeometry y="80" width="310" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="aX0P_qG3oFBIW0Vp3PF0-142" value="&lt;div&gt;Labour Rate&lt;br&gt;&lt;/div&gt;&lt;div&gt;variance&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="400" y="660" width="120" height="40" as="geometry">
+            <mxRectangle x="100" y="810" width="310" height="300" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aX0P_qG3oFBIW0Vp3PF0-143" value="difference in actual rate paid from standard &lt;br&gt;rate" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="aX0P_qG3oFBIW0Vp3PF0-142">
+          <mxGeometry y="40" width="310" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aX0P_qG3oFBIW0Vp3PF0-144" value="Labour Rate Variance = [Standard Cost of Actual Time – Actual Cost] &lt;br&gt;Or &lt;br&gt;Actual Hours (AH*) × {Std. Rate (SR) – Actual Rate (AR)} &lt;br&gt;Or &lt;br&gt;[(SR×AH*) – (AR × AH*)] &lt;br&gt;(The difference between the&amp;nbsp; Standard Rate per hour and Actual Rate per hour &lt;br&gt;for the Actual Hours paid)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="aX0P_qG3oFBIW0Vp3PF0-142">
+          <mxGeometry y="80" width="310" height="220" as="geometry" />
         </mxCell>
         <mxCell id="aX0P_qG3oFBIW0Vp3PF0-121" value="&lt;div&gt;Material &lt;br&gt;&lt;/div&gt;&lt;div&gt;Usage variance&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="180" y="660" width="120" height="40" as="geometry">
@@ -394,11 +446,16 @@
         <mxCell id="aX0P_qG3oFBIW0Vp3PF0-118" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Material Price Variance = [Standard Cost of Actual Quantity* – Actual Cost] &lt;/div&gt;Or &lt;br&gt;Actual Quantity (AQ) × {Std. Price (SP) – Actual Price(A)} &lt;br&gt;Or &lt;br&gt;&lt;div&gt;[(SP × AQ) – (AP × AQ)]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(The difference between the Standard Price and Actual Price for the Actual Quantity Purchased)&lt;/div&gt;&lt;div&gt;&lt;br&gt; &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="aX0P_qG3oFBIW0Vp3PF0-48">
           <mxGeometry y="80" width="350" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="aX0P_qG3oFBIW0Vp3PF0-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aX0P_qG3oFBIW0Vp3PF0-132" target="aX0P_qG3oFBIW0Vp3PF0-48">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="aX0P_qG3oFBIW0Vp3PF0-138" value="&lt;div&gt;Labour cost &lt;br&gt;&lt;/div&gt;&lt;div&gt;variance&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="480" y="580" width="120" height="40" as="geometry">
+            <mxRectangle x="480" y="580" width="310" height="300" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="aX0P_qG3oFBIW0Vp3PF0-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aX0P_qG3oFBIW0Vp3PF0-132" target="aX0P_qG3oFBIW0Vp3PF0-121">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="aX0P_qG3oFBIW0Vp3PF0-139" value="difference&amp;nbsp; between&amp;nbsp; actual&amp;nbsp; labour&amp;nbsp; cost&amp;nbsp; and &lt;br&gt;standard cost" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="aX0P_qG3oFBIW0Vp3PF0-138">
+          <mxGeometry y="40" width="310" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aX0P_qG3oFBIW0Vp3PF0-140" value="Labour Cost Variance = [Standard Cost – Actual Cost] &lt;br&gt;Or &lt;br&gt;[(SH × SR) – (AH* × AR)] &lt;br&gt;(The difference between the Standard Labour Cost and the Actual Labour Cost &lt;br&gt;incurred for the production achieved) " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="aX0P_qG3oFBIW0Vp3PF0-138">
+          <mxGeometry y="80" width="310" height="220" as="geometry" />
         </mxCell>
         <mxCell id="aX0P_qG3oFBIW0Vp3PF0-132" value="Material cost&lt;br&gt;variance" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="90" y="580" width="120" height="40" as="geometry">
@@ -409,17 +466,6 @@
           <mxGeometry y="40" width="310" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aX0P_qG3oFBIW0Vp3PF0-134" value="Material Cost Variance = [Standard Cost – Actual Cost] &lt;br&gt;Or &lt;br&gt;[(Std. Quantity × Std. Price) – (Actual Quantity × Actual Price)] &lt;br&gt;&amp;nbsp;&lt;br&gt;(The difference between the Standard Material Cost of the actual production &lt;br&gt;volume and the Actual Cost of Material)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="aX0P_qG3oFBIW0Vp3PF0-132">
-          <mxGeometry y="80" width="310" height="220" as="geometry" />
-        </mxCell>
-        <mxCell id="aX0P_qG3oFBIW0Vp3PF0-138" value="&lt;div&gt;Labour cost &lt;br&gt;&lt;/div&gt;&lt;div&gt;variance&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="480" y="580" width="120" height="40" as="geometry">
-            <mxRectangle x="480" y="580" width="310" height="300" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aX0P_qG3oFBIW0Vp3PF0-139" value="difference&amp;nbsp; between&amp;nbsp; actual&amp;nbsp; labour&amp;nbsp; cost&amp;nbsp; and &lt;br&gt;standard cost" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="aX0P_qG3oFBIW0Vp3PF0-138">
-          <mxGeometry y="40" width="310" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="aX0P_qG3oFBIW0Vp3PF0-140" value="Labour Cost Variance = [Standard Cost – Actual Cost] &lt;br&gt;Or &lt;br&gt;[(SH × SR) – (AH* × AR)] &lt;br&gt;(The difference between the Standard Labour Cost and the Actual Labour Cost &lt;br&gt;incurred for the production achieved) " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="aX0P_qG3oFBIW0Vp3PF0-138">
           <mxGeometry y="80" width="310" height="220" as="geometry" />
         </mxCell>
       </root>
