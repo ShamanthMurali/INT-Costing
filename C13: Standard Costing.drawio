@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-08T20:20:47.726Z" agent="5.0 (X11)" etag="ZGxIWSWqQRIC02vJk70H" version="15.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-08T23:06:38.442Z" agent="5.0 (X11)" etag="NoK_yXGJ3kU8skqczpwm" version="15.4.3" type="github">
   <diagram id="WG86wMdVv_8woFvAjSbu" name="Page-1">
-    <mxGraphModel dx="1261" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1051" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -218,8 +218,10 @@
         <mxCell id="aX0P_qG3oFBIW0Vp3PF0-42" value="Cost" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="440" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="aX0P_qG3oFBIW0Vp3PF0-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aX0P_qG3oFBIW0Vp3PF0-43" target="aX0P_qG3oFBIW0Vp3PF0-45">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="aX0P_qG3oFBIW0Vp3PF0-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aX0P_qG3oFBIW0Vp3PF0-43" target="aX0P_qG3oFBIW0Vp3PF0-138">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="580" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="aX0P_qG3oFBIW0Vp3PF0-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aX0P_qG3oFBIW0Vp3PF0-43" target="aX0P_qG3oFBIW0Vp3PF0-132">
           <mxGeometry relative="1" as="geometry">
@@ -249,15 +251,6 @@
         </mxCell>
         <mxCell id="aX0P_qG3oFBIW0Vp3PF0-44" value="Overhead cost variance" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1050" y="580" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="aX0P_qG3oFBIW0Vp3PF0-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aX0P_qG3oFBIW0Vp3PF0-45" target="aX0P_qG3oFBIW0Vp3PF0-57">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="aX0P_qG3oFBIW0Vp3PF0-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aX0P_qG3oFBIW0Vp3PF0-45" target="aX0P_qG3oFBIW0Vp3PF0-56">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="aX0P_qG3oFBIW0Vp3PF0-45" value="&lt;div&gt;Labour cost &lt;br&gt;&lt;/div&gt;&lt;div&gt;variance&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="580" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aX0P_qG3oFBIW0Vp3PF0-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aX0P_qG3oFBIW0Vp3PF0-56" target="aX0P_qG3oFBIW0Vp3PF0-59">
           <mxGeometry relative="1" as="geometry" />
@@ -416,6 +409,17 @@
           <mxGeometry y="40" width="310" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aX0P_qG3oFBIW0Vp3PF0-134" value="Material Cost Variance = [Standard Cost – Actual Cost] &lt;br&gt;Or &lt;br&gt;[(Std. Quantity × Std. Price) – (Actual Quantity × Actual Price)] &lt;br&gt;&amp;nbsp;&lt;br&gt;(The difference between the Standard Material Cost of the actual production &lt;br&gt;volume and the Actual Cost of Material)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="aX0P_qG3oFBIW0Vp3PF0-132">
+          <mxGeometry y="80" width="310" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="aX0P_qG3oFBIW0Vp3PF0-138" value="&lt;div&gt;Labour cost &lt;br&gt;&lt;/div&gt;&lt;div&gt;variance&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="480" y="580" width="120" height="40" as="geometry">
+            <mxRectangle x="480" y="580" width="310" height="300" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aX0P_qG3oFBIW0Vp3PF0-139" value="difference&amp;nbsp; between&amp;nbsp; actual&amp;nbsp; labour&amp;nbsp; cost&amp;nbsp; and &lt;br&gt;standard cost" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="aX0P_qG3oFBIW0Vp3PF0-138">
+          <mxGeometry y="40" width="310" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aX0P_qG3oFBIW0Vp3PF0-140" value="Labour Cost Variance = [Standard Cost – Actual Cost] &lt;br&gt;Or &lt;br&gt;[(SH × SR) – (AH* × AR)] &lt;br&gt;(The difference between the Standard Labour Cost and the Actual Labour Cost &lt;br&gt;incurred for the production achieved) " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="aX0P_qG3oFBIW0Vp3PF0-138">
           <mxGeometry y="80" width="310" height="220" as="geometry" />
         </mxCell>
       </root>
