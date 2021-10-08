@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-08T20:01:30.939Z" agent="5.0 (X11)" etag="qPUuq5EutzHtoY7O2dBW" version="15.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-08T20:02:16.638Z" agent="5.0 (X11)" etag="pX6t3rauEubYS39ZvMGS" version="15.4.3" type="github">
   <diagram id="WG86wMdVv_8woFvAjSbu" name="Page-1">
     <mxGraphModel dx="1039" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -390,7 +390,7 @@
         <mxCell id="aX0P_qG3oFBIW0Vp3PF0-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aX0P_qG3oFBIW0Vp3PF0-121" target="aX0P_qG3oFBIW0Vp3PF0-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aX0P_qG3oFBIW0Vp3PF0-121" value="&lt;div&gt;Material Usage&lt;/div&gt;&lt;div&gt; variance&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
+        <mxCell id="aX0P_qG3oFBIW0Vp3PF0-121" value="&lt;div&gt;Material &lt;br&gt;&lt;/div&gt;&lt;div&gt;Usage variance&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="180" y="660" width="110" height="40" as="geometry">
             <mxRectangle x="180" y="660" width="310" height="300" as="alternateBounds" />
           </mxGeometry>
