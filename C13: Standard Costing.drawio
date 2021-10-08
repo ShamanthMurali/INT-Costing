@@ -1,12 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2021-10-08T17:52:31.307Z" agent="5.0 (X11)" etag="0NovERnh_fs6fIs8SJ64" version="15.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-08T19:13:44.315Z" agent="5.0 (X11)" etag="PXzBtBZSdVc4j9EUt1jA" version="15.4.3" type="github">
   <diagram id="WG86wMdVv_8woFvAjSbu" name="Page-1">
     <mxGraphModel dx="1108" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="vXovZgPbgLm4VWJfkYtY-1" value="Incomplete" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.warning;rounded=1;startSize=40;" parent="1" vertex="1">
-          <mxGeometry x="630" y="190" width="120" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="aX0P_qG3oFBIW0Vp3PF0-1" value="Profit of a company depends on sales and cost. And cost can be bifurcated into Material cost, labour cost, and OH (further FC and VC). Standard costing is the study of changes in profit due to changes in its factors. And find if such changes were favorable or adverse for the profitability of the company" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="40" width="440" height="70" as="geometry" />
         </mxCell>
