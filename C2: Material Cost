@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-28T20:31:02.373Z" agent="5.0 (X11)" etag="eOhtoH8NvJrwqeiyb9Cy" version="15.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-28T20:31:33.850Z" agent="5.0 (X11)" etag="g9uh2oXEgKKZJCqdMOKz" version="15.6.1" type="github">
   <diagram id="NaW-u4cnAQv-t8O9IHhz" name="Page-1">
-    <mxGraphModel dx="719" dy="1439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2518" dy="2286" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -498,6 +498,9 @@
         </mxCell>
         <mxCell id="wyW9UL3RK98U__SSOYrb-16" value="Balance" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1524" y="2760" width="436" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wyW9UL3RK98U__SSOYrb-50" value="Stock Ledger" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=5" vertex="1" parent="1">
+          <mxGeometry x="880" y="2720" width="1080" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
