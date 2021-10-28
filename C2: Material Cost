@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-28T20:31:33.850Z" agent="5.0 (X11)" etag="g9uh2oXEgKKZJCqdMOKz" version="15.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-28T20:31:48.587Z" agent="5.0 (X11)" etag="aLcX1HQ2ck_2Rg0fyG8F" version="15.6.1" type="github">
   <diagram id="NaW-u4cnAQv-t8O9IHhz" name="Page-1">
-    <mxGraphModel dx="2518" dy="2286" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1799" dy="1947" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -273,7 +273,7 @@
           <mxGeometry y="49" width="230" height="81" as="geometry" />
         </mxCell>
         <mxCell id="wyW9UL3RK98U__SSOYrb-1" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="880" y="2800" width="1080" height="180" as="geometry" />
+          <mxGeometry x="735" y="2800" width="1080" height="180" as="geometry" />
         </mxCell>
         <mxCell id="wyW9UL3RK98U__SSOYrb-28" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="wyW9UL3RK98U__SSOYrb-1">
           <mxGeometry width="1080" height="40" as="geometry" />
@@ -488,19 +488,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wyW9UL3RK98U__SSOYrb-13" value="Date" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="2760" width="92" height="40" as="geometry" />
+          <mxGeometry x="735" y="2760" width="92" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wyW9UL3RK98U__SSOYrb-14" value="Receipt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="972" y="2760" width="276" height="40" as="geometry" />
+          <mxGeometry x="827" y="2760" width="276" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wyW9UL3RK98U__SSOYrb-15" value="Issue" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1248" y="2760" width="276" height="40" as="geometry" />
+          <mxGeometry x="1103" y="2760" width="276" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wyW9UL3RK98U__SSOYrb-16" value="Balance" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1524" y="2760" width="436" height="40" as="geometry" />
+          <mxGeometry x="1379" y="2760" width="436" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wyW9UL3RK98U__SSOYrb-50" value="Stock Ledger" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=5" vertex="1" parent="1">
-          <mxGeometry x="880" y="2720" width="1080" height="40" as="geometry" />
+          <mxGeometry x="735" y="2720" width="1080" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
