@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-28T20:41:00.835Z" agent="5.0 (X11)" etag="CyZ0Y-r0xYt4DuA75kqZ" version="15.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-30T12:30:14.559Z" agent="5.0 (X11)" etag="-Y-6rNvGdxXI8xYLM-VY" version="15.6.2" type="github">
   <diagram id="CyPvhByOn69fHsdpHqbr" name="Page-1">
-    <mxGraphModel dx="1483" dy="339" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="5282" dy="2372" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -398,6 +398,9 @@
         <mxCell id="z-59XEyfP9iaRcQ-5U2--17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="4Gh-3FB3gp2eRBAiM5g2-7" target="z-59XEyfP9iaRcQ-5U2--5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="3-6Nx52u8A8c99mfQjMN-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4Gh-3FB3gp2eRBAiM5g2-7" target="3-6Nx52u8A8c99mfQjMN-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4Gh-3FB3gp2eRBAiM5g2-7" value="&lt;b&gt;&lt;u&gt;Methods of calculating employee turnover&lt;/u&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="300" y="2900" width="160" height="40" as="geometry" />
         </mxCell>
@@ -405,28 +408,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4Gh-3FB3gp2eRBAiM5g2-9" value="Seperation method" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-230" y="2980" width="120" height="40" as="geometry" />
+          <mxGeometry x="-440" y="2980" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="z-59XEyfP9iaRcQ-5U2--15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4Gh-3FB3gp2eRBAiM5g2-10" target="4Gh-3FB3gp2eRBAiM5g2-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4Gh-3FB3gp2eRBAiM5g2-10" value="Replacement method" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="110" y="2980" width="120" height="40" as="geometry" />
+          <mxGeometry x="-100" y="2980" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="z-59XEyfP9iaRcQ-5U2--14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4Gh-3FB3gp2eRBAiM5g2-11" target="4Gh-3FB3gp2eRBAiM5g2-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4Gh-3FB3gp2eRBAiM5g2-11" value="Flux method" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="529.75" y="2980" width="120" height="40" as="geometry" />
+          <mxGeometry x="319.75" y="2980" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4Gh-3FB3gp2eRBAiM5g2-15" value="`\text{number of workers seperated}/\text{average number of workeers in a year}*100`" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-330" y="3040" width="320" height="80" as="geometry" />
+          <mxGeometry x="-540" y="3040" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4Gh-3FB3gp2eRBAiM5g2-17" value="`\text{number of workers replaced}/\text{average number of workeers in a year}*100`" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="10" y="3040" width="320" height="80" as="geometry" />
+          <mxGeometry x="-200" y="3040" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4Gh-3FB3gp2eRBAiM5g2-19" value="`\text{number of workers replaced + number of workers seperated}/\text{average number of workeers in a year}*100`" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="350" y="3040" width="479.5" height="80" as="geometry" />
+          <mxGeometry x="140" y="3040" width="479.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="z-59XEyfP9iaRcQ-5U2--2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="z-59XEyfP9iaRcQ-5U2--1" target="h90uzLbG_IrZYUISlAX0-95" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -438,16 +441,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="z-59XEyfP9iaRcQ-5U2--5" value="Flux method" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1040.12" y="2980" width="120" height="40" as="geometry" />
+          <mxGeometry x="830.1199999999999" y="2980" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="z-59XEyfP9iaRcQ-5U2--10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="z-59XEyfP9iaRcQ-5U2--6" target="z-59XEyfP9iaRcQ-5U2--9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="z-59XEyfP9iaRcQ-5U2--6" value="employees newly recruited on account of expansion of an organization, are not considered for calculation of employee turnover. In this case use this formula" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="920.1199999999999" y="3040" width="360" height="50" as="geometry" />
+          <mxGeometry x="710.1199999999999" y="3040" width="360" height="50" as="geometry" />
         </mxCell>
         <mxCell id="z-59XEyfP9iaRcQ-5U2--9" value="&lt;div&gt;`\text{No. of Separation+ No. of Replacements+No. of new Joinings}/\text{Avg. no. of employees during the period on roll}*100`&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;`\text{No. of Separations+No. of Accessions}/\text{Average no. of employees during the period on roll}*100`&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="850.25" y="3110" width="499.75" height="150" as="geometry" />
+          <mxGeometry x="640.25" y="3110" width="499.75" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="3-6Nx52u8A8c99mfQjMN-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="3-6Nx52u8A8c99mfQjMN-2" target="3-6Nx52u8A8c99mfQjMN-3" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3-6Nx52u8A8c99mfQjMN-2" value="Employee turnover due to new recruitment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="2980" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3-6Nx52u8A8c99mfQjMN-3" value="`\text{Number of new employees&amp;nbsp; joining in a period (excluding replacements)}/\text{average number of workeers in a year}*100`" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="3040" width="500" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
