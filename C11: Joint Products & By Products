@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-02T19:56:20.967Z" agent="5.0 (X11)" etag="WeuGUsUzcLTa_1FVfLhg" version="15.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-02T19:56:27.567Z" agent="5.0 (X11)" etag="d0EwTjfv74iXsyq73bv9" version="15.6.5" type="github">
   <diagram id="UWICeHr6ZDEATF-23XNl" name="Page-1">
     <mxGraphModel dx="3066" dy="1924" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -980,7 +980,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8MjsYDdlo1iAUD5zqGCD-1" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Be every careful with the output&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;There are two outputs&lt;/div&gt;&lt;div&gt;1. output as at split off point&lt;/div&gt;&lt;div&gt;2. output post processing&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;While apportioning Joint cost use output as at split off point&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;any calculation after that use output post separation&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="-80" width="360" height="160" as="geometry" />
+          <mxGeometry x="440" width="360" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
