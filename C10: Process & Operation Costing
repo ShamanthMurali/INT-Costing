@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-02T11:25:07.293Z" agent="5.0 (X11)" etag="-YWeRIulKAncwDRyndcu" version="15.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-02T11:25:22.949Z" agent="5.0 (X11)" etag="eK-eqKQm-MJZ-OlYZMUU" version="15.6.5" type="github">
   <diagram id="ocTq6IIBuFIYfBx2nCKz" name="Page-1">
     <mxGraphModel dx="1958" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -248,7 +248,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aa3KaW-MaTIVkjx7iIvp-1" value="&lt;div&gt;&lt;font color=&quot;#007FFF&quot;&gt;&lt;b&gt;note1&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;If material input is given in question use that&lt;/div&gt;&lt;div&gt;if it is not given then it shall be found out by balfig&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-350" y="220" width="250" height="80" as="geometry" />
+          <mxGeometry x="-300" y="250" width="250" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hDHd4E6K3PHf-t56-nUm-33" value="CY&#39;s Production% + Already completed% = 100%" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-240" y="1160" width="280" height="40" as="geometry" />
