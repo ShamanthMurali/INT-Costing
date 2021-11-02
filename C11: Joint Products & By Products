@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-02T18:15:24.785Z" agent="5.0 (X11)" etag="8jAu8ED1wI37yGkYhszs" version="15.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-02T18:15:33.229Z" agent="5.0 (X11)" etag="cY459qmWKCBN6nLZJiiv" version="15.6.5" type="github">
   <diagram id="UWICeHr6ZDEATF-23XNl" name="Page-1">
-    <mxGraphModel dx="2656" dy="1689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="5906" dy="2748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -218,7 +218,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="d5uJmmV6PoyWCjnkJSwq-55" value="Contribution Margin method" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2302.5" y="245" width="120" height="40" as="geometry" />
+          <mxGeometry x="2180" y="245" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HtygXLV6Z1QT9NGDERmY-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=default;" edge="1" parent="1" source="84rR6MBU_dUFpRQYSPg8-1" target="HtygXLV6Z1QT9NGDERmY-67">
           <mxGeometry relative="1" as="geometry" />
@@ -818,7 +818,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HtygXLV6Z1QT9NGDERmY-161" value="&lt;div&gt;In this method Variable portion of the joint cost will be apportioned in the ratio of physical units&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Fixed portion of the joint cost will be apportioned in the ratio of contribution ration&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=default;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="2162.5" y="305" width="400" height="80" as="geometry" />
+          <mxGeometry x="2040" y="305" width="400" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HtygXLV6Z1QT9NGDERmY-187" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=default;" edge="1" parent="1" source="HtygXLV6Z1QT9NGDERmY-166" target="HtygXLV6Z1QT9NGDERmY-167">
           <mxGeometry relative="1" as="geometry" />
@@ -869,7 +869,7 @@
           <mxGeometry x="1220" y="15" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HtygXLV6Z1QT9NGDERmY-188" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontColor=default;strokeColor=default;fillColor=default;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="2223" y="405" width="278" height="275" as="geometry" />
+          <mxGeometry x="2100.5" y="405" width="278" height="275" as="geometry" />
         </mxCell>
         <mxCell id="HtygXLV6Z1QT9NGDERmY-189" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=default;strokeColor=default;verticalAlign=middle;" vertex="1" parent="HtygXLV6Z1QT9NGDERmY-188">
           <mxGeometry width="278" height="40" as="geometry" />
