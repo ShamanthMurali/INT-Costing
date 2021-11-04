@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-04T20:18:23.126Z" agent="5.0 (X11)" etag="YxY8g6xbj45IxutoP2O7" version="15.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-04T22:49:22.965Z" agent="5.0 (X11)" etag="5EG_ATvYbVdvMYH_Srfz" version="15.6.8" type="github">
   <diagram id="WG86wMdVv_8woFvAjSbu" name="Page-1">
-    <mxGraphModel dx="2110" dy="1693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1958" dy="1543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -156,18 +156,21 @@
         </mxCell>
         <mxCell id="aX0P_qG3oFBIW0Vp3PF0-154" value="&lt;div&gt;Labour Yeild&lt;br&gt;&lt;/div&gt;&lt;div&gt;variance&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="700" y="740" width="120" height="40" as="geometry">
-            <mxRectangle x="740" y="900" width="310" height="300" as="alternateBounds" />
+            <mxRectangle x="700" y="740" width="310" height="300" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aX0P_qG3oFBIW0Vp3PF0-155" value="which arises due to productivity of workers" style="rounded=0;whiteSpace=wrap;html=1;" parent="aX0P_qG3oFBIW0Vp3PF0-154" vertex="1">
           <mxGeometry y="40" width="310" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="aX0P_qG3oFBIW0Vp3PF0-156" value="Labour Yield Variance Or Sub-Efficiency Variance = &lt;br&gt;&amp;nbsp;[Standard&amp;nbsp; Cost&amp;nbsp; of&amp;nbsp; Standard&amp;nbsp; Time&amp;nbsp; for&amp;nbsp; Actual&amp;nbsp; Production&amp;nbsp; –&amp;nbsp; Standard&amp;nbsp; Cost&amp;nbsp; of &lt;br&gt;Actual Time Worked in Standard Proportion] &lt;br&gt;Or &lt;br&gt;Std. Rate (SR) × {Std. Hours (SH) – Revised Std. Hours (RSH)} &lt;br&gt;Or &lt;br&gt;[(SH × SR) – (RSH × SR)] &lt;br&gt;(The difference between the Standard Hours specified for actual production and &lt;br&gt;Actual Hours worked in standard proportion, at Standard Rate)." style="rounded=0;whiteSpace=wrap;html=1;" parent="aX0P_qG3oFBIW0Vp3PF0-154" vertex="1">
+        <mxCell id="aX0P_qG3oFBIW0Vp3PF0-156" value="&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Labour Yield Variance Or Sub-Efficiency Variance = &lt;/div&gt;&amp;nbsp;[Standard&amp;nbsp; Cost&amp;nbsp; of&amp;nbsp; Standard&amp;nbsp; Time&amp;nbsp; for&amp;nbsp; Actual&amp;nbsp; Production&amp;nbsp; –&amp;nbsp; Standard&amp;nbsp; Cost&amp;nbsp; of &lt;br&gt;Actual Time Worked in Standard Proportion] &lt;br&gt;Or &lt;br&gt;Std. Rate (SR) × {Std. Hours (SH) – Revised Std. Hours (RSH)} &lt;br&gt;Or &lt;br&gt;[(SH × SR) – (RSH × SR)] &lt;br&gt;(The difference between the Standard Hours specified for actual production and &lt;br&gt;Actual Hours worked in standard proportion, at Standard Rate)." style="rounded=0;whiteSpace=wrap;html=1;" parent="aX0P_qG3oFBIW0Vp3PF0-154" vertex="1">
           <mxGeometry y="80" width="310" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="peHT0Jl-DG7GtOWvIczS-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/function_icon_set/circle_green.png" vertex="1" parent="aX0P_qG3oFBIW0Vp3PF0-154">
+          <mxGeometry x="145" y="90" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="aX0P_qG3oFBIW0Vp3PF0-151" value="Idle time variance " style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="560" y="740" width="120" height="40" as="geometry">
-            <mxRectangle x="265" y="880" width="310" height="300" as="alternateBounds" />
+            <mxRectangle x="560" y="740" width="310" height="300" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aX0P_qG3oFBIW0Vp3PF0-152" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="aX0P_qG3oFBIW0Vp3PF0-151" vertex="1">
@@ -178,14 +181,17 @@
         </mxCell>
         <mxCell id="aX0P_qG3oFBIW0Vp3PF0-148" value="Labour mix variance" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="420" y="740" width="120" height="40" as="geometry">
-            <mxRectangle x="420" y="740" width="310" height="300" as="alternateBounds" />
+            <mxRectangle x="420" y="740" width="310" height="330" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aX0P_qG3oFBIW0Vp3PF0-149" value="variance which arises due to change in the mix or &lt;br&gt;combination&amp;nbsp; of&amp;nbsp; different&amp;nbsp; skill&amp;nbsp; set" style="rounded=0;whiteSpace=wrap;html=1;" parent="aX0P_qG3oFBIW0Vp3PF0-148" vertex="1">
           <mxGeometry y="40" width="310" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="aX0P_qG3oFBIW0Vp3PF0-150" value="Labour Mix Variance Or Gang Variance = &lt;br&gt;[Standard Cost of Actual Time Worked in Standard Proportion – Standard Cost &lt;br&gt;of Actual Time Worked] &lt;br&gt;Or &lt;br&gt;Std. Rate (SR) × {Revised Std. Hours (RSH) – Actual HoursWorked (AH)} &lt;br&gt;Or &lt;br&gt;[(RSH × SR) – (AH# × SR)] &lt;br&gt;(The&amp;nbsp; difference&amp;nbsp; between&amp;nbsp; the&amp;nbsp; Actual&amp;nbsp; Hours&amp;nbsp; worked&amp;nbsp; in&amp;nbsp; standard&amp;nbsp; proportion&amp;nbsp; and &lt;br&gt;Actual Hours worked in actual proportion, at Standard Rate). " style="rounded=0;whiteSpace=wrap;html=1;" parent="aX0P_qG3oFBIW0Vp3PF0-148" vertex="1">
-          <mxGeometry y="80" width="310" height="220" as="geometry" />
+        <mxCell id="aX0P_qG3oFBIW0Vp3PF0-150" value="&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Labour Mix Variance Or Gang Variance = &lt;/div&gt;[Standard Cost of Actual Time Worked in Standard Proportion – Standard Cost &lt;br&gt;of Actual Time Worked] &lt;br&gt;Or &lt;br&gt;Std. Rate (SR) × {Revised Std. Hours (RSH) – Actual HoursWorked (AH)} &lt;br&gt;Or &lt;br&gt;[(RSH × SR) – (AH# × SR)] &lt;br&gt;(The&amp;nbsp; difference&amp;nbsp; between&amp;nbsp; the&amp;nbsp; Actual&amp;nbsp; Hours&amp;nbsp; worked&amp;nbsp; in&amp;nbsp; standard&amp;nbsp; proportion&amp;nbsp; and &lt;br&gt;Actual Hours worked in actual proportion, at Standard Rate). " style="rounded=0;whiteSpace=wrap;html=1;" parent="aX0P_qG3oFBIW0Vp3PF0-148" vertex="1">
+          <mxGeometry y="80" width="310" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="peHT0Jl-DG7GtOWvIczS-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/function_icon_set/circle_red.png" vertex="1" parent="aX0P_qG3oFBIW0Vp3PF0-148">
+          <mxGeometry x="140" y="90" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aX0P_qG3oFBIW0Vp3PF0-128" value="&lt;div&gt;Material &lt;br&gt;&lt;/div&gt;&lt;div&gt;yield variance&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="260" y="740" width="120" height="40" as="geometry">
@@ -236,6 +242,9 @@
         </mxCell>
         <mxCell id="aX0P_qG3oFBIW0Vp3PF0-144" value="Labour Rate Variance = [Standard Cost of Actual Time – Actual Cost] &lt;br&gt;Or &lt;br&gt;Actual Hours (AH*) × {Std. Rate (SR) – Actual Rate (AR)} &lt;br&gt;Or &lt;br&gt;[(SR×AH*) – (AR × AH*)] &lt;br&gt;(The difference between the&amp;nbsp; Standard Rate per hour and Actual Rate per hour &lt;br&gt;for the Actual Hours paid)" style="rounded=0;whiteSpace=wrap;html=1;" parent="aX0P_qG3oFBIW0Vp3PF0-142" vertex="1">
           <mxGeometry y="80" width="310" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="peHT0Jl-DG7GtOWvIczS-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/softwaredemo/PNG/128x128/Circle_Yellow.png" vertex="1" parent="aX0P_qG3oFBIW0Vp3PF0-142">
+          <mxGeometry x="140" y="90" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="aX0P_qG3oFBIW0Vp3PF0-121" value="&lt;div&gt;Material &lt;br&gt;&lt;/div&gt;&lt;div&gt;Usage variance&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="180" y="660" width="120" height="40" as="geometry">
@@ -1193,7 +1202,7 @@
           <mxGeometry x="970" y="310" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-z9eX4Qw6EnASyUvYW86-382" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/function_icon_set/circle_blue.png" parent="1" vertex="1">
-          <mxGeometry x="630" y="308.75" width="17.5" height="17.5" as="geometry" />
+          <mxGeometry x="790" y="307.75" width="17.5" height="17.5" as="geometry" />
         </mxCell>
         <mxCell id="-z9eX4Qw6EnASyUvYW86-383" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/softwaredemo/PNG/128x128/Circle_Yellow.png" parent="1" vertex="1">
           <mxGeometry x="1150" y="308.75" width="20" height="20" as="geometry" />
