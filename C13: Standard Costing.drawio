@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-04T16:17:01.104Z" agent="5.0 (X11)" etag="5UfK_wywzvC2oPIULTmX" version="15.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-04T16:26:37.810Z" agent="5.0 (X11)" etag="MI3xjCtoG4osQ9f_d236" version="15.6.8" type="github">
   <diagram id="WG86wMdVv_8woFvAjSbu" name="Page-1">
     <mxGraphModel dx="1898" dy="1498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -178,7 +178,7 @@
         </mxCell>
         <mxCell id="aX0P_qG3oFBIW0Vp3PF0-148" value="Labour mix variance" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="420" y="740" width="120" height="40" as="geometry">
-            <mxRectangle x="190" y="890" width="310" height="300" as="alternateBounds" />
+            <mxRectangle x="420" y="740" width="310" height="300" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aX0P_qG3oFBIW0Vp3PF0-149" value="variance which arises due to change in the mix or &lt;br&gt;combination&amp;nbsp; of&amp;nbsp; different&amp;nbsp; skill&amp;nbsp; set" style="rounded=0;whiteSpace=wrap;html=1;" parent="aX0P_qG3oFBIW0Vp3PF0-148" vertex="1">
@@ -496,7 +496,7 @@
         <mxCell id="-z9eX4Qw6EnASyUvYW86-141" value="Standard @ xxx units" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-135" y="130" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-z9eX4Qw6EnASyUvYW86-142" value="Actual @yyy units" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-z9eX4Qw6EnASyUvYW86-142" value="Actual @ yyy units" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="45" y="130" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-z9eX4Qw6EnASyUvYW86-143" value="Revised standard @ yyy units" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -741,7 +741,7 @@
         <mxCell id="-z9eX4Qw6EnASyUvYW86-198" value="Standard @ xxx &lt;u&gt;&lt;b&gt;units&lt;/b&gt;&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="495" y="130" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-z9eX4Qw6EnASyUvYW86-199" value="Actual @yyy &lt;u&gt;&lt;b&gt;units&lt;/b&gt;&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-z9eX4Qw6EnASyUvYW86-199" value="Actual @ yyy &lt;u&gt;&lt;b&gt;units&lt;/b&gt;&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="675" y="130" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-z9eX4Qw6EnASyUvYW86-200" value="Revised standard @ yyy &lt;u&gt;&lt;b&gt;units&lt;/b&gt;&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -779,6 +779,9 @@
         </mxCell>
         <mxCell id="-z9eX4Qw6EnASyUvYW86-210" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="435" y="130" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-z9eX4Qw6EnASyUvYW86-211" value="&lt;div&gt;If answer comes Positive it called &lt;u&gt;&lt;b&gt;Favorable&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;written as for example 200(F)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;if the answer comes negative it is called&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;adverse &lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Written as for example 200(A)&lt;/div&gt;&lt;div&gt;do not write like -200 or (200)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="675" y="380" width="235" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
