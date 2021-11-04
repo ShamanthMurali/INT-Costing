@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-04T18:11:22.828Z" agent="5.0 (X11)" etag="DvlOVMpMxQDjQLjKESnP" version="15.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-04T18:13:23.268Z" agent="5.0 (X11)" etag="Igbo96RcEBFtxCSWL7dI" version="15.6.8" type="github">
   <diagram id="WG86wMdVv_8woFvAjSbu" name="Page-1">
-    <mxGraphModel dx="2882" dy="1577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="3091" dy="1661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1114,6 +1114,12 @@
         </mxCell>
         <mxCell id="-z9eX4Qw6EnASyUvYW86-284" value="&lt;div&gt;Actual output &lt;br&gt;&lt;/div&gt;&lt;div&gt;@ yyy units&lt;/div&gt;&lt;div&gt;@ standard rate&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-850" y="122.5" width="180" height="57.5" as="geometry" />
+        </mxCell>
+        <mxCell id="-z9eX4Qw6EnASyUvYW86-297" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/function_icon_set/circle_blue.png" vertex="1" parent="1">
+          <mxGeometry x="-890" y="305" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="-z9eX4Qw6EnASyUvYW86-298" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/function_icon_set/circle_blue.png" vertex="1" parent="1">
+          <mxGeometry x="-1070" y="305" width="25" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
