@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-04T20:15:15.327Z" agent="5.0 (X11)" etag="LptKLwX3Zrm9sjrr_K-M" version="15.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-04T20:18:23.126Z" agent="5.0 (X11)" etag="YxY8g6xbj45IxutoP2O7" version="15.6.8" type="github">
   <diagram id="WG86wMdVv_8woFvAjSbu" name="Page-1">
     <mxGraphModel dx="2110" dy="1693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -262,9 +262,9 @@
         <mxCell id="-z9eX4Qw6EnASyUvYW86-215" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/softwaredemo/PNG/128x128/Circle_Yellow.png" parent="aX0P_qG3oFBIW0Vp3PF0-48" vertex="1">
           <mxGeometry x="160" y="80" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aX0P_qG3oFBIW0Vp3PF0-138" value="&lt;div&gt;Labour cost &lt;br&gt;&lt;/div&gt;&lt;div&gt;variance&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1">
-          <mxGeometry x="480" y="580" width="310" height="300" as="geometry">
-            <mxRectangle x="480" y="580" width="120" height="40" as="alternateBounds" />
+        <mxCell id="aX0P_qG3oFBIW0Vp3PF0-138" value="&lt;div&gt;Labour cost &lt;br&gt;&lt;/div&gt;&lt;div&gt;variance&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="480" y="580" width="120" height="40" as="geometry">
+            <mxRectangle x="480" y="580" width="310" height="300" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aX0P_qG3oFBIW0Vp3PF0-139" value="difference&amp;nbsp; between&amp;nbsp; actual&amp;nbsp; labour&amp;nbsp; cost&amp;nbsp; and &lt;br&gt;standard cost" style="rounded=0;whiteSpace=wrap;html=1;" parent="aX0P_qG3oFBIW0Vp3PF0-138" vertex="1">
