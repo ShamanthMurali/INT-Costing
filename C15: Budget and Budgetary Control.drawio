@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-05T05:39:40.108Z" agent="5.0 (X11)" etag="wQPQGCCa1IJ5TAKYbfLq" version="15.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-05T05:56:59.104Z" agent="5.0 (X11)" etag="WNwOcBEQQdeIx_DRJlFC" version="15.6.8" type="github">
   <diagram id="7xYDh08NcEi_VtG_tVV7" name="Page-1">
-    <mxGraphModel dx="1108" dy="443" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="633" dy="253" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -338,7 +338,7 @@
         <mxCell id="7W-jUXoZuzK3Gu51qgMF-116" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="7W-jUXoZuzK3Gu51qgMF-112" vertex="1">
           <mxGeometry y="110" width="360" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7W-jUXoZuzK3Gu51qgMF-117" value="&lt;div&gt;(+) `x%` of &lt;font color=&quot;#0000CC&quot;&gt;&lt;b&gt;next month&lt;/b&gt;&lt;/font&gt; to maintained as closing stock for next month &lt;br&gt;&lt;/div&gt;&lt;u&gt;&lt;b&gt;in Units&lt;/b&gt;&lt;/u&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="7W-jUXoZuzK3Gu51qgMF-116" vertex="1">
+        <mxCell id="7W-jUXoZuzK3Gu51qgMF-117" value="&lt;div&gt;(+) `x%` of &lt;font color=&quot;#0000CC&quot;&gt;&lt;b&gt;next months &lt;/b&gt;&lt;font color=&quot;#000000&quot;&gt;demand&lt;/font&gt;&lt;/font&gt; to be maintained as closing stock&lt;br&gt;&lt;/div&gt;&lt;u&gt;&lt;b&gt;in Units&lt;/b&gt;&lt;/u&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="7W-jUXoZuzK3Gu51qgMF-116" vertex="1">
           <mxGeometry width="180" height="60" as="geometry">
             <mxRectangle width="180" height="60" as="alternateBounds" />
           </mxGeometry>
