@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-07T16:45:11.528Z" agent="5.0 (X11)" etag="eVH11WLYFf9JttYlOV-S" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-07T17:02:44.849Z" agent="5.0 (X11)" etag="Gjw0oKs3I1DQPhEbDLaH" version="15.7.0" type="github">
   <diagram id="WG86wMdVv_8woFvAjSbu" name="Page-1">
-    <mxGraphModel dx="1958" dy="1693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2104" dy="1693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -257,8 +257,8 @@
         <mxCell id="aX0P_qG3oFBIW0Vp3PF0-123" value="&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Material&amp;nbsp; Usage&amp;nbsp; Variance&amp;nbsp; =&amp;nbsp; [Standard&amp;nbsp; Cost&amp;nbsp; of&amp;nbsp; Standard&amp;nbsp; Quantity&amp;nbsp; for&amp;nbsp; Actual &amp;nbsp;&lt;/div&gt;&amp;nbsp;Production – Standard Cost of Actual Quantity*] &lt;br&gt;Or &lt;br&gt;Std. Price (SP)× {Std. Quantity (SQ) - Actual Quantity (AQ)} &lt;br&gt;Or &lt;br&gt;&lt;div&gt;[(SQ × SP) – (AQ × SP)] &lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(The difference between the Standard Quantity specified for actual production&amp;nbsp; and the Actual Quantity used, at Standard Price)&lt;/div&gt;&lt;div&gt;*Here actual quantity means actual quantity of material used.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="aX0P_qG3oFBIW0Vp3PF0-121" vertex="1">
           <mxGeometry y="80" width="310" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="gm9h0Pe-SzjijaafBpV6-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/function_icon_set/circle_orange.png" vertex="1" parent="aX0P_qG3oFBIW0Vp3PF0-121">
-          <mxGeometry x="131" y="80" width="48" height="48" as="geometry" />
+        <mxCell id="gm9h0Pe-SzjijaafBpV6-11" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/softwaredemo/PNG/128x128/Circle_Orange.png" vertex="1" parent="aX0P_qG3oFBIW0Vp3PF0-121">
+          <mxGeometry x="135" y="80" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aX0P_qG3oFBIW0Vp3PF0-48" value="&lt;div&gt;Material price&lt;/div&gt;&lt;div&gt;variance&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="10" y="660" width="120" height="40" as="geometry">
@@ -611,25 +611,25 @@
           <mxGeometry x="190" y="310" width="17.5" height="17.5" as="geometry" />
         </mxCell>
         <mxCell id="-z9eX4Qw6EnASyUvYW86-299" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/softwaredemo/PNG/128x128/Circle_Yellow.png" parent="1" vertex="1">
-          <mxGeometry x="170" y="310" width="20" height="20" as="geometry" />
+          <mxGeometry x="368" y="310" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-z9eX4Qw6EnASyUvYW86-300" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/function_icon_set/circle_blue.png" parent="1" vertex="1">
-          <mxGeometry x="-10" y="308.75" width="17.5" height="17.5" as="geometry" />
+          <mxGeometry x="-170" y="308.75" width="17.5" height="17.5" as="geometry" />
         </mxCell>
         <mxCell id="-z9eX4Qw6EnASyUvYW86-301" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/softwaredemo/PNG/128x128/Circle_Yellow.png" parent="1" vertex="1">
-          <mxGeometry x="350" y="308.75" width="20" height="20" as="geometry" />
+          <mxGeometry x="170" y="310" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-z9eX4Qw6EnASyUvYW86-302" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/function_icon_set/circle_red.png" parent="1" vertex="1">
-          <mxGeometry x="7.5" y="307.5" width="18" height="18" as="geometry" />
+          <mxGeometry x="350" y="312" width="18" height="18" as="geometry" />
         </mxCell>
         <mxCell id="-z9eX4Qw6EnASyUvYW86-303" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/function_icon_set/circle_red.png" parent="1" vertex="1">
-          <mxGeometry x="370" y="307" width="18" height="18" as="geometry" />
+          <mxGeometry x="-8" y="309" width="18" height="18" as="geometry" />
         </mxCell>
         <mxCell id="-z9eX4Qw6EnASyUvYW86-304" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/function_icon_set/circle_green.png" parent="1" vertex="1">
-          <mxGeometry x="-190" y="307.5" width="20" height="20" as="geometry" />
+          <mxGeometry x="-190" y="311" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-z9eX4Qw6EnASyUvYW86-305" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/function_icon_set/circle_green.png" parent="1" vertex="1">
-          <mxGeometry x="25.5" y="307.75" width="20" height="20" as="geometry" />
+          <mxGeometry x="10" y="311" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-z9eX4Qw6EnASyUvYW86-151" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="-z9eX4Qw6EnASyUvYW86-312" target="-z9eX4Qw6EnASyUvYW86-149" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -994,12 +994,6 @@
         <mxCell id="-z9eX4Qw6EnASyUvYW86-393" value="&amp;nbsp; " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="680" y="317.5" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="gm9h0Pe-SzjijaafBpV6-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/function_icon_set/circle_orange.png" vertex="1" parent="1">
-          <mxGeometry y="325.5" width="21.25" height="21.25" as="geometry" />
-        </mxCell>
-        <mxCell id="gm9h0Pe-SzjijaafBpV6-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/function_icon_set/circle_orange.png" vertex="1" parent="1">
-          <mxGeometry x="388.75" y="307.12" width="21.25" height="21.25" as="geometry" />
-        </mxCell>
         <mxCell id="gm9h0Pe-SzjijaafBpV6-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gm9h0Pe-SzjijaafBpV6-5" target="-z9eX4Qw6EnASyUvYW86-312">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -1011,6 +1005,12 @@
         </mxCell>
         <mxCell id="gm9h0Pe-SzjijaafBpV6-8" value="&amp;nbsp; " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-300" y="280" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gm9h0Pe-SzjijaafBpV6-12" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/softwaredemo/PNG/128x128/Circle_Orange.png" vertex="1" parent="1">
+          <mxGeometry x="388" y="310" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gm9h0Pe-SzjijaafBpV6-13" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/softwaredemo/PNG/128x128/Circle_Orange.png" vertex="1" parent="1">
+          <mxGeometry x="-152.5" y="310" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
