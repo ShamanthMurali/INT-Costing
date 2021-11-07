@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-07T16:23:10.064Z" agent="5.0 (X11)" etag="pd5q2zeTcn5q6KxhCH2C" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-07T16:39:07.042Z" agent="5.0 (X11)" etag="V69hYgOYqDw-waxnc_9X" version="15.7.0" type="github">
   <diagram id="WG86wMdVv_8woFvAjSbu" name="Page-1">
-    <mxGraphModel dx="1773" dy="1594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1958" dy="1693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -248,14 +248,17 @@
         </mxCell>
         <mxCell id="aX0P_qG3oFBIW0Vp3PF0-121" value="&lt;div&gt;Material &lt;br&gt;&lt;/div&gt;&lt;div&gt;Usage variance&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="180" y="660" width="120" height="40" as="geometry">
-            <mxRectangle x="180" y="660" width="310" height="300" as="alternateBounds" />
+            <mxRectangle x="180" y="660" width="310" height="360" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aX0P_qG3oFBIW0Vp3PF0-122" value="It measures variance in material cost due to usage / consumption of materials." style="rounded=0;whiteSpace=wrap;html=1;" parent="aX0P_qG3oFBIW0Vp3PF0-121" vertex="1">
           <mxGeometry y="40" width="310" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="aX0P_qG3oFBIW0Vp3PF0-123" value="Material&amp;nbsp; Usage&amp;nbsp; Variance&amp;nbsp; =&amp;nbsp; [Standard&amp;nbsp; Cost&amp;nbsp; of&amp;nbsp; Standard&amp;nbsp; Quantity&amp;nbsp; for&amp;nbsp; Actual &amp;nbsp;&lt;br&gt;&amp;nbsp;Production – Standard Cost of Actual Quantity*] &lt;br&gt;Or &lt;br&gt;Std. Price (SP)× {Std. Quantity (SQ) - Actual Quantity (AQ)} &lt;br&gt;Or &lt;br&gt;&lt;div&gt;[(SQ × SP) – (AQ × SP)] &lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(The difference between the Standard Quantity specified for actual production&amp;nbsp; and the Actual Quantity used, at Standard Price)&lt;/div&gt;&lt;div&gt;*Here actual quantity means actual quantity of material used.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="aX0P_qG3oFBIW0Vp3PF0-121" vertex="1">
-          <mxGeometry y="80" width="310" height="220" as="geometry" />
+        <mxCell id="aX0P_qG3oFBIW0Vp3PF0-123" value="&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Material&amp;nbsp; Usage&amp;nbsp; Variance&amp;nbsp; =&amp;nbsp; [Standard&amp;nbsp; Cost&amp;nbsp; of&amp;nbsp; Standard&amp;nbsp; Quantity&amp;nbsp; for&amp;nbsp; Actual &amp;nbsp;&lt;/div&gt;&amp;nbsp;Production – Standard Cost of Actual Quantity*] &lt;br&gt;Or &lt;br&gt;Std. Price (SP)× {Std. Quantity (SQ) - Actual Quantity (AQ)} &lt;br&gt;Or &lt;br&gt;&lt;div&gt;[(SQ × SP) – (AQ × SP)] &lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(The difference between the Standard Quantity specified for actual production&amp;nbsp; and the Actual Quantity used, at Standard Price)&lt;/div&gt;&lt;div&gt;*Here actual quantity means actual quantity of material used.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="aX0P_qG3oFBIW0Vp3PF0-121" vertex="1">
+          <mxGeometry y="80" width="310" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="gm9h0Pe-SzjijaafBpV6-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/function_icon_set/circle_orange.png" vertex="1" parent="aX0P_qG3oFBIW0Vp3PF0-121">
+          <mxGeometry x="131" y="80" width="48" height="48" as="geometry" />
         </mxCell>
         <mxCell id="aX0P_qG3oFBIW0Vp3PF0-48" value="&lt;div&gt;Material price&lt;/div&gt;&lt;div&gt;variance&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="10" y="660" width="120" height="40" as="geometry">
@@ -990,6 +993,24 @@
         </mxCell>
         <mxCell id="-z9eX4Qw6EnASyUvYW86-393" value="&amp;nbsp; " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="680" y="317.5" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gm9h0Pe-SzjijaafBpV6-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/function_icon_set/circle_orange.png" vertex="1" parent="1">
+          <mxGeometry y="325.5" width="21.25" height="21.25" as="geometry" />
+        </mxCell>
+        <mxCell id="gm9h0Pe-SzjijaafBpV6-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/function_icon_set/circle_orange.png" vertex="1" parent="1">
+          <mxGeometry x="388.75" y="307.12" width="21.25" height="21.25" as="geometry" />
+        </mxCell>
+        <mxCell id="gm9h0Pe-SzjijaafBpV6-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gm9h0Pe-SzjijaafBpV6-5" target="-z9eX4Qw6EnASyUvYW86-312">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gm9h0Pe-SzjijaafBpV6-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gm9h0Pe-SzjijaafBpV6-5" target="gm9h0Pe-SzjijaafBpV6-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gm9h0Pe-SzjijaafBpV6-5" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Be very careful&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;for example as per standard 1 unit of FG we need 40 units of mat A and 60 units of mat B&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;And our actual production was 10 units of FG&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Then you have to convert the Std to 10 i.e 40 x 10 = 400.&lt;/div&gt;&lt;div&gt;60 x 10 =600&lt;/div&gt;&lt;div&gt;and then put it in the table.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;the cross multiplication you see inside the table if for the proportion of material used. it is different and don&#39;t get confused&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-680" y="165" width="270" height="225" as="geometry" />
+        </mxCell>
+        <mxCell id="gm9h0Pe-SzjijaafBpV6-8" value="&amp;nbsp; " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="280" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
