@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-02T08:55:26.998Z" agent="5.0 (X11)" etag="GOWQUduXVheuk5dD7FCl" version="15.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-30T13:20:13.758Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50" etag="JMSwiXl5t2leGsQCUxc9" version="17.5.0" type="github">
   <diagram id="GOxRQG52BLzfjsSn52JL" name="Page-1">
-    <mxGraphModel dx="1908" dy="1594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1958" dy="1620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,7 +28,7 @@
         <mxCell id="Dl6Ypy2TrkPQvykaXqpO-26" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Dl6Ypy2TrkPQvykaXqpO-20" vertex="1">
           <mxGeometry y="50" width="440" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="Dl6Ypy2TrkPQvykaXqpO-27" value="&lt;div&gt;To GLC a/c&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;Raw materials purchased&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;To WIPLC&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;RM returned by WIP&lt;/font&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" parent="Dl6Ypy2TrkPQvykaXqpO-26" vertex="1">
+        <mxCell id="Dl6Ypy2TrkPQvykaXqpO-27" value="&lt;div&gt;To b/d&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;To GLC a/c&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;Raw materials purchased&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;To WIPLC&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;RM returned by WIP&lt;/font&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" parent="Dl6Ypy2TrkPQvykaXqpO-26" vertex="1">
           <mxGeometry width="160" height="260" as="geometry" />
         </mxCell>
         <mxCell id="Dl6Ypy2TrkPQvykaXqpO-28" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Dl6Ypy2TrkPQvykaXqpO-26" vertex="1">
@@ -61,7 +61,7 @@
         <mxCell id="Dl6Ypy2TrkPQvykaXqpO-44" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Dl6Ypy2TrkPQvykaXqpO-38" vertex="1">
           <mxGeometry y="50" width="440" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="Dl6Ypy2TrkPQvykaXqpO-45" value="&lt;div align=&quot;left&quot;&gt;To SLC&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;RM issued to production&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;To WC&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;Wages OH absorbed&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;To FOC&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;Factory OH absorbed&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" parent="Dl6Ypy2TrkPQvykaXqpO-44" vertex="1">
+        <mxCell id="Dl6Ypy2TrkPQvykaXqpO-45" value="&lt;div align=&quot;left&quot;&gt;To b/d&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;To SLC&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;RM issued to production&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;To WC&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;Wages OH absorbed&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;To FOC&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;Factory OH absorbed&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" parent="Dl6Ypy2TrkPQvykaXqpO-44" vertex="1">
           <mxGeometry width="160" height="180" as="geometry" />
         </mxCell>
         <mxCell id="Dl6Ypy2TrkPQvykaXqpO-46" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Dl6Ypy2TrkPQvykaXqpO-44" vertex="1">
@@ -94,7 +94,7 @@
         <mxCell id="Dl6Ypy2TrkPQvykaXqpO-55" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Dl6Ypy2TrkPQvykaXqpO-49" vertex="1">
           <mxGeometry y="50" width="440" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="Dl6Ypy2TrkPQvykaXqpO-56" value="&lt;div align=&quot;left&quot;&gt;To WIPLC&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;wip t/f to FG&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;div align=&quot;left&quot;&gt;To COS&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;Sales Return&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;To AOC&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;Admin OH absorbed&lt;/font&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" parent="Dl6Ypy2TrkPQvykaXqpO-55" vertex="1">
+        <mxCell id="Dl6Ypy2TrkPQvykaXqpO-56" value="&lt;div align=&quot;left&quot;&gt;To b/d&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;To WIPLC&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;wip t/f to FG&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;div align=&quot;left&quot;&gt;To COS&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;Sales Return&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;To AOC&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;Admin OH absorbed&lt;/font&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" parent="Dl6Ypy2TrkPQvykaXqpO-55" vertex="1">
           <mxGeometry width="160" height="180" as="geometry" />
         </mxCell>
         <mxCell id="Dl6Ypy2TrkPQvykaXqpO-57" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Dl6Ypy2TrkPQvykaXqpO-55" vertex="1">
@@ -338,37 +338,53 @@
           <mxGeometry x="380" width="60" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Dl6Ypy2TrkPQvykaXqpO-174" value="General Ledger account (GLC) a.k.a. Cost ledger account" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="200" y="-340" width="440" height="360.0000000000002" as="geometry" />
+          <mxGeometry x="200" y="-340" width="440" height="380.0000000000002" as="geometry" />
         </mxCell>
         <mxCell id="Dl6Ypy2TrkPQvykaXqpO-175" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Dl6Ypy2TrkPQvykaXqpO-174" vertex="1">
           <mxGeometry y="30" width="440" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Dl6Ypy2TrkPQvykaXqpO-176" value="Particulars" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Dl6Ypy2TrkPQvykaXqpO-175" vertex="1">
-          <mxGeometry width="160" height="20" as="geometry" />
+          <mxGeometry width="160" height="20" as="geometry">
+            <mxRectangle width="160" height="20" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Dl6Ypy2TrkPQvykaXqpO-177" value="Amt" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Dl6Ypy2TrkPQvykaXqpO-175" vertex="1">
-          <mxGeometry x="160" width="60" height="20" as="geometry" />
+          <mxGeometry x="160" width="60" height="20" as="geometry">
+            <mxRectangle width="60" height="20" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Dl6Ypy2TrkPQvykaXqpO-178" value="Particulars" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Dl6Ypy2TrkPQvykaXqpO-175" vertex="1">
-          <mxGeometry x="220" width="160" height="20" as="geometry" />
+          <mxGeometry x="220" width="160" height="20" as="geometry">
+            <mxRectangle width="160" height="20" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Dl6Ypy2TrkPQvykaXqpO-179" value="Amt" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Dl6Ypy2TrkPQvykaXqpO-175" vertex="1">
-          <mxGeometry x="380" width="60" height="20" as="geometry" />
+          <mxGeometry x="380" width="60" height="20" as="geometry">
+            <mxRectangle width="60" height="20" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Dl6Ypy2TrkPQvykaXqpO-180" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Dl6Ypy2TrkPQvykaXqpO-174" vertex="1">
-          <mxGeometry y="50" width="440" height="310" as="geometry" />
+          <mxGeometry y="50" width="440" height="330" as="geometry" />
         </mxCell>
         <mxCell id="Dl6Ypy2TrkPQvykaXqpO-181" value="&lt;div align=&quot;left&quot;&gt;To SLC&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;Raw materials returned&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;To sales&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;sales&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;To costing P/L&lt;/div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;if Loss&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" parent="Dl6Ypy2TrkPQvykaXqpO-180" vertex="1">
-          <mxGeometry width="160" height="310" as="geometry" />
+          <mxGeometry width="160" height="330" as="geometry">
+            <mxRectangle width="160" height="330" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Dl6Ypy2TrkPQvykaXqpO-182" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;PPP&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Dl6Ypy2TrkPQvykaXqpO-180" vertex="1">
-          <mxGeometry x="160" width="60" height="310" as="geometry" />
+          <mxGeometry x="160" width="60" height="330" as="geometry">
+            <mxRectangle width="60" height="330" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="Dl6Ypy2TrkPQvykaXqpO-183" value="&lt;div align=&quot;left&quot;&gt;By SLC a/c&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;Raw materials purchased&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;By WC&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;Direct wages paid&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div align=&quot;left&quot;&gt;By WC&lt;br&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;Indirect wages paid&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div align=&quot;left&quot;&gt;By FOC&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;Factory OH incured&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;by AOC&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;Admin OH incurred&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;by SOC&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;Selling OH incurred&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;By costing P/L&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;if profit&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" parent="Dl6Ypy2TrkPQvykaXqpO-180" vertex="1">
-          <mxGeometry x="220" width="160" height="310" as="geometry" />
+        <mxCell id="Dl6Ypy2TrkPQvykaXqpO-183" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;By b/d&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;By SLC a/c&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;Raw materials purchased&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;By WC&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;Direct wages paid&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div align=&quot;left&quot;&gt;By WC&lt;br&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;Indirect wages paid&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div align=&quot;left&quot;&gt;By FOC&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;Factory OH incured&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;by AOC&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;Admin OH incurred&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;by SOC&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;Selling OH incurred&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;By costing P/L&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;if profit&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" parent="Dl6Ypy2TrkPQvykaXqpO-180" vertex="1">
+          <mxGeometry x="220" width="160" height="330" as="geometry">
+            <mxRectangle width="160" height="330" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Dl6Ypy2TrkPQvykaXqpO-184" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;PPP&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Dl6Ypy2TrkPQvykaXqpO-180" vertex="1">
-          <mxGeometry x="380" width="60" height="310" as="geometry" />
+          <mxGeometry x="380" width="60" height="330" as="geometry">
+            <mxRectangle width="60" height="330" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Dl6Ypy2TrkPQvykaXqpO-186" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://imgur.com/Ni1Eh5h.png;" parent="1" vertex="1">
           <mxGeometry x="1680" y="-74.5" width="520" height="358" as="geometry" />
@@ -395,7 +411,7 @@
           <mxGeometry x="760" y="190" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Dl6Ypy2TrkPQvykaXqpO-194" value="&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="200" y="215" width="40" height="20" as="geometry" />
+          <mxGeometry x="200" y="230" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Dl6Ypy2TrkPQvykaXqpO-196" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Dl6Ypy2TrkPQvykaXqpO-195" target="Dl6Ypy2TrkPQvykaXqpO-194" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -410,7 +426,7 @@
           <mxGeometry x="160" y="570" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Dl6Ypy2TrkPQvykaXqpO-198" value="&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="210" y="270" width="40" height="20" as="geometry" />
+          <mxGeometry x="210" y="280" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Dl6Ypy2TrkPQvykaXqpO-202" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Dl6Ypy2TrkPQvykaXqpO-200" target="Dl6Ypy2TrkPQvykaXqpO-201" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -419,7 +435,7 @@
           <mxGeometry x="720" y="550" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Dl6Ypy2TrkPQvykaXqpO-201" value="&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="770" y="270" width="40" height="20" as="geometry" />
+          <mxGeometry x="770" y="280" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Dl6Ypy2TrkPQvykaXqpO-203" value="&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1020" y="215" width="40" height="20" as="geometry" />
@@ -482,7 +498,7 @@
         <mxCell id="Dl6Ypy2TrkPQvykaXqpO-218" value="&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="440" y="1220" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="RVTjjq6A_aLfX6tpQUTa-1" value="&lt;u&gt;&lt;b&gt;Important note&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;If there is a closing debit balance(i.e. by c/d) for any of the OH account then it is called under recovery and should be debited to costing P/L&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RVTjjq6A_aLfX6tpQUTa-1" value="&lt;u&gt;&lt;b&gt;Important note&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;If there is a closing debit balance(i.e. by c/d) for any of the OH account then it is called under recovery and should be debited to costing P/L&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-680" y="760" width="400" height="70" as="geometry" />
         </mxCell>
       </root>
